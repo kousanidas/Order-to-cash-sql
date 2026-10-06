@@ -1,0 +1,27 @@
+check                                      verdict   actual
+------------------------------------------------------------------------------------------------------------------------
+01 row counts                              PASS      register 625, quotations 326, orders 397, dispatches 583, invoices 583, payments 702
+02 rows per product line                   PASS      Grating 144, Pressure Vessel 204, Pultrusion 277
+03 orphaned foreign keys                   PASS      0 orphans
+04 dispatch on or after PO date            PASS      0 dispatches before their own PO
+05 invoice date = dispatch date            PASS      0 mismatches
+06a quote <= PO (modelled tables)          PASS      0 of 161 quoted orders have a PO before the quote
+06b quote <= PO (raw register)             EXPECTED  1 register rows with a quote date after the PO
+07 invoice value = dispatched qty x price  PASS      0 of 583 invoices out of tolerance
+08 GST by market                           PASS      Deemed Export INR 18.0%, Domestic INR 18.0%, Export USD 0.0%
+09 FX rate by currency                     PASS      0 invoices with the wrong FX rate
+10 job numbers unique and banded           PASS      384 job numbers, 384 distinct, 6 bands, 96.1% in 10xxx
+11 payments do not exceed the invoice      PASS      0 invoices paid more than billed
+12 payment timing                          PASS      0 non-advance payments before their invoice
+13 dispatched quantities sane              PASS      0 non-positive, 0 over-shipped
+14 cancelled orders never ship             PASS      0 cancelled orders with a dispatch
+15 OTIF in range                           PASS      OTIF 58.5% on 354 orders due (on time 61.0%, in full 91.2%)
+16 orders without a quotation              PASS      59.4% of orders have no quotation
+17 register still carries its faults       EXPECTED  6 free-text DP, 1 impossible date, 1 wrong year, 57 status words in quote_no
+18 no invented vocabulary                  PASS      0 Verbally Confirmed, 0 Closed/Not Received, 0 Appl:Y
+18b identity columns within allowlist      PASS      0 value(s) outside the allowlist
+19 status mapping is complete              PASS      0 unmapped, 25 wordings collapsed to 10 states
+20 cleaning log written                    PASS      21 entries across 5 action types
+------------------------------------------------------------------------------------------------------------------------
+22 checks | 20 PASS | 2 EXPECTED | 0 FAIL
+PRAGMA foreign_key_check: 0 violations

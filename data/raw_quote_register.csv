@@ -1,0 +1,626 @@
+SL No,Party,Project,Incoterms,Quote From,Quote No.,Quote Date,Validity Date,Vertical,Category,Item,Item Qty,Inquiry,Inquiry Date,Job No,PO No,PO Date,PO Validity Date,DP Date,Status,LD,LD Clause,Payment Terms,PO / Quote Value,Concerned Person
+1,C0013,Sump Covers - Phase-2,,Kolkata,VQ/FGS/099/24-25,30-07-2024,,Internal,Pultrusion - Handrail,Pultrusion,441,Portal,09-07-2024,,,,,,Open,,,,,Ishan Kabir
+2,C0013,Filter Press Area - Phase-1,,Kolkata,,05.06.2025,,Internal,PULTRUSION,Pultrusion,37,,,10441,P8085106052,24.06.2025,,,PO Received & Delivered,,,,243506.7,Ketan Oza
+3,C0001,Scrubber Package,,Kolkata,,,,Domestic,VESSEL,Pressure Vessel,,,,10383,P8584566722,14.08.2025,,,PO Received & Delivered,,,,4584057.3,KO
+4,C0014,Brine Handling - Unit-3,EX-WORKS [FACTORY],Kolkata,VQ/FG/046/23-24,31.03.2024,,Internal,Pultruded Profiles,Pultrusion,,,,10174,P6507107442,22.07.2024,,,PO Received & Delivered,,,,246232.94,ZT
+5,C0013,RO Skid Package,EX-WORKS [FACTORY],Kolkata,VQ/FG/063/25-26,21.05.2025,,Domestic,Pultrusion,Pultrusion,,,,10399,P4680775250,,,04.07.2025,PO RECEIVED & DELIVERED,,,,232890.06,NV
+6,C0009,Scrubber Package - Site Supply,,Kolkata,,24.04.2025,,Export,VESSEL,Pressure Vessel,,,,10211,P2493660313,27.04.2025,,,PO Received & Delivered,,,,11149.61,NV
+7,C0013,Bio Tank Package - Rev-A,,Kolkata,,,,Domestic,Pultrusion,Pultrusion,,,,10367,P4572255055,22-10-2024,,,PO Received & Delivered,,,,,FQ
+8,C0001,Cable Trench Covers,,Kolkata,,2024-10-18,,,Pressure Vessel,Pressure Vessel,35,,,10001,P8604215219,06.12.2024,,,PO Received & Delivered,,,,35139.1,NV
+9,C0013,Platform Extension,Ex works,Kolkata,VQ/FG/010/25-26,02.08.2025,01.09.2025,Internal,PULTRUSION,Pultrusion,,,,10370,P4372469277,03.09.2025,,,PO RECEIVED & DELIVERED,,,,,ZT
+10,C0001,Acid Dilution Unit,EX-WORKS [FACTORY],Kolkata,Open,07-05-2024,,Domestic,Vessel,Pressure Vessel,,,,10969,P8831899893,30-04-2024,,2024-06-15,PO Received & Delivered,,,,,HN
+11,C0013,Filter Press Area - Phase-2,,Kolkata,,17-06-2026,,Internal,PULTRUSION,Pultrusion,,,,10993,P7765620342,,,,Open,,,,,Ketan Oza
+12,C0020,Tank Farm Revamp - Phase-1,FOR,Kolkata,VQ/FG/003/24-25,,25-08-2024,Domestic,GRATING,Grating,,,,10945,P9372711075,07-06-2024,,,PO Received & Delivered,,,,2951290.08,ZT
+13,C0013,Brine Handling - Phase-1,Ex-works [FACTORY],Kolkata,VQ/FG/086/24-25,09.04.2024,,,PULTRUSION,Pultrusion,31,,,,,,,,Open,,,,,HZ
+14,C0001,Sea Water Intake - Rev-A,,Kolkata,Closed,,,Domestic,FRP Vessel,Pressure Vessel,2,,,10392,P9614632998,,,,PO Received & Delivered,2025-07-01 00:00:00,,,33955.71,FQ
+15,C0013,Pickling Line Covers - Rev-A,EX-WORKS KOLKATA,Kolkata,,,,Internal,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,10983623.95,Farhan Qureshi
+16,C0013,Pickling Line Covers - Phase-1,EX-WORKS [FACTORY],Kolkata,,,,Domestic,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,62792.88,NV
+17,C0013,Scrubber Package,Ex-Works [FACTORY],Kolkata,,2024-08-14,,Domestic,Pultrusion,Pultrusion,,,,10368,P2022933267,20.08.2024,,,PO Received & Delivered,,,,,FQ
+18,C0001,Caustic Storage,,Kolkata,,2026-04-22,,External,FRP Vessel,Pressure Vessel,,,,10733,P6616661361,23-04-2026,,,Cancel,,,,4032708.77,NV
+19,C0013,Brine Handling - EPC Scope,,Kolkata,VQ/FG/031/25-26,01.03.2026,,Internal,PULTRUSION,Pultrusion,,,,10133,P1381708520,25-03-2026,,22.05.2026,PO Received & Delivered,,,,5655.67,Zubin Tandon
+20,C0020,ETP Upgradation - Package B,,Kolkata,VQ/FGS/20/24-25,,10.05.2024,Domestic,Moulded Grating,Grating,,,,10371,P1401876836,,,23-06-2024,PO Received & Delivered,,,,,KO
+21,C0001,Bio Tank Package,,Kolkata,PO received,,,External,FRP Vessel,Pressure Vessel,,,,10052,P3980840461,19.06.2024,,,PO Received & Delivered,,,,350841.02,Qamar Bhatt
+22,C0020,Scrubber Package,Ex-Works [FACTORY],Kolkata,,08.05.2025,,Domestic,GRATING,Grating,,,,10163,P9119749018,2025-05-16,,,Cancel,,,,175335.44,QB
+23,C0001,Sump Covers - Package B,Ex-Works [FACTORY],Kolkata,,,,Domestic,FRP Vessel,Pressure Vessel,,,,10138,P6790024996,,,,PO RECEIVED & DELIVERED,,,,1799233.22,Farhan Qureshi
+24,C0010,Cooling Tower Replacement,EX-WORKS KOLKATA,Kolkata,Closed,,,Export-Non-KAG,FRP Vessel,Pressure Vessel,,,,10144,P4980273734,,,19.05.2024,PO Received & Delivered,,,,128669.7,FQ
+25,C0013,Sea Water Intake - Phase-2,EX-WORKS [FACTORY],Kolkata,,,,Internal,Pultruded Profiles,Pultrusion,,,,,,,,,Closed,,,,1043241.4,Harita Nambiar
+26,C0013,Pickling Line Covers - Phase-1,EX-WORKS KOLKATA,Kolkata,VQ/FG/135/24-25,14.05.2024,,Internal,PULTRUSION,Pultrusion,45,,,,,,,,Not Received,,,,,ZT
+27,C0001,Platform Extension - EPC Scope,,Kolkata,,04.01.2026,,Domestic,FRP Pressure Vessel,Pressure Vessel,,,,10012,P9609047368,05.01.2026,,,PO Received & Delivered,,,,1444121.18,NV
+28,C0001,Acid Dilution Unit - Rev-A,,Kolkata,,,,External,Pressure Vessel,Pressure Vessel,,,,10556,P8363225516,,,25.11.2027,OPEN,,,,3605280.7,Ishan Kabir
+29,C0013,Pickling Line Covers - Unit-3,,Kolkata,VQ/FG/23/25-26,17-11-2025,,Internal,Pultrusion,Pultrusion,,,,10176,P7403618535,10.12.2025,,,PO Received & Delivered,,,,,Zubin Tandon
+30,C0016,Cooling Tower Replacement,Ex-Works [FACTORY],Kolkata,VQ-FG-108-25-26,19.04.2025,,Export,Pultrusion,Pultrusion,,Portal,2025-04-17,,,,,,Open,,,,,Hemal Zaveri
+31,C0013,Tank Farm Revamp,Ex-Works [FACTORY],Kolkata,VQ/FG/139/24-25,26.09.2024,25.12.2024,Internal,PULTRUSION,Pultrusion,,,,,,,,,Closed,,,,617038.31,KO
+32,C0001,Pickling Line Covers,,Kolkata,,16-05-2024,,External,VESSEL,Pressure Vessel,,,,10310,P3538508163,,,,PO Received & Delivered,,,,4296650.89,Harita Nambiar
+33,C0025,RO Skid Package - Unit-3,EX-WORKS [FACTORY],Kolkata,VQ/FG/67/24-25,30-01-2025,,Internal,GRATING,Grating,,,,,,,,,Not Received,,,,548407.36,Niharika Vora
+34,C0001,Clarifier Internals,Ex-Works [FACTORY],Kolkata,VQ/FV/022/26-27,19.05.2026,17-08-2026,,FRP Vessel,Pressure Vessel,87,,,,P5948254671,,,,PO Received & Delivered,,,,4939069.28,Yash Nagpal
+35,C0004,Desalination Package,EX-WORKS [FACTORY],Kolkata,VQ/FV/039/25-26,07-03-2026,,Domestic,FRP Vessel,Pressure Vessel,162,,,10995,P8377306021,10.03.2026,,,PO Received & Delivered,,,,,ZT
+36,C0001,Scrubber Package - EPC Scope,,Kolkata,VQ/FV/011/25-26,18.02.2026,,Domestic,FRP Vessel,Pressure Vessel,,,,10124,P5659161352,23-02-2026,,,PO Received & Delivered,,,,146020.65,Yash Nagpal
+37,C0013,RO Skid Package - Rev-A,Ex-Works [FACTORY],Kolkata,VQ/PG/141/24-25,30.08.2024,,,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,,Zubin Tandon
+38,C0020,Pump House Flooring - Package B,,Kolkata,VQ/FG/83/24-25 REV-07,24.09.2024,,Domestic,Moulded Grating,Grating,,Mail,23.09.2024,,,,,,Open,,,,4766780.54,Harita Nambiar
+39,C0013,Pump House Flooring - Phase-1,,Kolkata,VQ-FG-52-24-25,01-08-2024,,Internal,Pultruded Profiles,Pultrusion,14,,,30033,P5995667352,14.08.2024,,,PO Received & Delivered,,,,3342969.78,Harita Nambiar
+40,C0013,Pickling Line Covers - Site Supply,,Kolkata,VQ/FG/20/24-25,19-12-2024,,Internal,Pultrusion,Pultrusion,,,,10177,P5601407544,05.01.2025,,,PO Received & Delivered,,,Payment due immediately from date of invoice,1795414.19,Qamar Bhatt
+41,C0020,Clarifier Internals - Unit-3,,Kolkata,VQ-FG-011-25-26,,2025-10-16,Domestic,GRATING,Grating,,,,10362,P2589360763,2025-09-28,,,PO Received & Delivered,,,,5870471.58,FQ
+42,C0020,Tank Farm Revamp - Phase-2,,Kolkata,,,,Domestic,Moulded Grating,Grating,,,,,,,,,Closed,,,,1182931.85,Yash Nagpal
+43,C0014,Walkway & Handrail - Phase-1,,Kolkata,VQ/FG/124/26-27,10.07.2026,2026-08-09,,Pultruded Profiles,Pultrusion,,Mail,09-07-2026,,,,,,Open,,,,,NV
+44,C0020,Cooling Tower Replacement - Phase-1,EX-WORKS [FACTORY],Kolkata,VQ/FG/007/24-25,13-03-2025,11-06-2025,Domestic,Moulded Grating,Grating,30,,,10938,P9542146097,,,,PO Received & Delivered,,,,,Yash Nagpal
+45,C0001,Acid Dilution Unit - Unit-3,EX-WORKS [FACTORY],Kolkata,,,,Domestic,Pressure Vessel,Pressure Vessel,,,,10039,P4744675014,2024-10-28,,,PO Received & Delivered,,,,,Hemal Zaveri
+46,C0013,Effluent Line Replacement - EPC Scope,,Kolkata,,,,Internal,PULTRUSION,Pultrusion,,,,,,,,,Closed,,,,353805.1,Ishan Kabir
+47,C0002,Tank Farm Revamp,,Kolkata,,,,Domestic,FRP Vessel,Pressure Vessel,,,,10851,P6236751117,,,,PO Received & Delivered,,,,,KO
+48,C0001,Desalination Package - Package B,,Kolkata,VQ-FV-063-24-25,07.10.2024,,,FRP Pressure Vessel,Pressure Vessel,,Tender,16.09.2024,,,,,,Open,,,,3209722.66,ZT
+49,C0026,Acid Dilution Unit,FOB,Kolkata,VQ/FG/069/24-25,19.07.2024,,,Grating,Grating,,,,,,,,,Open,,,,,Farhan Qureshi
+50,C0003,Walkway & Handrail - Package B,,Kolkata,,24-10-2024,,Export,FRP Vessel,Pressure Vessel,,,,10728,P4494084172,,,,PO Received & Delivered,"Aug,25",,,13718287.15,Zubin Tandon
+51,C0016,ETP Upgradation - Site Supply,,Kolkata,,,,Domestic,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,,NV
+52,C0001,RO Skid Package,EX-WORKS KOLKATA,Kolkata,Open,,,,FRP Vessel,Pressure Vessel,36,,,10818,P4919693525,,,,PO Received & Delivered,,,,5356830.85,Ketan Oza
+53,C0013,ETP Upgradation - EPC Scope,,Kolkata,,28.12.2025,,Domestic,Pultrusion,Pultrusion,142,,,10063,P5535377233,02.01.2026,,,PO Received & Delivered,,,,,HZ
+54,C0017,RO Skid Package - Phase-1,,Kolkata,,,,,Pultruded Profiles,Pultrusion,,,,,,,,,Not Received,,,,2821816.18,Niharika Vora
+55,C0013,Sea Water Intake - Site Supply,Ex works,Kolkata,,,,Internal,Pultrusion,Pultrusion,,,,10692,P2008716202,06.02.2026,,,PO Received & Delivered,,,,383356.18,YN
+56,C0020,Cooling Tower Replacement - EPC Scope,Ex-Works [FACTORY],Kolkata,,,,Domestic,Grating,Grating,747,,,10683,P5131366463,,,,PO Received & Delivered,,,,,ZT
+57,C0001,Sump Covers - Phase-1,,Kolkata,VQ/FV/046/24-25,19-02-2025,,Domestic,VESSEL,Pressure Vessel,,,,,,,,,Open,,,,,Yash Nagpal
+58,C0021,Platform Extension - Site Supply,,Kolkata,VQ/FG/56/24-25,2024-10-09,,Internal,Grating,Grating,,,,,,,,,NOT RECEIVED,,,,355979.37,FQ
+59,C0047,ETP Upgradation - Unit-3,,Kolkata,VQ/FGS/021/26-27,18-04-2026,18.05.2026,,Grating,Grating,11,,,10340,P1179749205,20.04.2026,,,PO Received & Delivered,NA,,,299871.79,Farhan Qureshi
+60,C0001,ETP Upgradation,,Kolkata,VQ/FV/062/24-25,18-06-2024,,Domestic,FRP Vessel,Pressure Vessel,,,,,,,,,CLOSED,,,,,Ketan Oza
+61,C0020,Clarifier Internals - Rev-A,,Kolkata,VQ/FG/085/26-27,2026-05-02,01.06.2026,Internal,Moulded Grating,Grating,12,,,,,,,,NOT RECEIVED,,,,66571.81,Farhan Qureshi
+62,C0013,Bio Tank Package - Unit-3,,Kolkata,VQ/FG/47/25-26,,08.09.2025,Internal,Pultrusion,Pultrusion,,,,10048,P6451370453,11.06.2025,,,PO Received & Delivered,,,,,Niharika Vora
+63,C0002,Cooling Tower Replacement - Unit-3,,Kolkata,VQ/FV/035/24-25,18.06.2024,,External,FRP Vessel,Pressure Vessel,,,,10289,P2879792991,19-06-2024,,,PO Received & Delivered,,,,909070.26,Farhan Qureshi
+64,C0021,Tank Farm Revamp - Unit-3,,Kolkata,VQ/FG/008/24-25,29.06.2024,,Domestic,Moulded Grating,Grating,,,,10009,P5853262260,,,,PO Received & Delivered,,,,747098.41,ZT
+65,C0020,Acid Dilution Unit - Unit-3,,,VQ/FG/045/24-25,10.12.2024,2025-01-09,Domestic,Grating,Grating,169,Mail,2024-11-25,,,,,,RFQ Submitted,,,,,Ishan Kabir
+66,C0013,RO Skid Package - Site Supply,EX-WORKS KOLKATA,Kolkata,VQ/FG/033/24-25,,2025-04-02,Internal,Pultrusion,Pultrusion,,,,10546,P9700231170,17.02.2025,,,PO Received & Delivered,,,,,Qamar Bhatt
+67,C0013,Desalination Package,EX-WORKS KOLKATA,Kolkata,VQ/FG/029/24-25,,,Internal,Pultrusion,Pultrusion,177,,,10118,P3070177372,,,26.12.2024,PO Received & Delivered,,,,472620.49,Yash Nagpal
+68,C0013,Clarifier Internals,EX-WORKS [FACTORY],Kolkata,,,,,PULTRUSION,Pultrusion,,,,,,,,,Closed,,,,382417.85,Zubin Tandon
+69,C0001,Brine Handling - Package B,,Kolkata,VQ/FV/056/26-27  REV-01,01.04.2026,,Domestic,Pressure Vessel,Pressure Vessel,,,,,,,,,Open,,,,3418304.56,FQ
+70,C0013,Pump House Flooring - Phase-2,FOB,Kolkata,VQ/FG/003/24-25,17.08.2024,,Internal,Pultrusion,Pultrusion,,Mail,10.08.2024,10297,P8770219539,28.10.2024,,,PO Received & Delivered,,,,1701343.21,Qamar Bhatt
+71,C0013,ETP Upgradation - Rev-A,,Kolkata,VQ/FG/58/24-25,,,Domestic,Pultrusion,Pultrusion,,,,10096,P6761334796,,,,PO Received & Delivered,,,,,Zubin Tandon
+72,C0020,Chlorine Dosing Skid - Package B,EX-WORKS [FACTORY],Kolkata,VQ/FGS/054/25-26,2025-09-25,,Internal,Moulded Grating,Grating,,,,,,,,,Open,,,,653727.83,Harita Nambiar
+73,C0002,Desalination Package - Unit-3,EX-WORKS [FACTORY],Kolkata,,14.06.2026,,,Pressure Vessel,Pressure Vessel,,,,10620,P2398806247,,,19.11.2026,PO Received & Delivered,,,,5658470.59,ZT
+74,C0021,RO Skid Package - Rev-A,EX-WORKS [FACTORY],Kolkata,,08-03-2025,,Internal,Grating,Grating,,,,10416,P9548550011,,,,PO Received & Delivered,,,,8665127.01,FQ
+75,C0001,Brine Handling - Site Supply,,Kolkata,VQ-FV-014-24-25,,,Domestic,FRP Vessel,Pressure Vessel,,,,,P3792347639,,,,PO Received & Delivered,,,,10201.73,Niharika Vora
+76,C0001,Pump House Flooring,Ex-Works [FACTORY],Kolkata,Open,,,Domestic,Pressure Vessel,Pressure Vessel,,,,10194,P5876924163,12.03.2026,,,PO Received & Delivered,,,,,FQ
+77,C0013,Chlorine Dosing Skid - Rev-A,,Kolkata,,,,,Pultrusion,Pultrusion,,,,,,,,,CLOSED,,,,3178140.8,FQ
+78,C0013,Acid Dilution Unit,,Kolkata,VQ/FG/104/25-26,01-10-2025,,Internal,Pultrusion - Handrail,Pultrusion,,,,,,,,,Open,,,,,ZT
+79,C0013,Pump House Flooring - Phase-2,,Kolkata,VQ/FG/145/25-26,10.07.2025,,Domestic,Pultrusion,Pultrusion,,,,,,,,,Open,,,,1796857.15,Hemal Zaveri
+80,C0020,ETP Upgradation - Rev-A,EX-WORKS KOLKATA,Kolkata,po received & delivered,,,,Moulded Grating,Grating,,,,10595,P9100870512,27-01-2026,,,PO Received & Delivered,,,,,NV
+81,C0014,Brine Handling - Package B,EX-WORKS [FACTORY],Kolkata,VQ/PG/005/24-25,30-01-2025,,Internal,Pultruded Profiles,Pultrusion,,,,10588,P1100595644,,,,PO Received & Delivered,,,,708479.31,Ishan Kabir
+82,C0014,Effluent Line Replacement - Unit-3,EX-WORKS [FACTORY],Kolkata,,,,Internal,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,621388.62,QB
+83,C0013,Walkway & Handrail - Phase-2,Ex-Works [FACTORY],,,,,,Pultrusion,Pultrusion,,,,,,,,,CLOSED,,,,773039.69,KO
+84,C0013,Bio Tank Package - Package B,,Kolkata,VQ/FG/082/25-26,24.12.2025,,,PULTRUSION,Pultrusion,,,,,,,,,Open,,,,,Farhan Qureshi
+85,C0021,Pickling Line Covers - Package B,,Kolkata,VQ/FG/9/25-26 REV -08,07-09-2025,,Domestic,Grating,Grating,,,,10662,P9226229353,05-10-2025,,,PO Received & Delivered,,,,,Farhan Qureshi
+86,C0013,Cable Trench Covers,,Kolkata,VQ/FG/147/24-25  REV-06,25.04.2024,,,Pultruded Profiles,Pultrusion,,,,,,,,,Open,,,,152933.05,ZT
+87,C0020,Pump House Flooring - EPC Scope,Ex-Works [FACTORY],Kolkata,VQ/FG/081/24-25,24.04.2024,2024-06-08,Domestic,Grating,Grating,,,,,,,,,LOST,,,,760403.06,HN
+88,C0021,RO Skid Package - Unit-3,,Kolkata,,14.11.2024,,Domestic,Grating,Grating,2,,,10656,P6382529470,,,,ON HOLD,,,,,KO
+89,C0001,Cable Trench Covers - Phase-1,,Kolkata,,2025-03-15,,Domestic,VESSEL,Pressure Vessel,,,,10989,P8723309920,18.03.2025,,,PO Received & Delivered,,,,26716.96,FQ
+90,C0021,ETP Upgradation,Ex-Works [FACTORY],Kolkata,Open,09-09-2025,,Domestic,Grating,Grating,,,,10735,P6952566201,23.10.2025,,,PO Received & Delivered,,,,,Harita Nambiar
+91,C0001,Sea Water Intake - Rev-A,,Kolkata,,,,Domestic,FRP Vessel,Pressure Vessel,,,,10430,P2408434291,06.04.2026,,,PO Received & Delivered,,,,665323.13,KO
+92,C0013,Platform Extension - EPC Scope,EX-WORKS [FACTORY],Kolkata,VQ/FG/096/26-27,15.06.2026,,Domestic,Pultrusion - Handrail,Pultrusion,,Call,02.06.2026,,,,,,Open,,,,,Niharika Vora
+93,C0013,Chlorine Dosing Skid - Rev-A,EX-WORKS [FACTORY],Kolkata,,,,Internal,Pultruded Profiles,Pultrusion,8,,,,,,,,Closed,,,,,Qamar Bhatt
+94,C0013,Filter Press Area,,Kolkata,VQ/FG/042/25-26,30.09.2025,,Internal,PULTRUSION,Pultrusion,6,,,10621,P4339458019,30.11.2025,,,PO Received & Delivered,,,,,NV
+95,C0013,Pump House Flooring,EX-WORKS [FACTORY],Kolkata,,10.07.2025,,Internal,Pultrusion,Pultrusion,35,,,10653,P3175802532,2025-07-27,,,PO Received & Delivered,,,,768048.95,Harita Nambiar
+96,C0014,Cooling Tower Replacement - Unit-3,Ex-Works,Kolkata,,21.08.2025,,Internal,PULTRUSION,Pultrusion,,,,,P4012767672,19.09.2025,,31-11-2024,PO Received & Delivered,,,,34721.07,HN
+97,C0013,Walkway & Handrail - EPC Scope,,Kolkata,VQ/FG/070/25-26,28.03.2026,,Internal,Pultrusion,Pultrusion,201,,,10747,P8915949601,,,2026-04-21,PO Received & Delivered,"Aug,25",,,,FQ
+98,C0013,Sump Covers,EX-WORKS [FACTORY],Kolkata,po received & delivered,15-07-2025,,Internal,Pultrusion,Pultrusion,,,,10782,P3531350085,20.07.2025,2025-09-18,18-08-2025,PO Received & Delivered,,,,,Farhan Qureshi
+99,C0001,Caustic Storage,EX-WORKS [FACTORY],Kolkata,,,,External,Pressure Vessel,Pressure Vessel,,,,10458,P8886432673,,,,PO Received & Delivered,,,,17077.89,FQ
+100,C0013,Cooling Tower Replacement,,Kolkata,,,,Internal,Pultruded Profiles,Pultrusion,,,,10028,P5156341268,23.08.2026,,09.09.2026,Open,,,,1497757.49,HZ
+101,C0013,ETP Upgradation - Phase-1,,Kolkata,VQ/PG/171/26-27,10.08.2026,,Internal,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,8691353.11,Ketan Oza
+102,C0020,Bio Tank Package - Rev-A,Ex-Works [FACTORY],Kolkata,VQ/FGS/001/25-26,11.09.2025,,Domestic,Grating,Grating,,Call,24-08-2025,,P9148630125,,,27.11.2025,PO RECEIVED & DELIVERED,,,,67614.17,HN
+103,C0004,Sump Covers - Site Supply,EX-WORKS [FACTORY],Kolkata,,06.10.2024,,Domestic,Vessel,Pressure Vessel,,,,10607,P2033921654,12.10.2024,,,PO Received & Delivered,,,,300464.59,Yash Nagpal
+104,C0001,Desalination Package - EPC Scope,Ex-Works,Kolkata,Open,,,Domestic,VESSEL,Pressure Vessel,,,,10676,P9021793855,30.01.2026,,,PO Received & Delivered,,,,,Ketan Oza
+105,C0020,Pump House Flooring,,Kolkata,VQ/FG/024/25-26,01.04.2025,,Domestic,Grating,Grating,1,,,10409,P8774267957,13.04.2025,,17.05.2025,PO Received & Delivered,,,,274474.3,Qamar Bhatt
+106,C0001,Desalination Package - Unit-3,Ex-Works [FACTORY],Kolkata,,,,Domestic,FRP Vessel,Pressure Vessel,9,,,40300,P2705297819,2026-08-23,,30.10.2026,Open,,,,7277553.51,Ketan Oza
+107,C0002,Platform Extension,ExW,Kolkata,VQ-FV-52-25-26,2025-05-03,,Domestic,VESSEL,Pressure Vessel,,,,,,,,,Budgetary,,,,,Yash Nagpal
+108,C0001,Caustic Storage,EX-WORKS KOLKATA,Kolkata,,02.11.2025,,External,FRP Vessel,Pressure Vessel,,,,10065,P3402158803,07-11-2025,,,PO Received & Delivered,"Aug,25",,,,Qamar Bhatt
+109,C0020,Acid Dilution Unit - Phase-1,FOB,Kolkata,VQ/FGS/050/25-26,22.01.2026,,,Grating,Grating,,Portal,03.01.2026,,,,,,Open,,,,1930819.17,Qamar Bhatt
+110,C0014,Platform Extension,,Kolkata,,,,Domestic,Pultruded Profiles,Pultrusion,,,,,,,,,NOT RECEIVED,,,,738148.52,FQ
+111,C0013,Cooling Tower Replacement - Phase-1,,Kolkata,VQ-FG-161-24-25,,,Internal,Pultruded Profiles,Pultrusion,100,,,,,,,,CLOSED,,,,2137588.26,Harita Nambiar
+112,C0001,Sump Covers - Phase-2,,Kolkata,VQ/FV/47/25-26,28-11-2025,,Domestic,FRP Pressure Vessel,Pressure Vessel,,,,,,,,,CLOSED,,,,403420.53,KO
+113,C0001,Bio Tank Package - EPC Scope,,Kolkata,VQ/FV/013/25-26 REV-07,,,,FRP Vessel,Pressure Vessel,,,,10946,P4856070374,04.05.2025,,,PO Received & Delivered,,,,,YN
+114,C0004,Scrubber Package - Rev-A,FOR,Kolkata,Closed,25.05.2024,,Domestic,VESSEL,Pressure Vessel,,,,10633,P4793015896,2024-05-26,,,PO RECEIVED & DELIVERED,,,,32966.68,Yash Nagpal
+115,C0013,Bio Tank Package,FOB,Kolkata,VQ/FG/159/25-26,31-03-2026,,Domestic,Pultruded Profiles,Pultrusion,,,,,,,,,CLOSED,,,,,ZT
+116,C0001,Sump Covers - EPC Scope,,,,2024-06-13,,Domestic,Vessel,Pressure Vessel,,,,10881,P4988535000,20-06-2024,,,PO Received & Delivered,,,,,YN
+117,C0013,Sump Covers - Unit-3,ExW,Kolkata,,,,Internal,Pultrusion,Pultrusion,2,,,10644,P6762007039,03.10.2025,,11.11.2025,PO Received & Delivered,,,,,Yash Nagpal
+118,C0014,Walkway & Handrail,,Kolkata,,,,Internal,Pultrusion,Pultrusion,147,,,,,,,,CLOSED,,,,247474.57,YN
+119,C0013,Scrubber Package - EPC Scope,EX-WORKS [FACTORY],Kolkata,VQ/FG/041/23-24,23.12.2023,,Internal,Pultrusion,Pultrusion,,,,60999,P2175304017,2024-04-27,,,PO Received & Delivered,"Aug,25",,,,YN
+120,C0020,Caustic Storage - Rev-A,EX-WORKS KOLKATA,Kolkata,,17.12.2025,,Domestic,Grating,Grating,,,,10957,P6405124841,18.12.2025,,,PO Received & Delivered,,,,,Hemal Zaveri
+121,C0013,Platform Extension,,Kolkata,VQ/PG/60/24-25,01.04.2024,,Domestic,Pultruded Profiles,Pultrusion,,,,10896,P1468662769,09.04.2024,,,PO Received & Delivered,,,,151303.17,HN
+122,C0001,Sea Water Intake - Site Supply,Ex-Works [FACTORY],Kolkata,VQ/FV/018/24-25,,,,FRP Vessel,Pressure Vessel,2,Mail,2024-07-06,10261,P7539399243,06.10.2024,,,PO Received & Delivered,,,100% basic payment + 100% taxes & duties within 45 days from date of delivery,,KO
+123,C0040,Scrubber Package,,Kolkata,GEM/2024/B/7314341,06.05.2025,,Export,GRATING,Grating,,,,10290,P7126180066,,,,PO Received & Delivered,,,,300086.75,Harita Nambiar
+124,C0001,Effluent Line Replacement,EX-WORKS [PLANT 2],Kolkata,,16.10.2025,,Domestic,FRP Vessel,Pressure Vessel,12,,,10057,P3691307645,,,,PO Received & Delivered,,,,,FQ
+125,C0020,ETP Upgradation,,Kolkata,,,,Internal,Grating,Grating,3,,,,,,,,Closed,,,,738471.34,Farhan Qureshi
+126,C0014,Pickling Line Covers - Phase-2,,Kolkata,VQ/FG/169/24-25,30.12.2024,,Domestic,Pultruded Profiles,Pultrusion,,,,,,,,,Open,,,,,Farhan Qureshi
+127,C0013,Bio Tank Package - EPC Scope,,Kolkata,VQ/PG/142/24-25,23.06.2024,07-08-2024,Internal,Pultrusion - Handrail,Pultrusion,,,,,,,,,Open,,,,,NV
+128,C0013,Sea Water Intake - Unit-3,Ex-Works [FACTORY],Kolkata,VQ/FG/007/25-26,,,Internal,Pultrusion,Pultrusion,,Mail,16.02.2026,10804,P5800666263,23.03.2026,,2026-04-21,PO Received & Delivered,,,,,Zubin Tandon
+129,C0013,Chlorine Dosing Skid - Phase-2,Ex-Works [FACTORY],Kolkata,VQ/FG/057/24-25  REV-05,,26-08-2024,Internal,Pultrusion,Pultrusion,,Tender,03.07.2024,10349,,16.07.2024,,,PO Received & Delivered,,,,7208812.51,ZT
+130,C0013,Walkway & Handrail,Ex-Works [FACTORY],Kolkata,,,,,PULTRUSION,Pultrusion,,,,,,,,,Closed,,,,,Hemal Zaveri
+131,C0013,Cooling Tower Replacement - Site Supply,Ex-Works [FACTORY],Kolkata,VQ/FG/027/24-25,2024-09-01,,Domestic,PULTRUSION,Pultrusion,,,,10434,P5245063515,27-09-2024,,,PO Received & Delivered,,,,1471903.96,QB
+132,C0001,ETP Upgradation - Package B,,Kolkata,,01-11-2025,,,Vessel,Pressure Vessel,31,,,10718,P3540741595,,,,PO RECEIVED & DELIVERED,2025-07-01 00:00:00,Not mentioned,100% basic payment + 100% taxes & duties within 45 days from date of delivery,,Harita Nambiar
+133,C0022,Walkway & Handrail,,Kolkata,VQ/FG/28/25-26,,14.07.2025,,GRATING,Grating,42,,,10635,P1736707936,01.07.2025,,,On Hold,,,,696246.94,Hemal Zaveri
+134,C0013,ETP Upgradation,Ex-Works [FACTORY],Kolkata,VQ/PG/028/25-26,17.01.2026,,Domestic,Pultruded Profiles,Pultrusion,,,,10539,P4090238502,20.06.2026,,,On Hold,,,,164071.08,KO
+135,C0014,Acid Dilution Unit - Unit-3,,Kolkata,,,,Domestic,PULTRUSION,Pultrusion,,,,,,,,,LOST,,,,346249.75,Niharika Vora
+136,C0001,Sea Water Intake - Unit-3,,Kolkata,,13-03-2026,,Domestic,FRP Vessel,Pressure Vessel,,,,10108,P6786043791,16-03-2026,,,PO Received & Delivered,"Dec,25",,,,Farhan Qureshi
+137,C0031,Filter Press Area,,Kolkata,VQ/FG/51/25-26,17.05.2025,2025-07-16,Domestic,GRATING,Grating,,,,,,,,,Open,,,,21692.08,Yash Nagpal
+138,C0002,Sump Covers - Site Supply,EX-WORKS KOLKATA,Kolkata,VQ/FV/054/26-27,28-06-2026,,,FRP Vessel,Pressure Vessel,,Tender,2026-06-27,,,,,,Closed,,,,959409.29,Ishan Kabir
+139,C0014,RO Skid Package - Site Supply,,,VQ/FG/100/24-25,11-12-2024,09-02-2025,Internal,Pultrusion,Pultrusion,,,,,,,,,Open,,,,864019.93,Niharika Vora
+140,C0013,Pump House Flooring,Ex-Works [FACTORY],Kolkata,,,,Domestic,PULTRUSION,Pultrusion,,,,,,,,,NOT RECEIVED,NA,,,,Niharika Vora
+141,C0014,Cooling Tower Replacement - Site Supply,EX-WORKS [FACTORY],Kolkata,VQ/FG/92/25-26,07-06-2025,,Internal,Pultruded Profiles,Pultrusion,,,,,,,,,Open,,,,,Harita Nambiar
+142,C0021,Caustic Storage - Unit-3,,Kolkata,,,,Domestic,Grating,Grating,,,,,,,,,Closed,,,,,Qamar Bhatt
+143,C0013,Acid Dilution Unit,,Kolkata,,12-07-2025,,Internal,Pultruded Profiles,Pultrusion,,,,10372,P4115565294,14-07-2025,,,PO Received & Delivered,,,,,Harita Nambiar
+144,C0013,Pump House Flooring - Unit-3,,Kolkata,VQ/KAG/117/25-26 Rev.3,03.05.2025,,Internal,Pultrusion,Pultrusion,,,,,,,,,Open,,,,1506062.79,Zubin Tandon
+145,C0001,Chlorine Dosing Skid - Package B,,Kolkata,VQ/FV/001/24-25,,14.12.2024,External,FRP Vessel,Pressure Vessel,,,,10306,P7825844140,,15-12-2024,,PO RECEIVED & DELIVERED,,,,490103.9,HZ
+146,C0013,Walkway & Handrail - EPC Scope,,Kolkata,,2024-10-30,,Internal,Pultruded Profiles,Pultrusion,12,,,10760,,10.11.2024,,,PO Received & Delivered,,,,,KO
+147,C0013,Platform Extension - Package B,Ex-works [FACTORY],Kolkata,VQ/FG/087/24-25,24.10.2024,22.01.2025,Internal,Pultruded Profiles,Pultrusion,,,,,,,,,Not Received,,,,3815716.96,HZ
+148,C0021,Filter Press Area,,Kolkata,,28.09.2024,,Internal,Grating,Grating,9,,,10608,P4146933104,,,,PO Received & Delivered,,,,,Harita Nambiar
+149,C0013,Clarifier Internals - Phase-1,Ex-works [FACTORY],Kolkata,,08-11-2024,,Internal,Pultrusion,Pultrusion,,,,10167,P4991586232,,,07.12.2024,PO Received & Delivered,"Sept,25",,,,Yash Nagpal
+150,C0002,Brine Handling,Ex-Works [FACTORY],Kolkata,Open,28.05.2025,,,VESSEL,Pressure Vessel,,,,10684,P8676510043,29.05.2025,,27.08.2025,PO Received & Delivered,,,,4574752.05,NV
+151,C0013,Caustic Storage - Phase-2,FOB,Kolkata,VQ/FG/134/24-25,2024-08-22,,Internal,Pultrusion,Pultrusion,275,,,,,,,,Open,,,,1093192.46,HZ
+152,C0013,Clarifier Internals - Rev-A,,Kolkata,VQ-FG-097-24-25,2024-05-12,,Internal,Pultrusion,Pultrusion,,,,,,,,,Open,,,,,Niharika Vora
+153,C0013,Acid Dilution Unit,EX-WORKS [FACTORY],Kolkata,VQ/PG/146/24-25,26.09.2024,26.10.2024,Domestic,PULTRUSION,Pultrusion,,,,,,,,,Not Received,,,,,NV
+154,C0021,Walkway & Handrail - EPC Scope,,Kolkata,VQ-FG-042-26-27,12.06.2026,,Domestic,GRATING,Grating,,,,,,,,,NOT RECEIVED,,,,28206.11,ZT
+155,C0013,Walkway & Handrail,,Kolkata,VQ/FG/069/24-25,,,Internal,PULTRUSION,Pultrusion,623,,,10148,P7416398798,10.01.2025,,,PO Received & Delivered,,,,348502.73,HZ
+156,C0003,Cable Trench Covers,,Kolkata,,,,Export-Non-KAG,Vessel,Pressure Vessel,,,,,,,,,CLOSED,,,,1047713.2,Yash Nagpal
+157,C0001,Pickling Line Covers - Unit-3,Ex-works [FACTORY],Kolkata,po received & delivered,,,External,FRP Vessel,Pressure Vessel,,,,10202,P5433392180,,2025-10-27,06.09.2025,PO Received & Delivered,,,,,Hemal Zaveri
+158,C0014,Platform Extension - Unit-3,EX-WORKS [PLANT 2],Kolkata,VQ/FG/089/25-26,31.10.2025,30.12.2025,Internal,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,,Farhan Qureshi
+159,C0001,Desalination Package,EX-WORKS [FACTORY],Kolkata,Open,,,Domestic,VESSEL,Pressure Vessel,,,,10857,P8996550604,02.08.2024,,,PO Received & Delivered,,,,815884.19,Harita Nambiar
+160,C0001,Bio Tank Package - Rev-A,Ex-Works [FACTORY],Kolkata,,,,External,FRP Vessel,Pressure Vessel,,,,10861,P7359403225,31.07.2026,,19-08-2026,OPEN,,,,,Yash Nagpal
+161,C0013,Chlorine Dosing Skid - Rev-A,,Kolkata,VQ/FG/98/25-26,16.01.2026,,Internal,PULTRUSION,Pultrusion,,,,,,,,,Open,,,,1704555.49,Niharika Vora
+162,C0001,Tank Farm Revamp - Site Supply,,Kolkata,,,,Domestic,FRP Vessel,Pressure Vessel,253,,,10985,P2340426053,16.05.2026,,17.11.2026 (Within 60 days from the date of received of PO),PO Received & Delivered,NA,,,1324827.67,ZT
+163,C0020,Sump Covers - Phase-2,,Kolkata,Rfq submitted,14-04-2026,,Internal,Grating,Grating,,,,10054,P6145867350,28.05.2026,,,PO Received & Delivered,,,,626264.69,Harita Nambiar
+164,C0013,Brine Handling - Unit-3,Ex-works [FACTORY],Kolkata,,,,,Pultrusion - Handrail,Pultrusion,,,,,,,,,NOT RECEIVED,,,,609451.87,Ishan Kabir
+165,C0013,Cable Trench Covers - Phase-1,,Kolkata,VQ/FG/123/26-27,23-04-2026,22.07.2026,,Pultrusion,Pultrusion,,,,,,,,,Open,,,,677103.37,Niharika Vora
+166,C0007,Platform Extension - Package B,,Kolkata,,,,,FRP Vessel,Pressure Vessel,,,,10489,P3044426338,02-02-2025,,,PO Received & Delivered,,,,,Niharika Vora
+167,C0001,Cable Trench Covers,FOB,Kolkata,Open,22.12.2025,,External,FRP Vessel,Pressure Vessel,,,,10680,P8358870981,23-12-2025,,,PO Received & Delivered,,,,12488.78,Harita Nambiar
+168,C0013,Cooling Tower Replacement - EPC Scope,EX-WORKS [FACTORY],Kolkata,,,,,Pultrusion,Pultrusion,,,,10141,P7063886452,,,14.01.2026,PO Received & Delivered,,,,841604.96,Yash Nagpal
+169,C0002,ETP Upgradation - Unit-3,,Kolkata,VQ/FV/20/25-26,2025-07-23,,Domestic,FRP Vessel,Pressure Vessel,,,,10229,P8274273035,2025-07-26,,,PO Received & Delivered,,,,,Ketan Oza
+170,C0001,Scrubber Package,FOR [SITE],Kolkata,Open,05.05.2025,,Domestic,FRP Vessel,Pressure Vessel,,,,10544,P9265587451,,,,PO Received & Delivered,,,,30873.46,Yash Nagpal
+171,C0001,Brine Handling,,Kolkata,,,,,FRP Vessel,Pressure Vessel,,,,10097,P9637824374,,,01.03.2025,PO Received & Delivered,,,,3209964.97,Ishan Kabir
+172,C0013,ETP Upgradation - Site Supply,,Kolkata,VQ-FG-120-26-27,,,Internal,Pultruded Profiles,Pultrusion,,Tender,2026-08-02,,,,,,Open,,,,1897194.91,Hemal Zaveri
+173,C0020,Platform Extension - Phase-2,Ex-Works [FACTORY],Kolkata,,11.11.2025,,Internal,Grating,Grating,,,,10947,P6132431860,2025-11-25,,,PO Received & Delivered,,,,,Ketan Oza
+174,C0003,Pickling Line Covers,,Kolkata,VQ/FV/061/25-26,03-05-2025,,Export,VESSEL,Pressure Vessel,109,,,,,,,,UNDER DISCUSSION,,,,,Farhan Qureshi
+175,C0020,Pump House Flooring,ExW,Kolkata,,09.09.2025,,,Grating,Grating,,,,10960,P4983661172,22-10-2025,,,PO Received & Delivered,,,,137520515.67,ZT
+176,C0001,Sump Covers - Phase-1,Ex-Works [FACTORY],Kolkata,VQ/FV/45/24-25 Rev.6,10.08.2024,,,FRP Vessel,Pressure Vessel,,,,,,,,,Open,,,,2482749.24,Hemal Zaveri
+177,C0013,Desalination Package,Ex-Works [FACTORY],Kolkata,VQ/FG/019/25-26,02.04.2025,,Internal,PULTRUSION,Pultrusion,,,,10710,P1157215100,03.05.2025,,,PO RECEIVED & DELIVERED,,,,,Yash Nagpal
+178,C0013,Brine Handling - Phase-1,Ex-Works,Kolkata,VQ/FG/80/25-26,,,Internal,Pultrusion,Pultrusion,,,,10553,,2025-11-16,,,PO Received & Delivered,,,,,KO
+179,C0020,Walkway & Handrail - Site Supply,EX-WORKS KOLKATA,[PLANT 2],VQ/FG/25/25-26,23.03.2026,,Domestic,Grating,Grating,,,,10288,P9391882993,23.03.2026,,25.03.2026,PO Received & Delivered,,,,,Zubin Tandon
+180,C0002,Effluent Line Replacement - Package B,EX-WORKS [FACTORY],Kolkata,,26.08.2025,,Domestic,FRP Vessel,Pressure Vessel,38,,,10292,P1968870326,27.08.2025,,,PO Received & Delivered,,,,,Harita Nambiar
+181,C0001,Cable Trench Covers - Phase-2,,Kolkata,,11.09.2025,,External,FRP Vessel,Pressure Vessel,,,,10767,P3933213766,,,,Cancel,,,,212582.04,Hemal Zaveri
+182,C0001,Desalination Package - Package B,Ex-Works [FACTORY],Kolkata,VQ-FV-36-26-27,26.06.2026,26-07-2026,External,FRP Vessel,Pressure Vessel,45,,,10941,P5409514899,30.06.2026,,,PO Received & Delivered,NA,,,,FQ
+183,C0013,Bio Tank Package - Unit-3,,Kolkata,VQ-FG-032-24-25,,,Internal,PULTRUSION,Pultrusion,32,,,10516,P2622331723,23.10.2024,,,PO Received & Delivered,,,,,Ketan Oza
+184,C0020,Cable Trench Covers,,Kolkata,VQ-FG-057-25-26,25.05.2025,,Internal,Grating,Grating,,,,,,,,,Open,,,,,Zubin Tandon
+185,C0002,Sea Water Intake - Phase-1,,Kolkata,,,,External,FRP Vessel,Pressure Vessel,,,,10402,P2660104622,,,,PO Received & Delivered,,,,2006593.83,ZT
+186,C0013,ETP Upgradation,,Kolkata,VQ/FG/017/24-25,,,Domestic,Pultrusion,Pultrusion,4,,,30619,P5323852618,11.11.2024,,04.12.2024,PO Received & Delivered,,,,428744.17,ZT
+187,C0013,Acid Dilution Unit - Unit-3,EX-WORKS [PLANT 2],Kolkata,,,,Internal,Pultrusion,Pultrusion,5,,,10774,P4532173418,29.04.2024,,,PO Received & Delivered,,,,,Niharika Vora
+188,C0020,Bio Tank Package - Site Supply,EX-WORKS [FACTORY],Kolkata,,,,Domestic,Moulded Grating,Grating,108,,,10569,P5554707525,,,,PO Received & Delivered,,,,593285.31,Farhan Qureshi
+189,C0021,RO Skid Package,,Kolkata,VQ/FGS/71/24-25,03.03.2025,,Domestic,GRATING,Grating,,,,,,,,,Not Received,,,,325329.64,Ketan Oza
+190,C0013,Tank Farm Revamp - Rev-A,Ex-Works [FACTORY],Kolkata,,,,Domestic,PULTRUSION,Pultrusion,,,,,,,,,Closed,,,,,HN
+191,C0013,Sump Covers - Site Supply,EX-WORKS [FACTORY],Kolkata,VQ/FG/127/25-26,16.03.2026,,Internal,Pultrusion,Pultrusion,,,,,,,,,Open,,,,,Ketan Oza
+192,C0002,Effluent Line Replacement - Rev-A,,Kolkata,VQ/FV/041/26-27,,,Domestic,VESSEL,Pressure Vessel,,,,10584,P6879428703,,,,Open,,,,,QB
+193,C0015,RO Skid Package - EPC Scope,,Kolkata,VQ/FGP/30/25-26,2025-07-31,,Export,Pultrusion - Handrail,Pultrusion,,,,10041,P8340650878,15.08.2025,,,PO Received & Delivered,,,,,ZT
+194,C0020,Caustic Storage - Site Supply,,Kolkata,,26.09.2024,,Domestic,Moulded Grating,Grating,,,,10682,P1584821121,08.10.2024,,,PO Received & Delivered,,,,,Zubin Tandon
+195,C0001,Walkway & Handrail,,Kolkata,Closed,12.07.2025,,Domestic,FRP Vessel,Pressure Vessel,16,,,10308,P1986563860,14.07.2025,,30-06-2025,PO Received & Delivered,"Jan,26",,,,Ketan Oza
+196,C0023,Effluent Line Replacement - Package B,,Kolkata,po received & delivered,09.07.2024,,Domestic,Pultruded Grating,Grating,1,,,10455,P2438260734,28.07.2024,,,PO Received & Delivered,,,,,KO
+197,C0013,Pickling Line Covers - EPC Scope,EX-WORKS [FACTORY],Kolkata,VQ-FG-12-25-26,,29-12-2025,Internal,Pultrusion - Handrail,Pultrusion,,,,10471,P1036212487,2025-10-04,,"8–10 weeks from receipt of PO, drawing approval and manufacturing clearance",PO Received & Delivered,,,,210344.47,Harita Nambiar
+198,C0013,Acid Dilution Unit - Rev-A,,Kolkata,,,,Internal,Pultruded Profiles,Pultrusion,,,,,,,,,Closed,,,,283513.19,Farhan Qureshi
+199,C0020,Filter Press Area - Phase-2,,Kolkata,VQ/FGS/082/24-25,,30.07.2024,,Moulded Grating,Grating,2,,,,,,,,Open,,,,,ZT
+200,C0013,Bio Tank Package - Site Supply,,Kolkata,VQ/FG/130/25-26,,,Internal,Pultrusion,Pultrusion,,,,,,,,,Open,,,,313084.46,Ketan Oza
+201,C0013,Desalination Package,Ex-Works [FACTORY],Kolkata,VQ-FG-129-25-26,11.02.2026,12-05-2026,Internal,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,,KO
+202,C0013,Filter Press Area - Phase-2,,Kolkata,VQ/FG/109/24-25,13.03.2025,11-06-2025,Internal,Pultrusion - Handrail,Pultrusion,,,,,,,,,OPEN,,,,230755.58,QB
+203,C0001,Sea Water Intake - Phase-2,,Kolkata,VQ/FV/019/25-26,,2026-04-18,,Vessel,Pressure Vessel,41,,,10283,P9251459094,05.03.2026,,,PO Received & Delivered,,,,867413.23,Ishan Kabir
+204,C0020,ETP Upgradation - EPC Scope,Ex-works [FACTORY],Kolkata,PO received,22.02.2025,,Domestic,Pultruded Grating,Grating,,,,10719,P9961628570,18-06-2025,,23.07.2025,PO RECEIVED & DELIVERED,,,,,Hemal Zaveri
+205,C0020,Filter Press Area,EX-WORKS KOLKATA,Kolkata,VQ/FG/34/26-27,2026-04-26,25.07.2026,Internal,Grating,Grating,,,,,P8901600076,2026-05-12,,,PO Received & Delivered,,,,,NV
+206,C0001,Chlorine Dosing Skid - Phase-2,,Kolkata,Work in Process,,,,Vessel,Pressure Vessel,,,,10278,P8923555411,07.11.2025,07.12.2025,,PO Received & Delivered,,,,,IK
+207,C0001,Bio Tank Package,EX-WORKS KOLKATA,Kolkata,,29-05-2026,,Domestic,Vessel,Pressure Vessel,8,,,10892,P3591527330,,,,PO Received & Delivered,,,,114661.28,Zubin Tandon
+208,C0013,Bio Tank Package - Phase-1,FOB,Kolkata,VQ/FGS/143/26-27,22.06.2026,,Domestic,Pultrusion,Pultrusion,,,,,,,,,CLOSED,,,,5869651.32,YN
+209,C0003,Platform Extension - Phase-2,EX-WORKS [FACTORY],Kolkata,VQ-FV-050-25-26,,,Export-Non-KAG,Vessel,Pressure Vessel,,,,,,,,,Closed,,,,4332007.49,Ishan Kabir
+210,C0013,Clarifier Internals,EX-WORKS KOLKATA,Kolkata,,08.05.2025,,Internal,PULTRUSION,Pultrusion,,,,10130,P8132980658,,,,Cancel,,,,87693.31,Farhan Qureshi
+211,C0013,Cooling Tower Replacement - Phase-2,Ex-Works [FACTORY],Kolkata,,,,Internal,Pultrusion,Pultrusion,,,,,,,,,NOT RECEIVED,,,,6248750.59,HZ
+212,C0013,Walkway & Handrail - Unit-3,,Kolkata,VQ/FG/154/24-25 REV-02,03.10.2024,,Internal,Pultrusion,Pultrusion,,,,,,,,,Open,,,,4415445.91,Farhan Qureshi
+213,C0001,Cable Trench Covers,,Kolkata,VQ/FV/037/25-26,07.06.2025,,,Pressure Vessel,Pressure Vessel,190,,,10966,P4086124402,08.06.2025,,,PO Received & Delivered,,,,1318914.21,QB
+214,C0003,Chlorine Dosing Skid,,Kolkata,VQ/FV/53/24-25,07.06.2024,22-07-2024,Domestic,Vessel,Pressure Vessel,,,,,,,,,Closed,,,,374308.87,Ketan Oza
+215,C0001,Chlorine Dosing Skid,EX-WORKS KOLKATA,Kolkata,,,,Domestic,FRP Vessel,Pressure Vessel,9,,,10329,P9649996737,23.03.2025,,,PO RECEIVED & DELIVERED,,,,41715.08,Harita Nambiar
+216,C0013,Sea Water Intake,,Kolkata,VQ/FG/066/24-25,,,Internal,Pultrusion,Pultrusion,,,,10862,P1327760496,,,,PO Received & Delivered,,,,300809.47,HZ
+217,C0023,Chlorine Dosing Skid - EPC Scope,,Kolkata,VQ/FGS/44/24-25,18.07.2024,,Domestic,Grating,Grating,517,,,,,,,,Open,,,,1528162.79,Yash Nagpal
+218,C0024,Sea Water Intake - Phase-2,,Kolkata,,,,Domestic,Grating,Grating,,,,,,,,,CLOSED,,,,41385.32,IK
+219,C0045,Tank Farm Revamp - Phase-1,EX-WORKS [FACTORY],Kolkata,VQ/FG/62/24-25,01.04.2024,,Export,Moulded Grating,Grating,,,,,,,,,Open,,,,8880097.87,Hemal Zaveri
+220,C0002,Filter Press Area,Ex works,Kolkata,,18.03.2025,,External,FRP Vessel,Pressure Vessel,9,,,10135,P1935771229,27-03-2025,,,PO RECEIVED & DELIVERED,,,,,Ketan Oza
+221,C0001,Caustic Storage - Phase-1,,Kolkata,,26.05.2025,,Domestic,FRP Vessel,Pressure Vessel,,,,10572,P5113699666,27-05-2025,,,PO Received & Delivered,,,,112822.92,QB
+222,C0020,Chlorine Dosing Skid,,Kolkata,VQ/FG/032/25-26,11-10-2025,,Domestic,GRATING,Grating,,,,10731,P3059538191,,,,PO Received & Delivered,,,,684431.54,Zubin Tandon
+223,C0013,Cooling Tower Replacement - Phase-1,EX-WORKS [FACTORY],Kolkata,,29.10.2024,,Domestic,Pultruded Profiles,Pultrusion,,,,10889,P6944993484,,,,PO Received & Delivered,"Nov,25",,,3954402.75,Qamar Bhatt
+224,C0013,Acid Dilution Unit - Rev-A,Ex-works [FACTORY],Kolkata,,,,,PULTRUSION,Pultrusion,,,,,,,,,Closed,,,,1010118.64,KO
+225,C0015,Pump House Flooring,FOR [SITE],Kolkata,VQ/FG/022/25-26,2025-11-21,,Export,Pultrusion,Pultrusion,,,,10358,P1762941246,,,31.01.2026,PO Received & Delivered,,,,772877.82,HN
+226,C0021,Clarifier Internals - Site Supply,,Kolkata,,,,Internal,Pultruded Grating,Grating,,,,10605,,13.06.2025,,,PO Received & Delivered,,,,1828254.75,ZT
+227,C0001,Scrubber Package - Phase-1,Ex-Works [FACTORY],Kolkata,PO received,06-12-2024,,Domestic,VESSEL,Pressure Vessel,,,,10536,P3738568701,,,,PO Received & Delivered,,,,2094578.45,Qamar Bhatt
+228,C0013,Effluent Line Replacement - Site Supply,,Kolkata,VQ/FG/137/25-26,19.07.2025,,Internal,Pultruded Profiles,Pultrusion,,,,,,,,,Closed,,,,,HN
+229,C0013,Brine Handling - Rev-A,,,,,,Internal,PULTRUSION,Pultrusion,,,,,,,,,CLOSED,,,,,Hemal Zaveri
+230,C0001,Filter Press Area - Phase-2,,Kolkata,VQ/FV/006/24-25,18.05.2024,,Domestic,Vessel,Pressure Vessel,,,,10196,,22-05-2024,,,PO received & Delivered,,,,,Hemal Zaveri
+231,C0020,Clarifier Internals - Package B,,Kolkata,verbally confirmed,09.08.2026,,Domestic,Grating,Grating,2,,,10986,P6044502570,26.08.2026,,,OPEN,NA,,,772080.52,FQ
+232,C0001,Caustic Storage - Phase-1,EXW,Kolkata,,30.06.2026,,Domestic,FRP Vessel,Pressure Vessel,,,,10225,P7650622478,01.07.2026,,,PO Received & Delivered,,,,621790.17,ZT
+233,C0013,ETP Upgradation,EX-WORKS KOLKATA,Kolkata,VQ/FG/50/24-25 Rev.4,,,Domestic,Pultrusion,Pultrusion,,GEM,04-11-2024,10755,P5868824748,,,,PO Received & Delivered,,,,,Farhan Qureshi
+234,C0013,Caustic Storage - Unit-3,,Kolkata,,21.05.2026,,,Pultrusion,Pultrusion,,,,10269,P8851838021,11.06.2026,,02.07.2026,PO Received & Delivered,,,45 days credit – MSME / 90 days – non-MSME,1466215.73,Qamar Bhatt
+235,C0013,Sea Water Intake - Unit-3,EX-WORKS [FACTORY],Kolkata,VQ/FGS/072/26-27,28.07.2026,26.09.2026,Internal,Pultrusion - Handrail,Pultrusion,11,,,10758,P1438363066,17.08.2026,,31.08.2026,Open,,,,1119535.08,Harita Nambiar
+236,C0013,Chlorine Dosing Skid,,Kolkata,VQ/FG/013/25-26 REV-02,,2025-09-20,Internal,Pultrusion,Pultrusion,,,,10479,P7934038104,2025-08-26,25-10-2025,,PO RECEIVED & DELIVERED,,,,,Yash Nagpal
+237,C0020,Platform Extension,,Kolkata,,,,Internal,GRATING,Grating,,,,10083,P7276969882,,,,PO Received & Delivered,,,,577806.85,Farhan Qureshi
+238,C0013,Filter Press Area,EX-WORKS [FACTORY],Kolkata,VQ/FG/103/25-26,2025-11-03,,Internal,Pultrusion,Pultrusion,,,,,,,,,Open,,,,2968180.58,Hemal Zaveri
+239,C0001,ETP Upgradation - Phase-1,,Kolkata,,2026-08-20,,Domestic,Vessel,Pressure Vessel,13,,,10950,P8795212264,21.08.2026,,,PO RECEIVED,,,,,KO
+240,C0001,Sea Water Intake - Unit-3,,Kolkata,VQ/FV/057/24-25,01.07.2024,,,FRP Vessel,Pressure Vessel,49,,,,,,,,Closed,,,,5938844.77,Hemal Zaveri
+241,C0001,Sump Covers - Unit-3,,Kolkata,,25.06.2025,,,FRP Pressure Vessel,Pressure Vessel,,,,10359,P5189593189,26.06.2025,,,PO RECEIVED & DELIVERED,,,,7101908.57,Zubin Tandon
+242,C0020,Cable Trench Covers,EX-WORKS [FACTORY],Kolkata,VQ-FGS-027-24-25,,,Domestic,Grating,Grating,7,,,10460,P7830360182,09-05-2024,,,PO Received & Delivered,,,,243499.15,Hemal Zaveri
+243,C0001,Tank Farm Revamp - Unit-3,,Kolkata,,25.07.2025,,External,FRP Vessel,Pressure Vessel,,,,10757,P9045090355,08-08-2025,,,PO Received & Delivered,,,,,Ketan Oza
+244,C0001,Bio Tank Package - Phase-1,,Kolkata,VQ/FV/064/24-25,01.11.2024,30.01.2025,External,FRP Vessel,Pressure Vessel,,,,,,,,,Closed,"Nov,25",,,,Yash Nagpal
+245,C0021,Brine Handling,EX-WORKS [PLANT 2],Kolkata,,16.06.2025,,Internal,Grating,Grating,,,,10380,P8047348633,,,06-08-2025,PO RECEIVED & DELIVERED,,,,12809.6,ZT
+246,C0001,Clarifier Internals - Rev-A,EX-WORKS [FACTORY],Kolkata,,07.08.2024,,Domestic,FRP Vessel,Pressure Vessel,,,,10720,P5419489933,,,,PO Received & Delivered,,,,,Ketan Oza
+247,C0013,Filter Press Area - Site Supply,,Kolkata,VQ/FG/148/25-26,23.10.2025,07.12.2025,Domestic,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,916072.74,HN
+248,C0013,Platform Extension - Phase-1,EX-WORKS [FACTORY],Kolkata,VQ/FG/116/25-26,26-04-2025,26.05.2025,Internal,Pultrusion,Pultrusion,,,,,,,,,Open,,,,,Ketan Oza
+249,C0013,Sea Water Intake,,Kolkata,VQ/FG/008/24-25,,,Domestic,Pultrusion,Pultrusion,,,,10014,P3774190383,,,,PO Received & Delivered,,,,1174017.76,IK
+250,C0013,Sea Water Intake - Unit-3,,,VQ/PG/74/23-24 REV-08,2024-03-18,,Internal,Pultrusion,Pultrusion,17,,,10182,P4517262299,2024-04-14,,,PO Received & Delivered,"Aug,25",,,219477.01,Qamar Bhatt
+251,C0013,Sea Water Intake - Package B,,Kolkata,VQ/FG/115/25-26,20-01-2026,,Domestic,Pultrusion,Pultrusion,20,,,,,,,,Closed,,,100% against the receipt of materials,,QB
+252,C0020,Desalination Package - Unit-3,,Kolkata,VQ/FG/49/25-26,28.11.2025,27.01.2026,,GRATING,Grating,,,,,,,,,Open,,,,,YN
+253,C0014,Sump Covers - Package B,,NA,,2026-05-15,,Domestic,Pultruded Profiles,Pultrusion,257,,,10393,P4467742419,2026-05-16,,,PO Received & Delivered,,,,,FQ
+254,C0013,Cable Trench Covers,,Kolkata,VQ/FG/75/24-25,11.07.2024,09.10.2024,Internal,Pultruded Profiles,Pultrusion,,,,10606,P3743340587,,,,PO Received & Delivered,"Jan,26",,,7128166.54,Qamar Bhatt
+255,C0014,Pickling Line Covers - Unit-3,EX-WORKS KOLKATA,,,14.03.2025,,Internal,Pultrusion,Pultrusion,204,,,10485,P4938269146,19.03.2025,,,PO Received & Delivered,,,,,QB
+256,C0021,Clarifier Internals - EPC Scope,Ex-Works [FACTORY],Kolkata,VQ/FG/39/25-26,03.05.2025,,Domestic,Grating,Grating,,,,,,,,,NOT RECEIVED,,,,991153.24,Yash Nagpal
+257,C0001,Clarifier Internals - Package B,,Kolkata,,10-05-2026,,Domestic,FRP Vessel,Pressure Vessel,23,,,10415,P5694806361,20.05.2026,,,PO Received & Delivered,,,,,Harita Nambiar
+258,C0001,Platform Extension - Site Supply,,Kolkata,,09.01.2025,,Domestic,FRP Vessel,Pressure Vessel,,,,10901,P7435820151,2025-01-10,,12-01-2025,PO RECEIVED & DELIVERED,,,,,Ketan Oza
+259,C0001,Sea Water Intake - Phase-2,EX-WORKS [FACTORY],Kolkata,,,,External,Vessel,Pressure Vessel,,,,10273,P6855970349,2025-07-11,,,PO Received & Delivered,,,,28305.57,Hemal Zaveri
+260,C0013,Acid Dilution Unit - Phase-1,,Kolkata,,,,,PULTRUSION,Pultrusion,,,,,,,,,NOT RECEIVED,,,,325152.6,IK
+261,C0002,RO Skid Package,FOR,Kolkata,,26-02-2025,,External,FRP Vessel,Pressure Vessel,3,,,10129,P9316609031,29.05.2025,,,PO Received & Delivered,NA,,,1764796.05,YN
+262,C0017,RO Skid Package - EPC Scope,,Kolkata,VQ/FG/112/24-25,,,,Pultruded Profiles,Pultrusion,,,,,,,,,Open,,,,,KO
+263,C0013,RO Skid Package - EPC Scope,,Kolkata,VQ/FGS/102/24-25,15.08.2024,,,Pultrusion,Pultrusion,,Mail,07.08.2024,,,,,,Open,No,,,407937.12,Ishan Kabir
+264,C0020,Scrubber Package - Phase-1,,Kolkata,,,,Domestic,Grating,Grating,,,,10902,P7821269416,2024-06-20,,,PO RECEIVED & DELIVERED,,,,48197.54,Harita Nambiar
+265,C0014,Platform Extension - Rev-A,,Kolkata,,,,Internal,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,9140865.75,Yash Nagpal
+266,C0001,Brine Handling,,Kolkata,Open,09.07.2024,,Domestic,FRP Vessel,Pressure Vessel,,,,,P8894618608,,,,PO Received & Delivered,,,,,Farhan Qureshi
+267,C0023,Scrubber Package - Phase-2,,Kolkata,,31.05.2026,,Internal,GRATING,Grating,,,,10078,P9473163280,01-06-2026,,,PO Received & Delivered,,,,,Ketan Oza
+268,C0023,Bio Tank Package - Phase-1,EX-WORKS KOLKATA,Kolkata,po received & delivered,03.03.2026,,Domestic,Grating,Grating,,,,10690,P7127056267,13.03.2026,,,PO RECEIVED & DELIVERED,,,,,Farhan Qureshi
+269,C0022,Scrubber Package - Phase-2,,Kolkata,VQ/FGS/076/25-26,11.04.2025,,Domestic,GRATING,Grating,,,,,,,,,Open,,,,1544561.72,Zubin Tandon
+270,C0013,Platform Extension - EPC Scope,,Kolkata,VQ-FG-153-25-26,09.08.2025,07-11-2025,Internal,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,,Ketan Oza
+271,C0023,Platform Extension - Phase-1,EX-WORKS [FACTORY],Kolkata,,,,Domestic,Pultruded Grating,Grating,,,,10928,P1047477405,2024-04-03,,20.04.2024,PO Received & Delivered,,,,784181.41,Yash Nagpal
+272,C0027,Effluent Line Replacement - Phase-1,Ex-Works,Kolkata,Open,03-02-2026,,Domestic,Grating,Grating,,,,10740,P3304913884,03-02-2026,,,PO Received & Delivered,,,,137528.94,Harita Nambiar
+273,C0013,Caustic Storage - Package B,,Kolkata,VQ/FGS/165/25-26,24-07-2025,,Internal,Pultrusion,Pultrusion,42,,,,,,,,CLOSED,,,,6796122.78,Farhan Qureshi
+274,C0020,Pump House Flooring,,Kolkata,VQ/G&P/068/25-26,07.12.2025,,Domestic,Grating,Grating,,Mail,01.12.2025,,,,,,Not Received,,,,296991.97,Ketan Oza
+275,C0002,Filter Press Area - Unit-3,,Kolkata,VQ/FV/021/24-25,2025-01-17,,Domestic,FRP Vessel,Pressure Vessel,,Mail,13.01.2025,10589,P8324687182,20.01.2025,,,PO Received & Delivered,"Oct-25,Dec-25",,,,Ketan Oza
+276,C0013,Sump Covers - Rev-A,EX-WORKS [FACTORY],Kolkata,,27.05.2026,,Domestic,Pultrusion,Pultrusion,,,,10878,P7127584892,01.06.2026,,27.06.2026,PO Received & Delivered,,,,1450147.94,Harita Nambiar
+277,C0038,Platform Extension - Rev-A,FOR,Kolkata,,26.06.2026,,Domestic,Grating,Grating,,,,10919,P4811188866,,,,Order Confirmed,,,,,Qamar Bhatt
+278,C0020,Filter Press Area - Phase-1,,Kolkata,VQ/FG/078/24-25,17.08.2024,,Domestic,GRATING,Grating,,,,,,,,,Closed,,,,130601.93,YN
+279,C0001,Pickling Line Covers - Phase-1,,Kolkata,,21.09.2025,,,VESSEL,Pressure Vessel,,,,10323,P3484872186,,,,PO RECEIVED & DELIVERED,,,,1137943.39,ZT
+280,C0016,Brine Handling - Site Supply,,Kolkata,VQ/FG/164/25-26,06.02.2026,,Domestic,Pultrusion - Handrail,Pultrusion,,,,,,,,,LOST,,,,30055.3,Zubin Tandon
+281,C0013,Walkway & Handrail - Site Supply,EX-WORKS [FACTORY],Kolkata,,26-11-2024,,Internal,Pultrusion,Pultrusion,,,,10421,,,,19.12.2024,PO Received & Delivered,,,,,Niharika Vora
+282,C0013,Cooling Tower Replacement - Site Supply,EX-WORKS KOLKATA,Kolkata,VQ/FG/048/24-25,,,Domestic,Pultruded Profiles,Pultrusion,,,,10185,P1516917996,2025-04-05,,31.05.2025,PO Received & Delivered,,,,12966321.12,Qamar Bhatt
+283,C0013,Sump Covers - Phase-1,,Kolkata,VQ/FGS/043/24-25,2024-05-26,,Internal,Pultrusion,Pultrusion,,,,,P3997380182,26-06-2024,,,PO Received & Delivered,,,,2130873.58,Hemal Zaveri
+284,C0036,Pump House Flooring - Phase-2,,Kolkata,VQ/FG/063/25-26 REV-04,2025-09-26,10.11.2025,Domestic,Pultruded Grating,Grating,,,,,,,,,Open,,,,,IK
+285,C0002,ETP Upgradation - Package B,,Kolkata,VQ/FV/058/24-25,31.08.2024,,,Vessel,Pressure Vessel,,,,,,,,,CLOSED,,,,1044351.1,Hemal Zaveri
+286,C0013,Cooling Tower Replacement,,Kolkata,VQ/FG/114/24-25,07-05-2024,,Internal,Pultrusion,Pultrusion,,,,,,,,,Open,,,,269600.22,Qamar Bhatt
+287,C0003,Effluent Line Replacement,,,PO received,25.11.2025,,Export,VESSEL,Pressure Vessel,,,,10955,P7763740453,26.11.2025,,,PO Received & Delivered,,,,97916.68,Hemal Zaveri
+288,C0013,Pickling Line Covers - Unit-3,,Kolkata,VQ-FG-83-26-27,08.05.2026,,Internal,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,,Qamar Bhatt
+289,C0020,Sea Water Intake - Package B,EX-WORKS [FACTORY],,,26.02.2026,,Domestic,Grating,Grating,,,,10411,P2520585151,18.03.2026,,,CANCELED,,,,3388038.82,HN
+290,C0031,Sump Covers,,Kolkata,VQ/FG/006/26-27,2026-07-23,,Domestic,Moulded Grating,Grating,17,,,10837,P3213198005,2026-07-27,,,Open,,,,985739.13,KO
+291,C0013,Caustic Storage,,Kolkata,VQ/FG/059/24-25,17.06.2024,,Internal,Pultruded Profiles,Pultrusion,13,,,10559,P4969240305,,,,PO Received & Delivered,,,,680812.17,Ishan Kabir
+292,C0021,Cable Trench Covers - Site Supply,,Kolkata,,28.02.2026,,Internal,Pultruded Grating,Grating,2,,,10016,P2944005137,2026-04-09,,,PO RECEIVED & DELIVERED,NA,,,1313019.45,Ketan Oza
+293,C0001,Sump Covers - Phase-1,,Kolkata,VQ/FV/15/24-25,2025-02-10,,,FRP Vessel,Pressure Vessel,,,,10027,P4361393222,14.02.2025,,,PO RECEIVED & DELIVERED,,,,4579625.13,Farhan Qureshi
+294,C0014,Cooling Tower Replacement - Phase-1,EX-WORKS KOLKATA,Kolkata,VQ/FG/015/26-27,13.06.2026,11.09.2026,Domestic,PULTRUSION,Pultrusion,28,,,10812,P6943891262,,,,PO RECEIVED & DELIVERED,,,,2664528.22,Yash Nagpal
+295,C0013,Cable Trench Covers - EPC Scope,Ex-Works,Kolkata,VQ/FG/95/26-27,27.08.2026,,Internal,Pultrusion,Pultrusion,,,,,,,,,CLOSED,,,,460809.1,Zubin Tandon
+296,C0032,Chlorine Dosing Skid - Phase-2,FOB,Kolkata,,,,Domestic,GRATING,Grating,1,,,10962,P1744477130,,,,PO RECEIVED & DELIVERED,,,,208787.31,FQ
+297,C0002,Scrubber Package - Unit-3,Ex works,Kolkata,,07.08.2026,,,Vessel,Pressure Vessel,,,,10102,P3095318649,11.08.2026,09-11-2026,,Open,,,,2947694.27,YN
+298,C0013,Pump House Flooring,,Kolkata,,,,Internal,Pultruded Profiles,Pultrusion,,,,,,,,,Closed,,,,,QB
+299,C0001,Scrubber Package,Ex-Works [FACTORY],Kolkata,,06.04.2025,,Domestic,Pressure Vessel,Pressure Vessel,,,,10808,P7678293431,10.04.2025,,,PO RECEIVED & DELIVERED,,,,,ZT
+300,C0001,Brine Handling - EPC Scope,,Kolkata,VQ/FV/29/26-27 Rev.2,,,Domestic,Vessel,Pressure Vessel,,,,10327,P5819946657,18-04-2026,,,PO RECEIVED & DELIVERED,,,,2037452.54,Harita Nambiar
+301,C0013,Cooling Tower Replacement,Ex-Works,Kolkata,VQ/FG/36/25-26,16.01.2026,,Internal,Pultrusion - Handrail,Pultrusion,181,,,10850,P4019219484,09.02.2026,,06-03-2026,PO Received & Delivered,,,,,YN
+302,C0021,RO Skid Package,,Kolkata,VQ/FGS/066/24-25,23.02.2025,,Internal,Grating,Grating,,Mail,12.02.2025,,,,,,Open,,,,662810.57,Farhan Qureshi
+303,C0030,Scrubber Package - EPC Scope,,Kolkata,VQ-FG-077-25-26,25.05.2025,23.08.2025,,GRATING,Grating,,,,,,,,,Open,,,,7187775.78,Qamar Bhatt
+304,C0013,Acid Dilution Unit - Rev-A,,Kolkata,,,,Domestic,Pultrusion,Pultrusion,,,,,,,,,Closed,NA,,,9999948.31,Harita Nambiar
+305,C0013,Pump House Flooring - EPC Scope,FOR,Kolkata,VQ/FG/64/23-24,09.01.2024,,,Pultrusion,Pultrusion,,Mail,26.12.2023,10540,P6658494712,08.04.2024,,,PO Received & Delivered,,,,649104.04,HN
+306,C0013,ETP Upgradation - Package B,Ex-Works [FACTORY],Kolkata,VQ/FG/024/24-25,2024-08-26,,Internal,PULTRUSION,Pultrusion,,,,,P6695183060,09.09.2024,,,PO Received & Delivered,,,,2131219.49,NV
+307,C0013,Brine Handling - EPC Scope,,Kolkata,,,,Internal,Pultrusion,Pultrusion,,,,,,,,,NOT RECEIVED,,,,2100889.04,HN
+308,C0013,Effluent Line Replacement - Package B,FOB,Kolkata,Open,23-09-2024,,Domestic,Pultrusion,Pultrusion,,,,10490,P5317456982,,,,PO Received & Delivered,,,,,Ketan Oza
+309,C0024,Filter Press Area - Rev-A,EX-WORKS [FACTORY],Kolkata,,,,Internal,Grating,Grating,,,,50639,P8720248706,20-02-2025,,,PO Received & Delivered,,,,735481.37,KO
+310,C0013,Desalination Package - Phase-1,,Kolkata,VQ/FG/038/23-24,2024-02-22,,Internal,Pultrusion - Handrail,Pultrusion,,,,10109,P3828316958,,,,PO Received & Delivered,,,,596656.22,Niharika Vora
+311,C0035,Bio Tank Package,Ex-Works [FACTORY],Kolkata,VQ/PG/019/25-26,13.02.2026,,Domestic,GRATING,Grating,,Call,01.02.2026,10473,P1744173232,,,,PO RECEIVED & DELIVERED,,,,2806543.17,HZ
+312,C0013,Pickling Line Covers,,Kolkata,,08.04.2025,,Domestic,Pultrusion,Pultrusion,,,,10408,P2147767812,11.04.2025,,,Cancel,,,,2040761.62,Ketan Oza
+313,C0004,Brine Handling - Site Supply,EX-WORKS [PLANT 2],Kolkata,,,,DOMESTIC,FRP Vessel,Pressure Vessel,3,,,10497,P4632522232,12.10.2025,,11.11.2025,PO Received & Delivered,,,,1977863.1,HZ
+314,C0013,Tank Farm Revamp,ExW,Kolkata,,,,Domestic,Pultrusion,Pultrusion,,,,,,,,,Not Received,,,,153210.23,ZT
+315,C0013,Pickling Line Covers,Ex-Works [FACTORY],Kolkata,,,,,Pultruded Profiles,Pultrusion,,,,,,,,,CLOSED,,,,505642.58,Ishan Kabir
+316,C0001,Brine Handling - EPC Scope,,Kolkata,,,,,FRP Vessel,Pressure Vessel,,,,10839,P6056989774,,,,PO Received & Delivered,,,,,Ishan Kabir
+317,C0002,Desalination Package - EPC Scope,,Kolkata,,,,Domestic,FRP Vessel,Pressure Vessel,,,,10922,P1964307023,,,,PO Received & Delivered,,,,,Qamar Bhatt
+318,C0020,Cooling Tower Replacement - Phase-1,,Kolkata,VQ/FG/43/24-25,09-08-2024,,Internal,GRATING,Grating,,GEM,25-07-2024,,,,,,Open,,,,26103.56,Ketan Oza
+319,C0001,Pump House Flooring,,Kolkata,,08.08.2026,,Domestic,Vessel,Pressure Vessel,,,,10206,P3235986982,,,,Open,,,,,Niharika Vora
+320,C0002,Brine Handling,Ex-Works [FACTORY],Kolkata,VQ/FV/040/24-25,,,,FRP Vessel,Pressure Vessel,,,,10077,P6094037570,2024-05-04,,,PO Received & Delivered,,,,,Qamar Bhatt
+321,C0056,Filter Press Area - Phase-1,EX-WORKS [FACTORY],Kolkata,VQ/FGP/38/24-25,07-07-2024,,,Grating,Grating,,,,10652,P8739161742,2024-07-20,,,PO Received & Delivered,,,,,Yash Nagpal
+322,C0001,Pump House Flooring - Phase-1,,Kolkata,VQ/FV/005/24-25,20.11.2024,,Domestic,FRP Vessel,Pressure Vessel,,,,10313,P1817804383,21.11.2024,,,PO Received & Delivered,,,,14712977.17,Harita Nambiar
+323,C0007,Sea Water Intake - Rev-A,,Kolkata,VQ/FV/48/25-26,14-01-2026,,Export-Non-KAG,Vessel,Pressure Vessel,,,,,,,,,Not Received,,,,,Harita Nambiar
+324,C0001,Cable Trench Covers,,Kolkata,,2025-11-04,,Domestic,FRP Vessel,Pressure Vessel,,,,10404,P1221459606,11.11.2025,,,PO Received & Delivered,,,,,HN
+325,C0013,Pump House Flooring,Ex-works [FACTORY],Kolkata,VQ/PG/065/26-27,,26-06-2026,Internal,Pultrusion,Pultrusion,,,,10436,P9928259911,13-06-2026,,,PO Received & Delivered,,,,,Ishan Kabir
+326,C0013,Acid Dilution Unit,,Kolkata,,,,,Pultrusion,Pultrusion,,,,,,,,,CLOSED,,,,4574541.73,Harita Nambiar
+327,C0020,Pickling Line Covers - Phase-1,Ex-Works [FACTORY],,,,,Internal,Grating,Grating,,,,10444,P6983989923,,,17.09.2025,PO Received & Delivered,,,,29953.79,Harita Nambiar
+328,C0009,Caustic Storage,EX-WORKS [FACTORY],Kolkata,,,,Domestic,VESSEL,Pressure Vessel,33,,,10098,P7971780517,,,,PO Received & Delivered,"Aug,25",,,,HN
+329,C0013,Filter Press Area - Package B,,Kolkata,,,,Internal,Pultrusion,Pultrusion,,,,10478,P4101737697,2026-03-31,,,PO Received & Delivered,"Nov,25",,,,KO
+330,C0013,Chlorine Dosing Skid,Ex-Works [FACTORY],Kolkata,VQ-FG-093-24-25,12.03.2025,,Internal,Pultrusion,Pultrusion,,,,,,,,,CLOSED,,,,148168.13,Farhan Qureshi
+331,C0013,Pump House Flooring - Phase-2,,Kolkata,,,,,Pultrusion,Pultrusion,,,,,,,,,Not Received,,,,697380.77,Ishan Kabir
+332,C0013,Scrubber Package - Site Supply,,Kolkata,VQ/PG/56/25-26,22.05.2025,20-08-2025,Internal,Pultrusion,Pultrusion,,,,10090,P7450493016,,,20.07.2025,PO Received & Delivered,,,,333747.55,ZT
+333,C0013,Pump House Flooring,EX-WORKS [FACTORY],Kolkata,VQ/FG/136/24-25,14.01.2025,15.03.2025,Domestic,Pultrusion,Pultrusion,,,,,,,,,Open,,,,,Farhan Qureshi
+334,C0013,Acid Dilution Unit - Unit-3,EX-WORKS KOLKATA,Kolkata,,24.07.2025,,Internal,Pultrusion - Handrail,Pultrusion,,,,10188,P7998529307,,29.09.2025,,PO Received & Delivered,,,,577854.84,Qamar Bhatt
+335,C0025,Cable Trench Covers - Phase-1,,Kolkata,VQ/FG/79/25-26,05.11.2025,04-01-2026,Domestic,Pultruded Grating,Grating,,,,,,,,,Open,,,,2097060.1,Hemal Zaveri
+336,C0001,Cooling Tower Replacement - Phase-2,EX-WORKS KOLKATA,Kolkata,,12.04.2024,,Domestic,FRP Vessel,Pressure Vessel,42,,,10482,P4490722186,13.04.2024,,,PO RECEIVED & DELIVERED,,,,4690825.24,Qamar Bhatt /Harita Nambiar
+337,C0006,Sump Covers - Unit-3,Ex-Works [FACTORY],Kolkata,VQ/FV/060/24-25,03.11.2024,,Export-Non-KAG,FRP Vessel,Pressure Vessel,,GEM,25.10.2024,,,,,,LOST,,,,132350.98,Qamar Bhatt
+338,C0013,Bio Tank Package - EPC Scope,,Kolkata,,07-12-2024,,Internal,PULTRUSION,Pultrusion,,,,10277,P2171149129,07.01.2025,,29.01.2025,PO Received & Delivered,,,,510474.47,IK
+339,C0020,Sump Covers,,Kolkata,VQ/FG/91/26-27 REV-06,2026-06-01,,Domestic,Grating,Grating,,,,,,,,,Open,,,,342827.37,Niharika Vora
+340,C0001,Filter Press Area - Unit-3,Ex-Works [FACTORY],Kolkata,VQ/FV/24/24-25,12-06-2024,,External,FRP Vessel,Pressure Vessel,,,,10860,P8298348088,15-06-2024,,2024-08-27,PO RECEIVED & DELIVERED,,,,,Niharika Vora
+341,C0020,Brine Handling - Unit-3,FOR [SITE],Kolkata,VQ/FG/037/26-27,03.08.2026,,Domestic,Moulded Grating,Grating,,Portal,12.07.2026,10005,P7235976165,,,,Open,,,,176622.85,Hemal Zaveri
+342,C0013,Sump Covers,EX-WORKS [FACTORY],Kolkata,VQ/FG/081/26-27,,2026-06-07,Internal,PULTRUSION,Pultrusion,2,Mail,04-05-2026,10533,P4417097158,2026-06-04,,,PO RECEIVED & DELIVERED,,,,145409.72,HZ
+343,C0013,Chlorine Dosing Skid - Package B,,Kolkata,,07.12.2024,,,Pultruded Profiles,Pultrusion,47,,,10702,P7226447920,26.12.2024,,,PO RECEIVED & DELIVERED,,,,,Qamar Bhatt
+344,C0013,Pickling Line Covers - Phase-2,,Kolkata,VQ/FG/35/25-26,,,Internal,Pultrusion,Pultrusion,23,,,10139,P8972064951,,,AS EARLY AS POSSIBLE,PO RECEIVED & DELIVERED,,,,2105254.76,Qamar Bhatt
+345,C0013,Acid Dilution Unit - Package B,Ex-Works [FACTORY],,PO received,17-03-2024,,Internal,Pultrusion,Pultrusion,,,,10771,P6792638620,2024-04-04,,,PO Received & Delivered,,,,844621.51,KO
+346,C0013,Scrubber Package,Ex-Works [FACTORY],Kolkata,VQ-FG-156-25-26,28-06-2025,26.09.2025,Domestic,Pultruded Profiles,Pultrusion,12,,,,,,,,LOST,,,,902697.23,FQ
+347,C0023,Brine Handling - EPC Scope,EX-WORKS [FACTORY],Kolkata,VQ/FG/010/25-26,27.03.2026,,Domestic,Moulded Grating,Grating,562,,,10799,P6983634041,16.04.2026,,,PO Received & Delivered,,,,712359.64,Qamar Bhatt
+348,C0001,Pump House Flooring - EPC Scope,,Kolkata,po received & delivered,11.06.2026,,Domestic,FRP Vessel,Pressure Vessel,,,,10151,P4039019230,,,,PO Received & Delivered,,,,70629.85,Ishan Kabir
+349,C0001,Effluent Line Replacement - Site Supply,EX-WORKS KOLKATA,Kolkata,,,,Domestic,VESSEL,Pressure Vessel,,,,10199,P5108541819,,,,PO Received & Delivered,,,,,Qamar Bhatt
+350,C0001,ETP Upgradation - Unit-3,Ex-Works [FACTORY],Kolkata,,17-08-2026,,Domestic,VESSEL,Pressure Vessel,,,,10238,P3422182038,19-08-2026,,,OPEN,,,,,QB
+351,C0013,Acid Dilution Unit - Site Supply,Ex-Works,,VQ/FG/040/25-26,20-11-2025,,Internal,PULTRUSION,Pultrusion,,,,60839,P7967780181,12.12.2025,,,PO Received & Delivered,,,,368373.49,Hemal Zaveri
+352,C0020,Tank Farm Revamp - Phase-2,,Kolkata,,24.04.2026,,Internal,GRATING,Grating,2,,,10013,P1790842759,,,20.06.2026,PO Received & Delivered,,,,,FQ
+353,C0036,Chlorine Dosing Skid - EPC Scope,EX-WORKS KOLKATA,Kolkata,VQ/FG/26/25-26 REV-05,27.04.2025,,,Grating,Grating,,,,10268,P3531085184,,,07.06.2025,On Hold,YES,Not mentioned,,586188.75,NV
+354,C0001,Acid Dilution Unit - Phase-2,EX-WORKS [FACTORY],Kolkata,VQ/FV/07/26-27,,,Domestic,FRP Vessel,Pressure Vessel,,,,10475,P2119980130,20.08.2026,,2026-09-14,On Hold,,,,1687956.75,Farhan Qureshi
+355,C0001,Pickling Line Covers,Ex-Works [FACTORY],Kolkata,VQ/FV/017/25-26,24.09.2025,,Domestic,VESSEL,Pressure Vessel,,,,10020,P8467250120,26.09.2025,,,PO RECEIVED & DELIVERED,,,,339618.95,Niharika Vora
+356,C0013,Scrubber Package,,Kolkata,VQ/FGS/168/24-25,04.07.2024,2024-09-02,Internal,Pultrusion,Pultrusion,,,,,,,,,Open,,,,576333.47,Harita Nambiar
+357,C0013,Filter Press Area - Phase-2,,Kolkata,,,,,PULTRUSION,Pultrusion,40,,,,,,,,Not Received,,,,,IK
+358,C0021,Bio Tank Package - Package B,,Kolkata,VQ-FG-055-26-27,14-07-2026,,Domestic,Moulded Grating,Grating,19,,,,,,,,Open,,,,259352.54,ZT
+359,C0023,Brine Handling,,Kolkata,VQ/FG/40/26-27,31-07-2026,29.09.2026,,Moulded Grating,Grating,,,,,,,,,NOT RECEIVED,,,,,QB
+360,C0014,Filter Press Area - Unit-3,EX-WORKS [PLANT 2],Kolkata,,,,Domestic,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,988594.49,Ketan Oza
+361,C0014,Brine Handling - Phase-2,,Kolkata,po received & delivered,10.01.2026,,Internal,PULTRUSION,Pultrusion,,,,10228,P6631097590,22.01.2026,,,PO Received & Delivered,,,,952356.39,HZ
+362,C0014,Pump House Flooring - Phase-2,EX-WORKS KOLKATA,Kolkata,po received & delivered,2025-11-25,,Internal,PULTRUSION,Pultrusion,,,,10908,P9862513734,20.12.2025,,,PO Received & Delivered,,,,1969316.83,HZ
+363,C0013,Filter Press Area,Ex-Works [FACTORY],Kolkata,,,,Internal,Pultruded Profiles,Pultrusion,,,,,,,,,Not Received,,,,1016125.68,ZT
+364,C0013,Sea Water Intake - Unit-3,Ex-Works [FACTORY],Kolkata,VQ/FG/025/25-26,10.06.2025,10-07-2025,,PULTRUSION,Pultrusion,,Call,29.05.2025,30810,P5736461116,,,,PO Received & Delivered,0.5% of total subcontract value/week or part thereof; max. 5%,,,319284.81,Niharika Vora
+365,C0013,Effluent Line Replacement - Phase-1,EX-WORKS KOLKATA,Kolkata,GEM/2024/B/7466927,27-10-2024,,Internal,Pultrusion,Pultrusion,,,,10242,P9060028594,,,,PO Received & Delivered,,,,,IK
+366,C0002,Tank Farm Revamp - Package B,,Kolkata,,28-10-2024,,Domestic,VESSEL,Pressure Vessel,454,,,10420,P1242425303,29.10.2024,,,PO Received & Delivered,,,,2711120.73,Yash Nagpal
+367,C0013,Cooling Tower Replacement - Package B,,Kolkata,,,,Internal,Pultrusion,Pultrusion,,,,,,,,,CLOSED,"Sept,25",,,,HZ
+368,C0013,Chlorine Dosing Skid,,Kolkata,VQ/FGS/105/24-25,2024-12-15,,Internal,Pultrusion - Handrail,Pultrusion,,,,,,,,,Open,"Nov,25",,,1750409.5,Qamar Bhatt
+369,C0001,Desalination Package,Ex-works [FACTORY],Kolkata,VQ/FV/032/25-26,07-07-2025,,Domestic,FRP Pressure Vessel,Pressure Vessel,,,,10224,P3719679239,16.07.2025,,,PO Received & Delivered,,,,81950.88,Ketan Oza
+370,C0013,Pump House Flooring,Ex-Works [FACTORY],,,,,Internal,Pultruded Profiles,Pultrusion,,,,,,,,,Closed,,,,445172.99,Harita Nambiar
+371,C0024,Filter Press Area - Phase-2,EX-WORKS [FACTORY],,VQ/FG/060/25-26,25-04-2025,,,GRATING,Grating,12,,,,,,,,Lost,,,,8266244.38,Ishan Kabir
+372,C0003,Cable Trench Covers,Ex-Works,Kolkata,VQ/FV/030/25-26,,,,FRP Pressure Vessel,Pressure Vessel,,,,10382,P8118240999,21-02-2026,,06.03.2026,PO Received & Delivered,,,,7733964.84,YN
+373,C0044,Desalination Package,,Kolkata,VQ/FG/16/26-27 REV-02,04.06.2026,2026-07-04,Export,Grating,Grating,2,,,10236,P7668993278,07.07.2026,,,Bill,NA,,,79789.29,Niharika Vora
+374,C0001,Bio Tank Package,,Kolkata,VQ/FV/059/24-25 REV -02,05.04.2024,,Domestic,VESSEL,Pressure Vessel,,,,,,,,,NOT RECEIVED,,,,47297.86,Ishan Kabir
+375,C0013,RO Skid Package,Ex-Works [FACTORY],Kolkata,VQ/PG/55/25-26,08.04.2025,07.07.2025,Domestic,Pultruded Profiles,Pultrusion,,,,10711,P4023497467,30.07.2025,,,PO Received & Delivered,,,,,Zubin Tandon
+376,C0013,Sea Water Intake - Site Supply,EX-WORKS KOLKATA,Kolkata,po received & delivered,28.05.2026,,Internal,Pultrusion,Pultrusion,165,,,10852,P7715350726,,,,PO Received & Delivered,,,,,IK
+377,C0013,Platform Extension - Phase-2,,Kolkata,VQ-FGS-121-25-26 Rev.8,09.02.2026,2026-04-10,Internal,Pultrusion,Pultrusion,6,,,,,,,,NOT RECEIVED,,,,,Harita Nambiar
+378,C0013,ETP Upgradation,,Kolkata,VQ/FG/113/24-25,,,,PULTRUSION,Pultrusion,,,,,,,,,NOT RECEIVED,,,,,Harita Nambiar
+379,C0020,Cooling Tower Replacement - Phase-1,,Kolkata,,,,Internal,Moulded Grating,Grating,,,,,,,,,Closed,,,,2838662.28,HN
+380,C0001,Scrubber Package,,Kolkata,Open,,,Domestic,FRP Vessel,Pressure Vessel,,,,10883,P1600566083,05.03.2026,,,PO Received & Delivered,,,,,Harita Nambiar
+381,C0013,Sea Water Intake - Package B,Ex-Works [FACTORY],Kolkata,VQ/FG/051/24-25,,,Domestic,PULTRUSION,Pultrusion,22,,,10650,P4703774386,27.02.2025,,,Cancel,,,,299063.87,NV
+382,C0003,Cooling Tower Replacement,,Kolkata,,2026-07-05,,Export,FRP Vessel,Pressure Vessel,2,,,10203,P6583604299,05.07.2026,,,PO Received & Delivered,,,,1012051.84,Harita Nambiar
+383,C0001,Sea Water Intake - Unit-3,,Kolkata,VQ/FV/003/24-25,27-12-2024,27.03.2025,,Pressure Vessel,Pressure Vessel,281,Mail,23.12.2024,10244,P9573276057,2024-12-28,,15.05.2025,PO Received & Delivered,,,,856248.04,Hemal Zaveri
+384,C0013,Clarifier Internals - Phase-2,,Kolkata,VQ-FGS-014-25-26,24-09-2025,24.10.2025,Domestic,Pultrusion,Pultrusion,,,,10726,P9311022862,,,,PO RECEIVED & DELIVERED,,,,3289801.97,IK
+385,C0031,Walkway & Handrail - Package B,,Kolkata,VQ-FG-033-24-25,23.10.2024,,Domestic,GRATING,Grating,,,,10114,P9401592815,,,,PO Received & Delivered,,,,,Niharika Vora
+386,C0013,Brine Handling - EPC Scope,Ex-Works [FACTORY],Kolkata,VQ/PG/128/24-25,26.04.2024,,Internal,Pultrusion,Pultrusion,,,,,,,,,Open,,,,5499671.57,Harita Nambiar
+387,C0025,Sea Water Intake,,Kolkata,VQ-FGS-048-24-25,2024-12-20,,Domestic,Grating,Grating,,,,,,,,,Closed,,,,4100917.92,ZT
+388,C0028,Brine Handling - Rev-A,,,PO received,,,Domestic,Grating,Grating,,,,10805,P2495549753,,,,PO Received & Delivered,,,,1152076.38,Zubin Tandon
+389,C0001,Filter Press Area - Site Supply,Ex-Works [FACTORY],Kolkata,VQ/FV/027/24-25,31-05-2024,30.07.2024,Domestic,VESSEL,Pressure Vessel,,Call,12.05.2024,10671,P4735313433,02.06.2024,,10.06.2024,PO Received & Delivered,,,,12374.96,Qamar Bhatt
+390,C0020,Sump Covers,EX-WORKS KOLKATA,Kolkata,VQ/FG/070/26-27,19.06.2026,03-08-2026,Domestic,GRATING,Grating,,,,,,,,,Closed,,,,41302.73,Ketan Oza
+391,C0013,Pump House Flooring - EPC Scope,,Kolkata,VQ/FG/110/25-26,19-05-2025,,Internal,Pultrusion,Pultrusion,,,,,,,,,Open,,,,1873344.67,HZ
+392,C0001,Pickling Line Covers - Package B,Ex-Works [FACTORY],Kolkata,,28.03.2025,,Domestic,FRP Pressure Vessel,Pressure Vessel,,,,10180,P4062777850,31.03.2025,,,PO Received & Delivered,"Aug,25",,,47698.34,Niharika Vora
+393,C0022,ETP Upgradation - Phase-2,,Kolkata,VQ/FG/035/24-25,,,Domestic,Pultruded Grating,Grating,10,,,10334,P5597262809,06-08-2024,,,PO Received & Delivered,,,,1779094.88,IK
+394,C0002,Bio Tank Package - EPC Scope,,Kolkata,,,,Domestic,VESSEL,Pressure Vessel,23,,,10051,P8235474949,27-10-2025,,,PO Received & Delivered,,,,,FQ
+395,C0001,Walkway & Handrail - Site Supply,,Kolkata,,,,Domestic,VESSEL,Pressure Vessel,,,,10364,P9795922823,30-03-2026,,06-04-2026,PO Received & Delivered,,,,5744.52,FQ
+396,C0030,Clarifier Internals,,Kolkata,VQ/FGS/014/24-25,14-10-2024,,Domestic,Grating,Grating,,,,10514,P8272153756,,,,Cancel,,,,71181.08,Niharika Vora
+397,C0002,Pump House Flooring - Phase-1,,Kolkata,,11.08.2025,,Domestic,FRP Vessel,Pressure Vessel,5,,,10547,P9903351330,23.08.2025,,30-07-2025,PO RECEIVED & DELIVERED,,,,67860.1,Harita Nambiar
+398,C0001,Desalination Package,,Kolkata,po received & delivered,,,Domestic,FRP Vessel,Pressure Vessel,,,,10266,P1530618370,26.11.2025,,,PO Received & Delivered,,,,,Zubin Tandon
+399,C0022,Tank Farm Revamp,,Kolkata,VQ/FG/059/24-25,04.04.2024,,,Grating,Grating,,,,,,,,,Closed,,,,,QB
+400,C0013,Desalination Package - Site Supply,,Kolkata,VQ/FG/084/25-26,24-07-2025,,Domestic,Pultruded Profiles,Pultrusion,,Mail,03.07.2025,,,,,,Open,,,,,Qamar Bhatt
+401,C0013,Caustic Storage - Phase-2,,Kolkata,,,,Internal,PULTRUSION,Pultrusion,,,,,,,,,NOT RECEIVED,,,,,HN
+402,C0002,ETP Upgradation - EPC Scope,EX-WORKS [FACTORY],Kolkata,,,,Domestic,FRP Vessel,Pressure Vessel,11,,,70285,,03.05.2025,,27.05.2025,PO Received & Delivered,,,,16029.42,Yash Nagpal
+403,C0001,Clarifier Internals,,Kolkata,VQ/FV/051/25-26,08.06.2025,,,Pressure Vessel,Pressure Vessel,,,,,,,,,Open,,,,,Qamar Bhatt
+404,C0021,Pickling Line Covers,ExW,Kolkata,,20-03-2026,,Domestic,Moulded Grating,Grating,1,,,10429,P4187988846,22.04.2026,,,PO Received & Delivered,,,,35656.7,IK
+405,C0001,Pickling Line Covers,,Kolkata,,,,Domestic,VESSEL,Pressure Vessel,,,,10019,P3079537716,,,,Po Received & Delivered,,,,,HZ
+406,C0001,Brine Handling,,Kolkata,,2025-01-29,,External,Pressure Vessel,Pressure Vessel,,,,10022,,2025-01-31,,08.01.2026,PO Received & Delivered,,,,3807368.51,IK
+407,C0003,Filter Press Area - EPC Scope,,Kolkata,VQ/FV/023/24-25,15.02.2025,17.03.2025,Domestic,Pressure Vessel,Pressure Vessel,16,Mail,25-01-2025,10585,P5492496998,,,,PO Received & Delivered,,,,,Ishan Kabir
+408,C0013,Sea Water Intake - Rev-A,,Kolkata,,,,Domestic,PULTRUSION,Pultrusion,,,,,,,,,Closed,,,,,Zubin Tandon
+409,C0001,Effluent Line Replacement - Phase-2,Ex works,Kolkata,Open,01.01.2026,,Domestic,VESSEL,Pressure Vessel,,,,,P9215400091,,,,PO Received & Delivered,,,,,ZT
+410,C0026,Chlorine Dosing Skid,,Kolkata,VQ/FG/89/24-25 REV-04,01.01.2025,,Internal,Pultruded Grating,Grating,,,,,,,,,Not Received,,,,,HN
+411,C0001,Brine Handling,,Kolkata,VQ-FV-010-24-25,,,,VESSEL,Pressure Vessel,220,,,10448,,2025-03-06,,06-04-2025,PO Received & Delivered,,,,123036.1,Qamar Bhatt
+412,C0020,Walkway & Handrail,,Kolkata,VQ/FG/012/26-27,06.07.2026,,,GRATING,Grating,,,,10282,P6197708712,24.07.2026,,,Open,,,,960045.71,QB
+413,C0001,Brine Handling,EXW,Kolkata,,2025-03-08,,,FRP Vessel,Pressure Vessel,,,,,P6891490448,,,,PO Received & Delivered,,,,,HZ
+414,C0013,Sea Water Intake - Site Supply,,Kolkata,VQ/FG/162/24-25,2024-10-27,26.11.2024,,Pultrusion,Pultrusion,,,,,,,,,OPEN,,,,182918.35,Farhan Qureshi
+415,C0013,Acid Dilution Unit - Phase-2,,Kolkata,VQ/FG/004/24-25,,2024-07-11,,Pultruded Profiles,Pultrusion,,,,10873,P9472515108,2024-06-26,,,PO Received & Delivered,,,,,Ketan Oza
+416,C0020,Cooling Tower Replacement - Site Supply,Ex-Works [FACTORY],Kolkata,VQ/FG/058/25-26,03.07.2025,,Internal,Moulded Grating,Grating,,,,,,,,,Open,,,,306661.56,Niharika Vora
+417,C0013,Chlorine Dosing Skid - Unit-3,EX-WORKS KOLKATA,Kolkata,VQ/FG/71/24-25,27.07.2024,,Internal,Pultruded Profiles,Pultrusion,,,,10973,P6499884316,,,14-09-2024,PO Received & Delivered,,,,,Hemal Zaveri
+418,C0045,Cooling Tower Replacement - Phase-2,Ex-Works [FACTORY],Kolkata,VQ/FG/13/24-25,28.11.2024,,Export,Grating,Grating,,,,10106,P3053053746,16.01.2025,,,PO Received & Delivered,,,,73987.77,KO
+419,C0013,Platform Extension - Site Supply,EX-WORKS KOLKATA,Kolkata,,,,Internal,Pultrusion,Pultrusion,,,,,,,,,CLOSED,,,,,Hemal Zaveri
+420,C0020,Platform Extension - Site Supply,EX-WORKS [FACTORY],Kolkata,Quoted Verbally,15.02.2026,,Internal,Moulded Grating,Grating,,,,10351,P3766497207,04.03.2026,,,PO Received & Delivered,,,,929265.62,FQ
+421,C0013,Cable Trench Covers,,Kolkata,,,,,Pultrusion - Handrail,Pultrusion,,,,,,,,,Closed,,,,,Farhan Qureshi
+422,C0020,Effluent Line Replacement - Phase-2,EX-WORKS [FACTORY],Kolkata,VQ/FG/052/25-26,02-12-2025,,Internal,Moulded Grating,Grating,,Mail,29.11.2025,,,,,,Open,,,,74113.07,Ketan Oza
+423,C0020,Chlorine Dosing Skid - Site Supply,,,VQ/FG/061/25-26,2025-09-15,,Domestic,GRATING,Grating,,,,,,,,,Not Received,,,,,IK
+424,C0001,Clarifier Internals,,Kolkata,VQ/FV/34/24-25,17.05.2024,,,FRP Vessel,Pressure Vessel,,,,10011,P9232363331,24-05-2024,,27-05-2024,PO Received & Delivered,,,Payment due immediately from date of invoice,,HN
+425,C0023,Cooling Tower Replacement - Rev-A,,Kolkata,VQ/KAG/036/25-26,2025-06-05,,Domestic,GRATING,Grating,19,,,10587,P7166731183,26-09-2025,,,PO Received & Delivered,,,,305403.46,Harita Nambiar
+426,C0026,Clarifier Internals - Site Supply,,Kolkata,VQ/FG/064/25-26,17.12.2025,,Domestic,Grating,Grating,,Mail,16.12.2025,,,,,,Open,,,,301837.44,QB
+427,C0013,Chlorine Dosing Skid,,Kolkata,VQ/FG/160/24-25,08.12.2024,,Internal,Pultrusion,Pultrusion,,Call,28.11.2024,,,,,,Open,,,,1074715.03,Hemal Zaveri
+428,C0013,Pickling Line Covers - Phase-2,,Kolkata,VQ/FGP/054/24-25,02.07.2024,,Internal,Pultruded Profiles,Pultrusion,,,,10178,P2432221894,,,,PO Received & Delivered,,,,1035662.82,HN
+429,C0020,Pickling Line Covers - Phase-2,,Kolkata,VQ/FG/030/26-27,23.06.2026,21-09-2026,Domestic,Grating,Grating,,,,10604,P5941089356,,,,PO RECEIVED,,,,792244.25,Ishan Kabir
+430,C0039,RO Skid Package - Phase-2,,Kolkata,VQ/PG/046/25-26,2025-11-23,,Domestic,GRATING,Grating,,,,,,,,,Closed,,,,355190.68,Yash Nagpal
+431,C0020,Scrubber Package - Unit-3,EX-WORKS KOLKATA,Kolkata,Open,26.06.2026,,Internal,Moulded Grating,Grating,253,,,,P1541519541,,,,PO Received & Delivered,,,,1040686.49,Ketan Oza
+432,C0023,Walkway & Handrail - Rev-A,,Kolkata,Closed,26.07.2026,,Internal,Moulded Grating,Grating,,,,30710,P2085051459,2026-08-08,,,Open,,,,103781.67,Harita Nambiar
+433,C0013,Acid Dilution Unit - Unit-3,,Kolkata,VQ/PG/094/25-26,13-05-2025,12.07.2025,Internal,Pultrusion - Handrail,Pultrusion,,,,,,,,,Open,,,,110831.53,Harita Nambiar
+434,C0021,Cooling Tower Replacement - Package B,,Kolkata,VQ/FGS/002/26-27,,,Domestic,Grating,Grating,,,,10241,P7481239891,06.07.2026,,,PO Received & Delivered,,,,,NV
+435,C0001,Pickling Line Covers - EPC Scope,,Kolkata,,,,Domestic,Pressure Vessel,Pressure Vessel,,,,10326,P4289338885,,,,PO Received & Delivered,,,,,Yash Nagpal
+436,C0031,Tank Farm Revamp - Site Supply,,Kolkata,VQ/FGS/015/24-25,02.03.2025,,Domestic,Grating,Grating,,,,10155,P8373331430,2025-03-15,,,PO RECEIVED & DELIVERED,,,,,FQ
+437,C0007,Platform Extension - Site Supply,,Kolkata,Open,01.06.2026,,Export,VESSEL,Pressure Vessel,28,,,10967,P4011528431,,,,PO Received & Delivered,,,,216924.92,Harita Nambiar
+438,C0013,Cooling Tower Replacement - Phase-1,,Kolkata,VQ/FG/016/24-25,26-05-2024,,Internal,Pultrusion,Pultrusion,,,,10453,,01-06-2024,,22.06.2024,PO Received & Delivered,,,,318883.14,Farhan Qureshi
+439,C0013,Tank Farm Revamp,,Kolkata,VQ/FG/090/24-25,06-05-2024,05.06.2024,,Pultrusion,Pultrusion,,,,,,,,,PO Not Received,,,,244034.76,Ketan Oza
+440,C0013,Pickling Line Covers - Phase-1,,Kolkata,,,,Internal,Pultrusion,Pultrusion,,,,,,,,,Not Received,,,,674669.4,Niharika Vora
+441,C0001,RO Skid Package,FOB,Kolkata,VQ/FV/002/24-25,09.10.2024,,Domestic,Pressure Vessel,Pressure Vessel,283,,,10398,P9896606039,14.10.2024,,,PO RECEIVED & DELIVERED,,,,2857116.41,Harita Nambiar
+442,C0001,Caustic Storage - Unit-3,Ex-Works,Kolkata,,13-04-2024,,External,FRP Vessel,Pressure Vessel,11,,,10723,P1627442454,16.04.2024,,28.04.2024,PO Received & Delivered,,,,,Zubin Tandon
+443,C0013,Cable Trench Covers - Phase-2,Ex-Works [FACTORY],Kolkata,VQ/FGS/34/24-25,,19-04-2025,Internal,Pultrusion,Pultrusion,1452,,,10798,P1136346958,23.03.2025,,,PO Received & Delivered,,,To be short closed.,,Yash Nagpal
+444,C0001,Chlorine Dosing Skid - Phase-2,,Kolkata,,17.05.2026,,Domestic,Vessel,Pressure Vessel,111,,,10917,P7488758768,2026-05-30,,14.11.2026,PO Received & Delivered,,,,5155123.3,HN
+445,C0013,Chlorine Dosing Skid - Site Supply,EX-WORKS KOLKATA,Kolkata,VQ/PG/068/25-26,24.12.2025,,Internal,PULTRUSION,Pultrusion,,,,10446,P7573439658,29.12.2025,,,PO Received & Delivered,,,,330611.91,NV
+446,C0003,Sump Covers - Unit-3,,Kolkata,VQ/FV/042/25-26,,,Domestic,VESSEL,Pressure Vessel,179,,,10447,P5633668009,2026-05-27,,,PO Received & Delivered,,,,2416473.26,Farhan Qureshi
+447,C0013,Platform Extension,,Kolkata,VQ/PG/78/25-26,,,Internal,Pultrusion - Handrail,Pultrusion,214,,,30258,P4604328146,07.09.2025,,10-10-2025,PO Received & Delivered,,,,1293600.29,Farhan Qureshi
+448,C0013,Sump Covers - Site Supply,,,VQ/FG/076/24-25,,,Internal,Pultruded Profiles,Pultrusion,,,,10891,P2265841695,21.01.2025,,22-01-2025,PO Received & Delivered,,,,,Yash Nagpal
+449,C0001,Walkway & Handrail - Package B,EX-WORKS [FACTORY],Kolkata,,,,External,FRP Vessel,Pressure Vessel,,,,10779,P4852057916,03-04-2024,,,PO Received & Delivered,,,,,Ketan Oza
+450,C0021,Brine Handling - Phase-2,,Kolkata,,,,Internal,Grating,Grating,,,,10675,P1760843165,07.12.2025,,,PO RECEIVED & DELIVERED,,,,,Qamar Bhatt
+451,C0013,Caustic Storage,,Kolkata,VQ/FG/49/25-26,,,Domestic,Pultrusion - Handrail,Pultrusion,,Call,21.04.2025,10717,P1322060399,04.06.2025,,,PO Received & Delivered,,,,10338.15,Farhan Qureshi
+452,C0013,Tank Farm Revamp - Rev-A,,Kolkata,verbally confirmed,14-12-2024,,Internal,Pultruded Profiles,Pultrusion,,,,10876,P1371160993,06-01-2025,,IMMEDIATE,PO RECEIVED & DELIVERED,,,,5442157.68,FQ
+453,C0015,RO Skid Package,,Kolkata,VQ/PG/111/24-25,24.05.2024,,Export,Pultrusion,Pultrusion,,Portal,17.05.2024,,,,,,Open,,,100% payment advance along with PO,170968.83,Qamar Bhatt
+454,C0013,Filter Press Area - Site Supply,Ex-Works [FACTORY],Kolkata,VQ/FG/091/25-26,20.12.2025,,Internal,Pultrusion,Pultrusion,,,,,,,,,CLOSED,,,,,Hemal Zaveri
+455,C0001,Bio Tank Package,EX-WORKS [PLANT 2],,,,,Domestic,FRP Vessel,Pressure Vessel,,,,10654,P7694982976,14.08.2025,,,Cancel,,,,31390.0,Zubin Tandon
+456,C0001,Scrubber Package - EPC Scope,,Kolkata,,12.06.2024,,Domestic,VESSEL,Pressure Vessel,19,,,10807,P1364994639,,,,PO Received & Delivered,,,,,Harita Nambiar
+457,C0020,RO Skid Package - Phase-1,Ex-Works [FACTORY],Kolkata,VQ/FG/41/24-25,15.09.2024,,Internal,Moulded Grating,Grating,3,,,,,,,,Open,,,45 Days Credit,89669.44,Farhan Qureshi
+458,C0001,Walkway & Handrail - EPC Scope,EX-WORKS KOLKATA,Kolkata,,,,Domestic,FRP Vessel,Pressure Vessel,,,,10552,P3480920839,,,30.01.2026,PO Received & Delivered,,,,8049978.09,Ishan Kabir
+459,C0020,Tank Farm Revamp,EX-WORKS [FACTORY],,,,,Internal,Grating,Grating,10,,,10815,P2467549493,,,,PO Received & Delivered,,,,,FQ
+460,C0013,Acid Dilution Unit - EPC Scope,,Kolkata,,08.07.2025,,Internal,Pultruded Profiles,Pultrusion,,,,10708,P7550842481,2025-08-02,01.09.2025,,PO Received & Delivered,,,,,Hemal Zaveri
+461,C0001,Desalination Package - Unit-3,EX-WORKS KOLKATA,Kolkata,,,,Domestic,FRP Vessel,Pressure Vessel,,,,10753,P7781608576,,,,Supply-Kol,,,,29231.78,Niharika Vora
+462,C0016,Platform Extension - Phase-2,,Kolkata,VQ/FGS/158/25-26 REV-05,26.03.2026,,Domestic,Pultrusion,Pultrusion,,,,,,,,,Open,,,,484224.04,Yash Nagpal
+463,C0003,Acid Dilution Unit - Phase-2,,Kolkata,,,,Export,Vessel,Pressure Vessel,,,,10848,P7690274631,07-07-2025,,,PO Received & Delivered,,,,4663359.92,HZ
+464,C0013,Desalination Package - EPC Scope,,Kolkata,VQ/FG/101/24-25,25-10-2024,,Internal,Pultrusion,Pultrusion,,,,,,,,,CLOSED,,,,,Yash Nagpal
+465,C0013,Filter Press Area - Phase-2,,Kolkata,VQ/FG/85/25-26,27-09-2025,27-10-2025,Domestic,PULTRUSION,Pultrusion,,,,,,,,,CLOSED,,,,,Ishan Kabir
+466,C0013,Pump House Flooring - Site Supply,,Kolkata,VQ/FG/001/25-26,05.06.2025,,Domestic,PULTRUSION,Pultrusion,32,,,10215,P8350343413,,,,PO Received & Delivered,,,,,KO
+467,C0004,ETP Upgradation - Site Supply,,Kolkata,VQ-FV-09-24-25,29.10.2024,2024-12-13,Domestic,Vessel,Pressure Vessel,1,,,10776,P9292791081,,,,PO Received & Delivered,,,,,Niharika Vora
+468,C0021,Sea Water Intake - Phase-1,ExW,Kolkata,VQ/FGS/074/26-27,28.05.2026,,Domestic,Grating,Grating,,,,,,,,,Closed,,,,2445422.94,Qamar Bhatt
+469,C0013,Cooling Tower Replacement,,Kolkata,VQ/FGS/150/25-26,21.12.2025,,Internal,Pultruded Profiles,Pultrusion,,,,,,,,,CLOSED,,,,697524.67,QB
+470,C0013,Tank Farm Revamp - Site Supply,,KOLKATA,,03-11-2025,,Domestic,Pultrusion,Pultrusion,2,,,10258,P5983505618,2025-12-13,,14-01-2026,PO Received & Delivered,,,,549705.21,Hemal Zaveri
+471,C0001,Tank Farm Revamp - Package B,,Kolkata,PO received,29-01-2026,,,Vessel,Pressure Vessel,,,,10984,P7944675764,01-02-2026,,05.03.2026,PO Received & Delivered,,LD charges will be applicable on actual handover date to 3PL and same will be considered by warehouse team for LD applicability,,2564888.45,Yash Nagpal
+472,C0013,Sea Water Intake - Rev-A,,Kolkata,,,,Internal,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,179725.2,Ishan Kabir
+473,C0002,Sump Covers - EPC Scope,Ex-Works [FACTORY],Kolkata,,22-02-2026,,External,Pressure Vessel,Pressure Vessel,2,,,10171,P9318010743,20-08-2026,,,PO RECEIVED,,,45 days credit – MSME / 90 days – non-MSME,,Yash Nagpal
+474,C0001,Sea Water Intake - Phase-1,,Kolkata,VQ/FV/44/24-25,04.05.2024,,Domestic,FRP Vessel,Pressure Vessel,,,,,,,,,CLOSED,,,,,Qamar Bhatt
+475,C0013,Cable Trench Covers,,Kolkata,VQ/FG/132/24-25,02.08.2024,,Internal,Pultrusion,Pultrusion,,,,,,,,,Open,,,,321392.49,Zubin Tandon
+476,C0013,Scrubber Package - Package B,Ex-Works [FACTORY],Kolkata,VQ/FG/125/24-25,02.11.2024,,Domestic,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,,NV
+477,C0013,Chlorine Dosing Skid - Unit-3,,Kolkata,GEM/2024/B/7043176,03-12-2024,,Internal,PULTRUSION,Pultrusion,2,,,10132,P7892457034,,,,PO Received & Delivered,,,,8185.01,Ketan Oza
+478,C0023,Tank Farm Revamp - Unit-3,EX-WORKS [FACTORY],Kolkata,Work in Process,17-04-2024,,Internal,GRATING,Grating,46,,,10204,P4995898546,,,,PO RECEIVED & DELIVERED,,,,1138615.28,Ketan Oza
+479,C0021,Scrubber Package - Package B,Ex-Works [FACTORY],Kolkata,,,,Domestic,GRATING,Grating,7,,,10600,P8302586695,,,,PO RECEIVED & DELIVERED,,,,,HN
+480,C0013,Bio Tank Package - Rev-A,,Kolkata,VQ-FGS-18-25-26,,,Domestic,Pultrusion,Pultrusion,,Mail,2025-06-25,10143,P8277194571,12.07.2025,,,PO Received & Delivered,,,,3819712.42,Niharika Vora
+481,C0013,Pickling Line Covers - Package B,EX-WORKS [FACTORY],Kolkata,,18.02.2025,,Internal,Pultrusion,Pultrusion,,,,10645,P3754702956,,,,PO Received & Delivered,,,,1990753.39,HZ
+482,C0013,Effluent Line Replacement - Package B,EX-WORKS [FACTORY],Kolkata,VQ/FG/152/26-27,25.07.2026,,Internal,Pultrusion,Pultrusion,,,,,,,,,Open,,,,,QB
+483,C0002,Clarifier Internals - Phase-2,,Kolkata,Open,,,Domestic,Pressure Vessel,Pressure Vessel,,,,10222,P5692170729,20-04-2026,,08.05.2026,PO Received & Delivered,,,,37163.97,QB
+484,C0002,Cable Trench Covers,FOR [SITE],Kolkata,,2024-07-30,,Domestic,FRP Vessel,Pressure Vessel,,,,10874,P7481631841,31.07.2024,,,PO Received & Delivered,,,,2092099.66,Farhan Qureshi
+485,C0001,Tank Farm Revamp - Site Supply,Ex-Works [FACTORY],Kolkata,,,,,Vessel,Pressure Vessel,27,,,10659,P5281907480,,,,PO Received & Delivered,,,,2975602.73,HN
+486,C0020,Cooling Tower Replacement - Phase-2,,Kolkata,VQ/FG/87/24-25,,16.10.2024,Domestic,Grating,Grating,,,,,,,,,Open,,,,641173.44,Ishan Kabir
+487,C0020,Platform Extension,,Kolkata,VQ/FG/005/25-26,2026-02-06,,Internal,Moulded Grating,Grating,,,,10089,P7780922380,2026-02-15,,09.03.2026,PO Received & Delivered,,,,2104604.58,Zubin Tandon
+488,C0022,Chlorine Dosing Skid - Site Supply,EX-WORKS KOLKATA,Kolkata,,16-11-2024,,Domestic,Grating,Grating,2,,,10059,P3172384206,29.12.2024,,,PO Received & Delivered,,,,,Ketan Oza
+489,C0013,Pickling Line Covers - Site Supply,,Kolkata,VQ/FG/077/24-25,2024-10-27,,Internal,Pultrusion,Pultrusion,,,,10295,P6151841907,11.12.2024,,03.01.2025,PO Received & Delivered,"Jan,26",,,266105.22,YN
+490,C0001,Sea Water Intake,Ex-Works [FACTORY],Kolkata,VQ/FV/55/24-25,31-07-2024,,Domestic,Pressure Vessel,Pressure Vessel,,,,,,,,,RETENDER,,,,,KO
+491,C0013,Chlorine Dosing Skid,,Kolkata,VQ/FG/133/24-25,08.01.2025,09.03.2025,Internal,Pultrusion,Pultrusion,,,,,,,,,CLOSED,,,,,HZ
+492,C0014,Platform Extension - Unit-3,EX-WORKS [FACTORY],Kolkata,VQ/FG/126/25-26,10.05.2025,,Domestic,Pultruded Profiles,Pultrusion,,,,,,,,,Open,,,,8959974.37,KO
+493,C0013,Sump Covers - EPC Scope,Ex works,Kolkata,,,,,Pultrusion,Pultrusion,,,,,,,,,PO Not Received,,,,,HN
+494,C0015,Cable Trench Covers - Rev-A,,Kolkata,VQ/FG/011/26-27,,,Export,Pultrusion,Pultrusion,,Mail,08.07.2026,10940,P2855264537,2026-08-08,,,Open,"Sept,25",,,2176079.59,Ishan Kabir
+495,C0013,Tank Farm Revamp - Package B,,Kolkata,VQ/FG/119/25-26,01-05-2025,,Internal,Pultrusion - Handrail,Pultrusion,,,,,,,,,Closed,,,,,NV
+496,C0025,Sea Water Intake - EPC Scope,,Kolkata,VQ/FG/017/25-26,17.01.2026,03.03.2026,Internal,GRATING,Grating,,,,10401,P5151602251,,,,PO Received & Delivered,,,,537451.33,Harita Nambiar
+497,C0001,Cable Trench Covers - Phase-1,,Kolkata,VQ/FV/028/26-27,08.04.2026,,Domestic,VESSEL,Pressure Vessel,,,,10281,P3612617557,15.04.2026,,,PO received & Delivered,,,,1384974.25,Ketan Oza
+498,C0001,Pickling Line Covers,,Kolkata,,24.11.2024,,Domestic,FRP Vessel,Pressure Vessel,41,,,10476,P5105433614,26.11.2024,,,PO Received & Delivered,,,,251390.42,ZT
+499,C0003,Scrubber Package - Phase-2,Ex-works [FACTORY],Kolkata,Open,,,,Pressure Vessel,Pressure Vessel,,,,10190,P6405851839,05-05-2026,,02-06-2026,PO Received & Delivered,,,,2975930.79,Ishan Kabir
+500,C0013,Cooling Tower Replacement,,Kolkata,VQ/FG/163/24-25,02.01.2025,,,Pultrusion - Handrail,Pultrusion,,,,,,,,,Closed,,,,2960081.07,HZ
+501,C0001,Acid Dilution Unit - Unit-3,Ex-Works [FACTORY],,,2024-12-13,,Domestic,Vessel,Pressure Vessel,,,,10234,P4089973470,15-06-2025,,16.01.2026,PO Received & Delivered,,,,,HN
+502,C0013,Bio Tank Package,,Kolkata,,,,Internal,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,1614943.18,YN
+503,C0001,Pickling Line Covers,EX-WORKS [FACTORY],Kolkata,Open,,,External,Pressure Vessel,Pressure Vessel,1,,,10806,P3070459171,2025-06-21,,,PO Received & Delivered,,,,9832726.53,Yash Nagpal
+504,C0001,Chlorine Dosing Skid - Package B,,Kolkata,verbally confirmed,20.11.2024,,Domestic,Vessel,Pressure Vessel,21,,,10173,P5114549022,,,,PO RECEIVED & DELIVERED,,,,1795615.17,Ishan Kabir
+505,C0001,Sump Covers,EX-WORKS [FACTORY],Kolkata,,31.08.2024,,Domestic,Vessel,Pressure Vessel,,,,10087,P6791027463,02-09-2024,,,PO Received & Delivered,,,,922195.82,HZ
+506,C0001,Caustic Storage,,Kolkata,,13.07.2024,,Domestic,FRP Vessel,Pressure Vessel,,,,10905,P8295757364,,,Immediate,PO Received & Delivered,,,,,FQ
+507,C0020,Clarifier Internals - Site Supply,FOB,Kolkata,VQ/FG/18/25-26,,20-03-2026,Domestic,Pultruded Grating,Grating,2,,,50185,P2244865317,,,,PO Received & Delivered,No,,,1346265.57,Ketan Oza
+508,C0001,Sea Water Intake - EPC Scope,,Kolkata,,29.03.2025,,External,FRP Vessel,Pressure Vessel,209,,,30433,P2576124271,,,,PO Received & Delivered,,,,2878929.8,Niharika Vora
+509,C0013,Cooling Tower Replacement,EX-WORKS [FACTORY],Kolkata,VQ-FG-044-24-25,16.12.2024,,Domestic,Pultrusion,Pultrusion,,Mail,06.12.2024,10542,P2690591366,,,,PO RECEIVED & DELIVERED,,,,,IK
+510,C0013,Caustic Storage - Phase-2,,Kolkata,,,,Internal,PULTRUSION,Pultrusion,,,,10495,P7663237365,,,,PO Received & Delivered,,,,237268.2,HZ
+511,C0013,Walkway & Handrail,,Kolkata,VQ/FG/053/23-24,,,,PULTRUSION,Pultrusion,380,Mail,22-03-2024,10307,P8213111159,21-09-2024,,,PO Received & Delivered,,,,,QB
+512,C0013,Walkway & Handrail - Package B,,Kolkata,,,,Internal,Pultrusion,Pultrusion,,,,10974,P7191825941,,,2025-11-19,PO Received & Delivered,,,,553617.02,Qamar Bhatt
+513,C0001,RO Skid Package,Ex works,Kolkata,,,,External,FRP Vessel,Pressure Vessel,,,,10872,P1683855081,11.04.2024,,17-08-2024,PO Received & Delivered,,,,,Farhan Qureshi
+514,C0013,Platform Extension - Rev-A,,Kolkata,VQ/FG/170/25-26,12.02.2026,2026-03-14,Internal,Pultrusion,Pultrusion,,Call,19.01.2026,,,,,,Open,,,,1973476.42,IK
+515,C0001,RO Skid Package - Package B,ExW,Kolkata,VQ/FV/038/26-27,17-04-2026,,Domestic,Vessel,Pressure Vessel,,,,10630,P1579187439,,,01.11.2026,PO Received & Delivered,,,,4470014.56,Yash Nagpal
+516,C0005,Sea Water Intake - EPC Scope,,Kolkata,VQ/FV/16/26-27,,,Domestic,Vessel,Pressure Vessel,,,,10914,P2395925222,25.07.2026,,,PO RECEIVED,"Aug,25",,,1620679.25,Yash Nagpal
+517,C0013,Bio Tank Package,,Kolkata,VQ/FGS/118/24-25,2024-10-17,,Internal,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,804289.92,Yash Nagpal
+518,C0015,Tank Farm Revamp - Rev-A,,Kolkata,VQ/FG/009/26-27,,,Export,Pultrusion,Pultrusion,212,,,10754,P6070243272,15.06.2026,,06.07.2026,PO Received & Delivered,,,,,NV
+519,C0002,Tank Farm Revamp - Rev-A,FOR,Kolkata,,,,Domestic,Pressure Vessel,Pressure Vessel,,,,10103,P2635231601,29.05.2025,,16.06.2025,PO Received & Delivered,,,,2267454.17,ZT
+520,C0001,Walkway & Handrail - Rev-A,Ex-Works [FACTORY],Kolkata,,18.08.2024,,Domestic,FRP Vessel,Pressure Vessel,,,,10521,P7925383538,,22.10.2024,28.11.2024,PO Received & Delivered,,,,1010086.49,Niharika Vora
+521,C0001,Clarifier Internals - Phase-1,,Kolkata,,22.04.2024,,,FRP Vessel,Pressure Vessel,30,,,10555,P5728897164,23.04.2205,,,PO RECEIVED & DELIVERED,,,,2493000.11,FQ
+522,C0013,Tank Farm Revamp,,Kolkata,,,,Internal,Pultrusion,Pultrusion,,,,,,,,,CLOSED,,,,,Hemal Zaveri
+523,C0021,Pickling Line Covers,,NA,VQ/FG/004/24-25,2025-03-16,,Internal,Grating,Grating,,,,10829,P2949341504,29.04.2025,,,PO Received & Delivered,,,,3820440.97,ZT
+524,C0013,Desalination Package,EX-WORKS [FACTORY],Kolkata,,24-02-2025,,Domestic,Pultrusion,Pultrusion,2,,,10158,P2861342732,,,,PO Received & Delivered,,,,4193508.41,FQ
+525,C0013,Pickling Line Covers,Ex-Works [FACTORY],Kolkata,VQ-FG-073-25-26,13.06.2025,,Domestic,PULTRUSION,Pultrusion,,,,10712,P7032536684,18.06.2025,,,PO Received & Delivered,,,,,ZT
+526,C0020,Filter Press Area - Phase-2,,Kolkata,,,,,GRATING,Grating,,,,10422,P1529710537,2024-04-16,,,PO Received & Delivered,,,,681458.4,Qamar Bhatt
+527,C0020,Tank Farm Revamp,,Kolkata,,,,Domestic,Grating,Grating,,,,10912,,13.04.2025,,07.05.2025,PO Received & Delivered,,,,,KO
+528,C0021,Clarifier Internals,,Kolkata,VQ/FG/084/25-26,01-08-2025,,Domestic,Grating,Grating,,Mail,17.07.2025,,,,,,Not Received,,,,765554.87,ZT
+529,C0013,Scrubber Package - Unit-3,,Kolkata,,,,Internal,Pultruded Profiles,Pultrusion,67,,,,,,,,LOST,,,,4579515.7,Niharika Vora
+530,C0003,Brine Handling - Site Supply,EX-WORKS [FACTORY],Kolkata,Closed,,,Export,Pressure Vessel,Pressure Vessel,968,,,10925,P7296658772,20.02.2025,,01.03.2025,PO Received & Delivered,,,45 days credit – MSME / 90 days – non-MSME,2938530.18,Hemal Zaveri
+531,C0015,Cable Trench Covers - Package B,,Kolkata,VQ/FG/079/24-25  REV-07,,23.08.2024,Domestic,Pultruded Profiles,Pultrusion,,,,10165,P5824092354,27.07.2024,,,PO Received & Delivered,,,,1877032.67,YN
+532,C0004,Platform Extension - Package B,EX-WORKS [FACTORY],Kolkata,,,,Export,FRP Vessel,Pressure Vessel,,,,10214,P3455054143,25.08.2026,,,Open,,,,190422.44,Niharika Vora
+533,C0001,Chlorine Dosing Skid - Phase-1,EX-WORKS KOLKATA,Kolkata,,29.04.2026,,Domestic,FRP Vessel,Pressure Vessel,,,,10599,P6309420888,30.04.2026,,,PO Received & Delivered,"Aug,25",,,,NV
+534,C0013,Cable Trench Covers,,Kolkata,VQ/FG/157/24-25 REV -01,25.04.2024,,Internal,Pultrusion,Pultrusion,,,,,,,,,Budgetary,,,,209173.56,Harita Nambiar
+535,C0029,Filter Press Area - Package B,,Kolkata,VQ/FG/65/24-25,15.02.2025,17.03.2025,,Moulded Grating,Grating,653,,,,,,,,Closed,,,,,Farhan Qureshi
+536,C0013,RO Skid Package - Package B,,Kolkata,VQ/FG/144/24-25,06.02.2025,07.04.2025,Internal,Pultrusion,Pultrusion,,,,,,,,,Open,,,,,Niharika Vora
+537,C0013,Pump House Flooring - Rev-A,Ex-Works [FACTORY],Kolkata,,,,Internal,Pultruded Profiles,Pultrusion,,,,,,,,,CLOSED,,,,,HN
+538,C0013,Walkway & Handrail - Unit-3,Ex-Works [FACTORY],Kolkata,VQ/FG/149/25-26 REV -03,03.05.2025,,Domestic,Pultrusion,Pultrusion,,,,,,,,,Open,,,,,QB
+539,C0057,Clarifier Internals,Ex-Works [FACTORY],Kolkata,,,,Domestic,Pultruded Grating,Grating,,,,10505,P9886818084,,,,PO Received & Delivered,,,,,Ketan Oza
+540,C0001,Filter Press Area,EX-WORKS KOLKATA,Kolkata,VQ/FV/004/23-24,28.03.2024,,Domestic,Vessel,Pressure Vessel,,Mail,04.03.2024,10008,P8128575500,,,,PO RECEIVED & DELIVERED,NA,,,,HZ
+541,C0013,Desalination Package,,Kolkata,,,,Internal,Pultruded Profiles,Pultrusion,2,,,,,,,,CLOSED,,,,5189242.49,Farhan Qureshi
+542,C0013,Effluent Line Replacement,EX-WORKS KOLKATA,Kolkata,VQ/FG/151/25-26,06-09-2025,,Internal,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,,Qamar Bhatt
+543,C0001,Platform Extension - Rev-A,,Kolkata,VQ-FV-049-25-26,20.07.2025,18-09-2025,,FRP Vessel,Pressure Vessel,,,,,,,,,CLOSED,,,,3944942.49,NV
+544,C0026,Walkway & Handrail - Phase-1,EX-WORKS KOLKATA,Kolkata,VQ/FG/075/24-25,16.01.2025,,,Moulded Grating,Grating,,,,,,,,,Open,,,,240571.36,Ishan Kabir
+545,C0001,Walkway & Handrail - Unit-3,,Kolkata,,,,Domestic,Vessel,Pressure Vessel,,,,10146,P9681644296,13-08-2025,,14.10.2025,PO Received & Delivered,,,,441940.2,KO
+546,C0001,ETP Upgradation - Package B,,Kolkata,,25.12.2024,,External,FRP Vessel,Pressure Vessel,,,,10663,P3324316421,30.12.2024,,,PO Received & Delivered,,,,2473750.59,Qamar Bhatt
+547,C0014,Tank Farm Revamp,Ex-Works,Kolkata,,2026-07-14,,Domestic,Pultrusion,Pultrusion,,,,10043,,29-07-2026,,06-02-2027,Open,,,,359891.09,Zubin Tandon
+548,C0002,Pickling Line Covers - Package B,ExW,Kolkata,,,,Domestic,FRP Vessel,Pressure Vessel,35,,,10794,P5290464716,25-06-2024,,,PO Received & Delivered,,,,13221548.67,HZ
+549,C0001,Effluent Line Replacement,,Kolkata,,2025-10-26,,Domestic,FRP Vessel,Pressure Vessel,36,,,10846,P9150660834,,,,PO Received & Delivered,,,,,Ketan Oza
+550,C0022,Effluent Line Replacement,,Kolkata,,,,Domestic,Grating,Grating,,,,10363,P5674898592,,,,PO RECEIVED & DELIVERED,"Jul-25,Aug-25,Sept-25",,,,Niharika Vora
+551,C0013,Cable Trench Covers,EX-WORKS KOLKATA,Kolkata,VQ/FG/167/25-26,08.02.2026,,Internal,Pultrusion,Pultrusion,,Mail,27.01.2026,,,,,,Open,,,,7122230.82,NV
+552,C0020,Effluent Line Replacement - Unit-3,Ex-Works [FACTORY],Kolkata,VQ/FGS/022/24-25 REV -03,,28.09.2024,Domestic,Moulded Grating,Grating,,Call,11.07.2024,,P4397214369,,,12.08.2024,PO Received & Delivered,,,,,ZT
+553,C0001,ETP Upgradation - EPC Scope,EX-WORKS [PLANT 2],Kolkata,Work in Process,04.11.2025,,Domestic,FRP Vessel,Pressure Vessel,16,,,10276,P1110533960,07.11.2025,,,PO Received & Delivered,,,,,IK
+554,C0013,Caustic Storage - Site Supply,Ex works,Kolkata,,,,Domestic,Pultrusion,Pultrusion,2,,,,,,,,Closed,,,,,HZ
+555,C0013,Caustic Storage,,Kolkata,VQ/FG/106/25-26,29.05.2025,27-08-2025,,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,,Yash Nagpal
+556,C0013,Desalination Package - Phase-1,,Kolkata,VQ/FG/37/25-26,27.09.2025,,Internal,Pultrusion - Handrail,Pultrusion,,,,10734,P6600955228,14.10.2025,,,PO Received & Delivered,,,,3010718.65,Zubin Tandon
+557,C0014,Sump Covers,,Kolkata,VQ/FG/062/24-25,,,,Pultrusion,Pultrusion,216,GEM,01.08.2024,10813,P1418527641,2024-08-27,,,PO Received & Delivered,,,,,Ketan Oza
+558,C0001,Pump House Flooring - Phase-1,,Kolkata,,15.05.2026,,External,VESSEL,Pressure Vessel,,,,10113,P8213650687,,,,Po Received & Delivered,,,"30% advance with PO balance, 70% post material readiness",1872279.88,QB
+559,C0020,Cooling Tower Replacement - Phase-1,,Kolkata,VQ/FG/023/23-24  REV-01,06.03.2024,,Internal,Pultruded Grating,Grating,,,,10916,P3537521109,23.08.2024,,,PO Received & Delivered,,,45 Days Credit,,Qamar Bhatt
+560,C0013,ETP Upgradation - Package B,Ex-Works [FACTORY],Kolkata,,24.02.2026,,Internal,Pultrusion,Pultrusion,,,,10205,P3250929906,,,21.06.2026,PO Received & Delivered,,,,553840.76,Zubin Tandon
+561,C0016,Sump Covers,Ex-Works [FACTORY],Kolkata,VQ/FG/06/25-26,28.01.2026,,Export,Pultruded Profiles,Pultrusion,,,,10093,P3501256025,,,06.05.2026,PO Received & Delivered,,,,755728.72,Yash Nagpal
+562,C0021,Pickling Line Covers - Rev-A,EX-WORKS [FACTORY],Kolkata,VQ/FG/31/25-26,11.01.2026,,Domestic,Grating,Grating,26,,,10330,P3748773178,,,,PO Received & Delivered,,,,245248.76,Qamar Bhatt
+563,C0013,Caustic Storage - Site Supply,,Kolkata,VQ/FGS/122/25-26,,,Domestic,PULTRUSION,Pultrusion,,,,,,,,,RFQ Submitted,,,,4643543.84,Ketan Oza
+564,C0010,Tank Farm Revamp,,Kolkata,VQ-FV-08-24-25,,03-03-2025,Export,VESSEL,Pressure Vessel,10,,,10183,P1218179599,01-02-2025,,,PO RECEIVED & DELIVERED,,,,93517.56,IK
+565,C0013,Pump House Flooring - EPC Scope,EXW,Kolkata,VQ/PG/39/24-25  REV-08,2025-01-08,07-02-2025,,Pultrusion,Pultrusion,441,,,10494,P3985929521,31.01.2025,,24.02.2025,PO Received & Delivered,,,,254401.87,Hemal Zaveri
+566,C0013,Pickling Line Covers,,,VQ/FG/088/25-26,02.04.2025,2025-05-02,Internal,Pultrusion,Pultrusion,37,Mail,20-03-2025,,,,,,Open,,,,,Farhan Qureshi
+567,C0001,Tank Farm Revamp,,,,10.08.2024,,Domestic,FRP Vessel,Pressure Vessel,,,,10998,P6477709195,,,,PO Received & Delivered,,,,1292324.42,FQ
+568,C0005,Sea Water Intake,EX-WORKS [FACTORY],Kolkata,,13-06-2024,,Export-Non-KAG,FRP Pressure Vessel,Pressure Vessel,,,,10785,P2007310926,14.06.2024,,,PO Received & Delivered,,,,2906586.35,Qamar Bhatt
+569,C0001,Filter Press Area - Site Supply,,Kolkata,VQ/FV/026/25-26,,,External,FRP Vessel,Pressure Vessel,,,,10486,P3308745090,16.12.2025,,,PO Received & Delivered,,,,,Harita Nambiar
+570,C0013,Bio Tank Package - Package B,,Kolkata,VQ/FG/140/25-26,08.03.2026,,Internal,PULTRUSION,Pultrusion,,,,,,,,,Not Received,,,,111524.67,Qamar Bhatt
+571,C0013,Desalination Package,,Kolkata,verbally confirmed,,,Domestic,Pultruded Profiles,Pultrusion,,,,10530,P7548060314,2026-05-07,,2026-10-23,PO Received & Delivered,,,,4386908.98,Harita Nambiar
+572,C0020,Brine Handling - Package B,,Kolkata,VQ/FG/090/26-27,22.06.2026,,Domestic,GRATING,Grating,,,,,,,,,RETENDER,,,,56986.42,Zubin Tandon
+573,C0013,Platform Extension,Ex-Works [FACTORY],Kolkata,,,,Domestic,Pultrusion,Pultrusion,,,,,,,,,Closed,,,,,Hemal Zaveri
+574,C0013,Tank Farm Revamp,EX-WORKS KOLKATA,Kolkata,,,,Qamar Bhatt /Harita Nambiar,PULTRUSION,Pultrusion,,,,,,,,,PO Not Received,,,,,ZT
+575,C0001,Clarifier Internals - Site Supply,,Kolkata,,2024-03-11,,Domestic,VESSEL,Pressure Vessel,8,,,10006,P8979273911,,,07.07.2024,PO Received & Delivered,,,,630418.29,Farhan Qureshi
+576,C0001,Tank Farm Revamp - Phase-2,,Kolkata,VQ/FV/043/26-27,26-04-2026,26-05-2026,Domestic,Pressure Vessel,Pressure Vessel,,,,,,,,,Open,,,,,NV
+577,C0014,Pump House Flooring - Phase-1,,Kolkata,PO received,,,Domestic,Pultrusion,Pultrusion,15,,,60047,P4046458781,,,,PO RECEIVED & DELIVERED,,,,,Hemal Zaveri
+578,C0009,Cooling Tower Replacement - Rev-A,,Kolkata,,13.05.2024,,,Vessel,Pressure Vessel,,,,10431,P2166605339,14-05-2024,,25.05.2024,PO Received & Delivered,,,,2792011.99,FQ
+579,C0013,Tank Farm Revamp,Ex-Works [FACTORY],Kolkata,VQ-PG-138-24-25,22.05.2024,21.06.2024,Domestic,Pultrusion,Pultrusion,,,,,,,,,Open,,,,607749.0,Niharika Vora
+580,C0013,Brine Handling - EPC Scope,FOR,Kolkata,Work in Process,,,Domestic,Pultrusion,Pultrusion,,,,10456,P8649351906,,,,PO Received & Delivered,,,,,YN
+581,C0013,Brine Handling - Phase-1,,,VQ-PG-061-26-27,21.06.2026,,Internal,PULTRUSION,Pultrusion,,Mail,18.06.2026,10498,P9130688289,07.07.2026,,,PO Received & Delivered,,,,,Ishan Kabir
+582,C0014,Desalination Package - Phase-1,EX-WORKS [FACTORY],,VQ-FG-026-25-26,10-05-2025,09.06.2025,Internal,Pultrusion,Pultrusion,,,,10756,P2671543978,31.05.2025,,,PO Received & Delivered,,,,333456.45,Qamar Bhatt
+583,C0013,Walkway & Handrail - Unit-3,Ex-Works [FACTORY],Kolkata,Closed,13.08.2025,,Internal,PULTRUSION,Pultrusion,39,,,10170,P8997357480,13-08-2025,,26.08.2025,PO Received & Delivered,,,,,Ketan Oza
+584,C0013,Platform Extension,ExW,Kolkata,,,,Domestic,Pultrusion,Pultrusion,,,,,,,,,CLOSED,,,,271228.98,NV
+585,C0013,Cooling Tower Replacement - Unit-3,EX-WORKS [FACTORY],Kolkata,,,,,Pultrusion,Pultrusion,,,,,,,,,NOT RECEIVED,,,,3971405.66,Ishan Kabir
+586,C0026,Cooling Tower Replacement - Phase-2,,Kolkata,VQ/FG/29/23-24,,,Domestic,Grating,Grating,,,,10197,,,,,PO Received & Delivered,NA,,,,IK
+587,C0001,Tank Farm Revamp - Phase-2,EX-WORKS [PLANT 2],Kolkata,VQ/FV/012/26-27,,,Domestic,VESSEL,Pressure Vessel,,,,10997,P8995059760,07-06-2026,,,PO Received & Delivered,,,,158181.03,Yash Nagpal
+588,C0013,Brine Handling - Unit-3,,Kolkata,VQ/FG/131/25-26,,,Internal,Pultruded Profiles,Pultrusion,4,Call,17-12-2025,,,,,,Closed,,,,3712077.31,HZ
+589,C0020,Walkway & Handrail,,Kolkata,,,,Domestic,Pultruded Grating,Grating,,,,,P5612913149,2025-10-03,,,PO RECEIVED & DELIVERED,,,,,Niharika Vora
+590,C0020,Tank Farm Revamp,,Kolkata,VQ/FG/86/24-25,04-01-2025,18.02.2025,Domestic,GRATING,Grating,,,,,,,,,Closed,,,,60771.07,Qamar Bhatt
+591,C0020,Clarifier Internals,,Kolkata,VQ/FGS/73/24-25,12-04-2024,,Internal,Pultruded Grating,Grating,,,,,,,,,Open,,,,564095.46,Qamar Bhatt
+592,C0001,Acid Dilution Unit - Phase-2,,Kolkata,,13.12.2024,,Domestic,Pressure Vessel,Pressure Vessel,,,,10894,P1064715310,,,,PO RECEIVED & DELIVERED,,,,,IK
+593,C0021,Sump Covers,EX-WORKS [FACTORY],Kolkata,VQ/PG/072/24-25,2025-02-01,,Domestic,Pultruded Grating,Grating,,,,,,,,,PO Not Received,,,,11380475.23,Ketan Oza
+594,C0013,Brine Handling - Package B,,Kolkata,VQ/FG/107/24-25,19.11.2024,,Domestic,Pultrusion,Pultrusion,,Mail,01.11.2024,,,,,,NOT RECEIVED,,,,1012075.77,Zubin Tandon
+595,C0001,Filter Press Area,EX-WORKS [FACTORY],Kolkata,Open,08-08-2024,,,FRP Vessel,Pressure Vessel,,,,10811,P5973501339,2024-08-12,,,PO RECEIVED & DELIVERED,,,,,Harita Nambiar
+596,C0014,Filter Press Area,,Kolkata,GEM/2024/B/7300973,,,Internal,Pultrusion,Pultrusion,8,,,,,,,,CLOSED,,,,,Niharika Vora
+597,C0021,Scrubber Package,,Kolkata,VQ/FG/053/25-26,16.12.2025,15.01.2026,Domestic,Moulded Grating,Grating,,,,,,,,,LOST,,,,853799.66,IK
+598,C0053,Brine Handling - Rev-A,EX-WORKS [FACTORY],Kolkata,VQ/FGS/080/26-27,04-06-2026,,Export,Moulded Grating,Grating,,,,,,,,,CLOSED,,,45 Days Credit,759168.87,Niharika Vora
+599,C0013,Tank Farm Revamp - Site Supply,,,VQ/PG/002/24-25,,,Internal,Pultrusion,Pultrusion,,GEM,30.11.2024,10636,P7687360087,,,,PO Received & Delivered,,,,,Niharika Vora
+600,C0002,Sea Water Intake - Phase-2,,Kolkata,,,,External,FRP Vessel,Pressure Vessel,41,,,10069,P6947589616,15-09-2025,,,PO Received & Delivered,,,,14866486.51,Hemal Zaveri
+601,C0001,Chlorine Dosing Skid - Site Supply,EX-WORKS [FACTORY],Kolkata,,,,,FRP Vessel,Pressure Vessel,,,,10120,P4864126433,,,,Open,,,,,Harita Nambiar
+602,C0002,Scrubber Package - Phase-2,Ex-Works [FACTORY],Kolkata,VQ-FV-031-24-25,12.01.2025,,External,FRP Vessel,Pressure Vessel,,,,10609,P5328166990,,,,PO Received & Delivered,,,,,YN
+603,C0001,ETP Upgradation - EPC Scope,,Kolkata,,01.03.2025,,External,VESSEL,Pressure Vessel,,,,10738,P4731897202,2025-03-06,,,PO Received & Delivered,,,,2459135.83,Farhan Qureshi
+604,C0013,Platform Extension - Phase-1,,Kolkata,,,,,Pultrusion,Pultrusion,,,,,,,,,Not Received,,,,,Hemal Zaveri
+605,C0001,Caustic Storage - Rev-A,,Kolkata,,30-01-2025,,External,FRP Vessel,Pressure Vessel,,,,30214,P4573596487,02-02-2025,,,PO Received & Delivered,,,,72012.93,Qamar Bhatt
+606,C0020,Clarifier Internals - Phase-1,Ex-Works [FACTORY],Kolkata,,,,,Grating,Grating,866,,,10410,P5638829357,,,,PO Received & Delivered,,,,,Niharika Vora
+607,C0013,Acid Dilution Unit - Unit-3,EX-WORKS [FACTORY],Kolkata,VQ/FG/045/25-26,20-05-2025,19.07.2025,Internal,Pultrusion,Pultrusion,,,,10252,P2863844675,2025-05-26,,As early as possible,PO RECEIVED & DELIVERED,,,,284387.65,Yash Nagpal
+608,C0023,Pump House Flooring - EPC Scope,EX-WORKS [FACTORY],Kolkata,VQ-PG-47-26-27  REV-04,19.08.2026,,Internal,Grating,Grating,,,,,,,,,Open,,,,2219112.65,QB
+609,C0001,Desalination Package - Phase-1,Ex-Works [FACTORY],Kolkata,,15-12-2025,,External,FRP Vessel,Pressure Vessel,37,,,10384,P8229392805,,,,PO Received & Delivered,,,,,FQ
+610,C0003,Cable Trench Covers - Rev-A,,Kolkata,,08.02.2025,,Export-Non-KAG,FRP Vessel,Pressure Vessel,,,,10442,P8652281649,22.02.2025,,,PO Received & Delivered,,,,,YN
+611,C0001,Filter Press Area - Package B,,Kolkata,Open,2025-08-03,,Domestic,Vessel,Pressure Vessel,,,,10596,,04.08.2025,,23.10.2025,PO Received & Delivered,,,,210256.03,Harita Nambiar
+612,C0001,Sea Water Intake - Phase-1,EX-WORKS [FACTORY],Kolkata,VQ/FV/025/25-26,,,External,FRP Vessel,Pressure Vessel,,,,10428,P8758809005,,,2025-11-23,PO RECEIVED & DELIVERED,,,,,QB
+613,C0013,Tank Farm Revamp - EPC Scope,,Kolkata,VQ-FG-166-25-26,,07-10-2025,,Pultrusion,Pultrusion,,,,,,,,,Open,,,,3659014.78,Yash Nagpal
+614,C0013,Acid Dilution Unit,,Kolkata,,,,Internal,Pultrusion,Pultrusion,,,,,,,,,Not Received,,,,586989.94,Hemal Zaveri
+615,C0013,Walkway & Handrail - Package B,EX-WORKS [FACTORY],Kolkata,VQ/PG/067/25-26,11.12.2025,25.01.2026,,Pultrusion,Pultrusion,,,,10175,P6559065835,,,,PO Received & Delivered,,,,,Ketan Oza
+616,C0001,Sump Covers,EX-WORKS [PLANT 2],,,06.04.2026,,Domestic,VESSEL,Pressure Vessel,,,,10651,P6744794855,,,,PO Received & Delivered,,,,3273807.63,Niharika Vora
+617,C0013,Sump Covers - Phase-1,EX-WORKS KOLKATA,Kolkata,VQ/PG/21/25-26,,29-09-2025,Internal,Pultrusion,Pultrusion,,,,10730,P6101762091,,,18.08.2025,PO RECEIVED & DELIVERED,Lost,,,,ZT
+618,C0001,Clarifier Internals - Unit-3,,Kolkata,,27.03.2026,,Domestic,Vessel,Pressure Vessel,,,,10342,P5632573038,,,17.09.2026,PO Received & Delivered,,,,25850.7,Zubin Tandon
+619,C0021,Sea Water Intake - Rev-A,,Kolkata,VQ/FG/88/24-25,25.04.2024,,Domestic,Grating,Grating,,,,,,,,,Open,,,,41658.67,Zubin Tandon
+620,C0013,Tank Farm Revamp - EPC Scope,,Kolkata,,,,Internal,PULTRUSION,Pultrusion,14,,,,,,,,CLOSED,,,,,Niharika Vora
+621,C0001,Pickling Line Covers - Site Supply,Ex-works [FACTORY],Kolkata,,21-07-2024,,,VESSEL,Pressure Vessel,,,,10791,P8670238355,2024-09-29,,,PO Received & Delivered,,,,,Zubin Tandon
+622,C0004,Cable Trench Covers - Site Supply,,Kolkata,VQ/FV/033/25-26  REV-01,01-01-2026,02.03.2026,Export,VESSEL,Pressure Vessel,,,,10235,P6946306973,2026-01-03,,10-03-2026,PO RECEIVED & DELIVERED,,,,,QB
+623,C0001,Cooling Tower Replacement,,Kolkata,po received & delivered,04.12.2025,,Domestic,Vessel,Pressure Vessel,1,,,10566,P3566125120,,,,PO Received & Delivered,NA,,,,Farhan Qureshi
+624,C0013,Tank Farm Revamp,,Kolkata,VQ/FG/155/25-26,20-11-2025,,Internal,Pultrusion,Pultrusion,41,GEM,27-10-2025,,,,,,Open,,,,356733.92,Yash Nagpal
+625,C0013,Cooling Tower Replacement - Package B,Ex-Works [FACTORY],Kolkata,,,,Domestic,Pultruded Profiles,Pultrusion,3,,,30880,P2362941028,06.01.2026,,,PO Received & Delivered,,,,,YN

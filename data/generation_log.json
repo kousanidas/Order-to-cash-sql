@@ -1,0 +1,250 @@
+{
+  "rows": 625,
+  "band_counts": {
+    "10000": 369,
+    "30000": 8,
+    "40000": 1,
+    "50000": 2,
+    "60000": 3,
+    "70000": 1
+  },
+  "customers": {
+    "Pressure Vessel": {
+      "n": 12,
+      "alpha": 2.05
+    },
+    "Pultrusion": {
+      "n": 7,
+      "alpha": 2.85
+    },
+    "Grating": {
+      "n": 40,
+      "alpha": 1.45
+    }
+  },
+  "customer_codes": {
+    "Pressure Vessel": [
+      "C0001",
+      "C0002",
+      "C0003",
+      "C0004",
+      "C0005",
+      "C0006",
+      "C0007",
+      "C0008",
+      "C0009",
+      "C0010",
+      "C0011",
+      "C0012"
+    ],
+    "Pultrusion": [
+      "C0013",
+      "C0014",
+      "C0015",
+      "C0016",
+      "C0017",
+      "C0018",
+      "C0019"
+    ],
+    "Grating": [
+      "C0020",
+      "C0021",
+      "C0022",
+      "C0023",
+      "C0024",
+      "C0025",
+      "C0026",
+      "C0027",
+      "C0028",
+      "C0029",
+      "C0030",
+      "C0031",
+      "C0032",
+      "C0033",
+      "C0034",
+      "C0035",
+      "C0036",
+      "C0037",
+      "C0038",
+      "C0039",
+      "C0040",
+      "C0041",
+      "C0042",
+      "C0043",
+      "C0044",
+      "C0045",
+      "C0046",
+      "C0047",
+      "C0048",
+      "C0049",
+      "C0050",
+      "C0051",
+      "C0052",
+      "C0053",
+      "C0054",
+      "C0055",
+      "C0056",
+      "C0057",
+      "C0058",
+      "C0059"
+    ]
+  },
+  "customer_markets": {
+    "C0001": "Domestic",
+    "C0002": "Domestic",
+    "C0003": "Export",
+    "C0004": "Export",
+    "C0005": "Export",
+    "C0006": "Export",
+    "C0007": "Export",
+    "C0008": "Export",
+    "C0009": "Deemed Export",
+    "C0010": "Deemed Export",
+    "C0011": "Deemed Export",
+    "C0012": "Deemed Export",
+    "C0013": "Domestic",
+    "C0014": "Domestic",
+    "C0015": "Export",
+    "C0016": "Export",
+    "C0017": "Deemed Export",
+    "C0018": "Deemed Export",
+    "C0019": "Deemed Export",
+    "C0020": "Domestic",
+    "C0021": "Domestic",
+    "C0022": "Domestic",
+    "C0023": "Domestic",
+    "C0024": "Domestic",
+    "C0025": "Domestic",
+    "C0026": "Domestic",
+    "C0027": "Domestic",
+    "C0028": "Domestic",
+    "C0029": "Domestic",
+    "C0030": "Domestic",
+    "C0031": "Domestic",
+    "C0032": "Domestic",
+    "C0033": "Domestic",
+    "C0034": "Domestic",
+    "C0035": "Domestic",
+    "C0036": "Domestic",
+    "C0037": "Domestic",
+    "C0038": "Domestic",
+    "C0039": "Domestic",
+    "C0040": "Export",
+    "C0041": "Export",
+    "C0042": "Export",
+    "C0043": "Export",
+    "C0044": "Export",
+    "C0045": "Export",
+    "C0046": "Export",
+    "C0047": "Export",
+    "C0048": "Export",
+    "C0049": "Export",
+    "C0050": "Export",
+    "C0051": "Export",
+    "C0052": "Deemed Export",
+    "C0053": "Deemed Export",
+    "C0054": "Deemed Export",
+    "C0055": "Deemed Export",
+    "C0056": "Deemed Export",
+    "C0057": "Deemed Export",
+    "C0058": "Deemed Export",
+    "C0059": "Deemed Export"
+  },
+  "plan": {
+    "Pressure Vessel": {
+      "won_and_quoted": 42,
+      "won_without_quote_no": 139,
+      "quoted_not_won": 22,
+      "neither": 1
+    },
+    "Pultrusion": {
+      "won_and_quoted": 81,
+      "won_without_quote_no": 49,
+      "quoted_not_won": 90,
+      "neither": 57
+    },
+    "Grating": {
+      "won_and_quoted": 38,
+      "won_without_quote_no": 48,
+      "quoted_not_won": 53,
+      "neither": 5
+    }
+  },
+  "errors": [
+    {
+      "column": "PO Date",
+      "what": "year typed as 2205",
+      "row": "10555"
+    },
+    {
+      "column": "DP Date",
+      "what": "31-11-2024, and November has 30 days",
+      "row": "P4012767672"
+    },
+    {
+      "column": "Vertical",
+      "what": "two names where a market should be",
+      "row": "?"
+    },
+    {
+      "column": "Concerned Person",
+      "what": "two people in one cell",
+      "row": "10482"
+    },
+    {
+      "column": "LD Clause",
+      "what": "second LD column populated while LD also holds a value",
+      "row": "10268"
+    },
+    {
+      "column": "LD Clause",
+      "what": "second LD column populated while LD also holds a value",
+      "row": "10718"
+    },
+    {
+      "column": "LD Clause",
+      "what": "second LD column populated",
+      "row": "10984"
+    },
+    {
+      "column": "Status",
+      "what": "value carries no usable meaning: Supply-Kol",
+      "row": "10753"
+    },
+    {
+      "column": "Status",
+      "what": "value carries no usable meaning: Bill",
+      "row": "10236"
+    },
+    {
+      "column": "Quote Date",
+      "what": "quote dated after its own PO",
+      "row": "10969"
+    },
+    {
+      "column": "DP Date",
+      "what": "promised delivery before the PO date",
+      "row": "10547"
+    },
+    {
+      "column": "Quote No.",
+      "what": "GEM tender ID, not a quote number",
+      "row": "10290"
+    },
+    {
+      "column": "Quote No.",
+      "what": "GEM tender ID, not a quote number",
+      "row": "10132"
+    },
+    {
+      "column": "Quote No.",
+      "what": "GEM tender ID, not a quote number",
+      "row": "GEM/2024/B/7300973"
+    },
+    {
+      "column": "Quote No.",
+      "what": "GEM tender ID, not a quote number",
+      "row": "10242"
+    }
+  ]
+}

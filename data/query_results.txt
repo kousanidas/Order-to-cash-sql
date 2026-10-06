@@ -1,0 +1,239 @@
+
+==============================================================================
+Q1. What share of quotes become orders, and how much business arrives with
+==============================================================================
+    product_line    | market_type   | quotes_issued | quotes_won | conversion_pct | orders_total | orders_with_no_quote | no_quote_share_pct
+    ----------------+---------------+---------------+------------+----------------+--------------+----------------------+-------------------
+    Grating         | Deemed Export | 2             | 1          | 50.0           | 2            | 1                    | 50.0              
+    Grating         | Domestic      | 85            | 34         | 40.0           | 80           | 46                   | 57.5              
+    Grating         | Export        | 4             | 3          | 75.0           | 4            | 1                    | 25.0              
+    Pressure Vessel | Deemed Export | 1             | 1          | 100.0          | 5            | 4                    | 80.0              
+    Pressure Vessel | Domestic      | 51            | 34         | 66.7           | 155          | 121                  | 78.1              
+    Pressure Vessel | Export        | 12            | 7          | 58.3           | 21           | 14                   | 66.7              
+    Pultrusion      | Deemed Export | 1             | 0          | 0.0            | 0            | 0                    |                   
+    Pultrusion      | Domestic      | 160           | 75         | 46.9           | 124          | 49                   | 39.5              
+    Pultrusion      | Export        | 10            | 6          | 60.0           | 6            | 0                    | 0.0               
+
+==============================================================================
+Q2. How long from quote to order, by product line?
+==============================================================================
+    product_line    | orders_measurable | fastest | median_days | p90_days | slowest | po_before_quote
+    ----------------+-------------------+---------+-------------+----------+---------+----------------
+    Grating         | 38                | 0       | 13.0        | 47       | 170     | 0              
+    Pultrusion      | 81                | 0       | 13.0        | 64       | 159     | 0              
+    Pressure Vessel | 42                | 0       | 2.0         | 5        | 9       | 0              
+
+==============================================================================
+Q3. Do we deliver on time and in full, and is it getting better?
+==============================================================================
+    product_line    | quarter_label | orders_due | otif_pct | on_time_pct | in_full_pct | vs_prev_quarter
+    ----------------+---------------+------------+----------+-------------+-------------+----------------
+    Grating         | FY24-25 Q1    | 6          | 33.3     | 33.3        | 100.0       |                
+    Grating         | FY24-25 Q2    | 8          | 87.5     | 87.5        | 100.0       | 54.2           
+    Grating         | FY24-25 Q3    | 7          | 57.1     | 57.1        | 100.0       | -30.4          
+    Grating         | FY25-26 Q1    | 9          | 66.7     | 66.7        | 100.0       | 9.6            
+    Grating         | FY25-26 Q2    | 7          | 71.4     | 71.4        | 100.0       | 4.7            
+    Grating         | FY25-26 Q3    | 12         | 58.3     | 58.3        | 91.7        | -13.1          
+    Grating         | FY25-26 Q4    | 8          | 50.0     | 75.0        | 75.0        | -8.3           
+    Grating         | FY26-27 Q1    | 11         | 72.7     | 72.7        | 100.0       | 22.7           
+    Grating         | FY26-27 Q2    | 7          | 14.3     | 28.6        | 14.3        | -58.4          
+    Pressure Vessel | FY24-25 Q1    | 12         | 58.3     | 66.7        | 91.7        |                
+    Pressure Vessel | FY24-25 Q2    | 16         | 56.3     | 62.5        | 87.5        | -2.0           
+    Pressure Vessel | FY24-25 Q3    | 17         | 70.6     | 70.6        | 88.2        | 14.3           
+    Pressure Vessel | FY24-25 Q4    | 16         | 68.8     | 75.0        | 93.8        | -1.8           
+    Pressure Vessel | FY25-26 Q1    | 19         | 63.2     | 68.4        | 94.7        | -5.6           
+    Pressure Vessel | FY25-26 Q2    | 12         | 58.3     | 58.3        | 100.0       | -4.9           
+    Pressure Vessel | FY25-26 Q3    | 17         | 58.8     | 58.8        | 100.0       | 0.5            
+    Pressure Vessel | FY25-26 Q4    | 18         | 61.1     | 61.1        | 94.4        | 2.3            
+    Pressure Vessel | FY26-27 Q1    | 16         | 62.5     | 62.5        | 100.0       | 1.4            
+    Pressure Vessel | FY26-27 Q2    | 11         | 27.3     | 27.3        | 45.5        | -35.2          
+    Pultrusion      | FY24-25 Q1    | 7          | 42.9     | 42.9        | 100.0       |                
+    Pultrusion      | FY24-25 Q2    | 15         | 40.0     | 46.7        | 73.3        | -2.9           
+    Pultrusion      | FY24-25 Q3    | 15         | 40.0     | 40.0        | 100.0       | 0.0            
+    Pultrusion      | FY24-25 Q4    | 17         | 52.9     | 52.9        | 94.1        | 12.9           
+    Pultrusion      | FY25-26 Q1    | 7          | 85.7     | 85.7        | 100.0       | 32.8           
+    Pultrusion      | FY25-26 Q2    | 20         | 65.0     | 65.0        | 100.0       | -20.7          
+    Pultrusion      | FY25-26 Q3    | 10         | 80.0     | 80.0        | 100.0       | 15.0           
+    Pultrusion      | FY25-26 Q4    | 11         | 63.6     | 63.6        | 100.0       | -16.4          
+    Pultrusion      | FY26-27 Q1    | 11         | 54.5     | 54.5        | 100.0       | -9.1           
+    Pultrusion      | FY26-27 Q2    | 8          | 50.0     | 50.0        | 75.0        | -4.5           
+
+==============================================================================
+Q4. Does delivery lead time scale with vessel size?
+==============================================================================
+    grouping             | orders | median_promised | mean_promised | mean_actual | factor_vs_medium
+    ---------------------+--------+-----------------+---------------+-------------+-----------------
+    1 small (1400-1800)  | 73     | 25.0            | 44.0          | 45.0        | 0.73            
+    2 medium (2000-2400) | 51     | 25.0            | 60.0          | 50.0        | 1.0             
+    3 large (2600-3000)  | 48     | 65.0            | 114.0         | 85.0        | 1.9             
+    dia_mm | orders | mean_promised | fastest | slowest | caveat                                
+    -------+--------+---------------+---------+---------+---------------------------------------
+    1400   | 23     | 28.0          | 3       | 137     | n too small to rank sizes individually
+    1600   | 26     | 48.0          | 1       | 197     | n too small to rank sizes individually
+    1800   | 24     | 54.0          | 1       | 215     | n too small to rank sizes individually
+    2000   | 25     | 58.0          | 2       | 260     | n too small to rank sizes individually
+    2400   | 26     | 62.0          | -14     | 342     | n too small to rank sizes individually
+    2600   | 25     | 139.0         | 2       | 539     | n too small to rank sizes individually
+    3000   | 23     | 86.0          | -24     | 358     | n too small to rank sizes individually
+
+==============================================================================
+Q5. When we are late, why?
+==============================================================================
+    delay_reason                        | late_orders | avg_days_late | worst_days_late | total_days_lost | rank_by_frequency | rank_by_severity
+    ------------------------------------+-------------+---------------+-----------------+-----------------+-------------------+-----------------
+    Customer hold on drawing approval   | 28          | 24.1          | 89              | 674             | 1                 | 5               
+    Transport not arranged              | 21          | 34.7          | 127             | 728             | 2                 | 2               
+    Raw material not received           | 16          | 25.6          | 112             | 409             | 3                 | 4               
+    Payment milestone not met           | 13          | 17.7          | 77              | 230             | 4                 | 7               
+    Inspection call delayed by customer | 13          | 11.0          | 45              | 143             | 4                 | 8               
+    Capacity clash with another job     | 8           | 29.3          | 150             | 234             | 6                 | 3               
+    Dimensional rework after inspection | 4           | 53.8          | 90              | 215             | 7                 | 1               
+    Site not ready                      | 4           | 19.5          | 31              | 78              | 7                 | 6               
+
+==============================================================================
+Q6. How much is owed, and how old is it?
+==============================================================================
+    ageing_bucket | invoices | customers | outstanding_inr | pct_of_total
+    --------------+----------+-----------+-----------------+-------------
+    0 not yet due | 8        | 5         | 2821291.0       | 5.0         
+    1 to 30 days  | 8        | 5         | 894308.0        | 1.6         
+    31 to 60 days | 8        | 5         | 3677743.0       | 6.6         
+    61 to 90 days | 7        | 2         | 4918114.0       | 8.8         
+    90 plus days  | 54       | 12        | 43645392.0      | 78.0        
+
+==============================================================================
+Q7. Which customers pay late?
+==============================================================================
+    customer_id | market_type   | region      | invoices | settled_in_full_pct | paid_late_pct | avg_days_vs_due | still_outstanding | worst_quartile
+    ------------+---------------+-------------+----------+---------------------+---------------+-----------------+-------------------+---------------
+    C0024       | Domestic      | East        | 3        | 100.0               | 67.0          | 81.3            | 0.0               | 1             
+    C0003       | Export        | Middle East | 15       | 80.0                | 47.0          | 53.5            | 88989.0           | 1             
+    C0022       | Domestic      | North       | 7        | 100.0               | 57.0          | 39.9            | 0.0               | 1             
+    C0013       | Domestic      | South       | 181      | 77.0                | 45.0          | 36.7            | 20413718.0        | 1             
+    C0020       | Domestic      | South       | 52       | 88.0                | 52.0          | 35.5            | 2492447.0         | 2             
+    C0031       | Domestic      | North       | 3        | 100.0               | 33.0          | 34.0            | 0.0               | 2             
+    C0004       | Export        | Europe      | 12       | 58.0                | 58.0          | 30.3            | 13059.0           | 2             
+    C0009       | Deemed Export | West        | 6        | 100.0               | 83.0          | 27.3            | 0.0               | 2             
+    C0001       | Domestic      | East        | 183      | 91.0                | 53.0          | 23.8            | 7961018.0         | 3             
+    C0021       | Domestic      | South       | 23       | 91.0                | 48.0          | 17.9            | 130415.0          | 3             
+    C0014       | Domestic      | West        | 17       | 88.0                | 35.0          | 15.8            | 1577513.0         | 3             
+    C0056       | Deemed Export | West        | 3        | 100.0               | 67.0          | 13.3            | 0.0               | 3             
+    C0002       | Domestic      | South       | 34       | 97.0                | 12.0          | 6.6             | 2787803.0         | 4             
+    C0015       | Export        | APAC        | 9        | 100.0               | 56.0          | 6.2             | 0.0               | 4             
+    C0010       | Deemed Export | West        | 3        | 100.0               | 33.0          | -3.0            | 0.0               | 4             
+
+==============================================================================
+Q8. What have we invoiced, month by month?
+==============================================================================
+    month_key | invoices | invoiced_inr | running_total_inr | vs_prev_month | pct_change
+    ----------+----------+--------------+-------------------+---------------+-----------
+    2024-04   | 10       | 5159776.0    | 5159776.0         |               |           
+    2024-05   | 20       | 18889122.0   | 24048898.0        | 13729346.0    | 266.1     
+    2024-06   | 11       | 28820965.0   | 52869863.0        | 9931843.0     | 52.6      
+    2024-07   | 24       | 26990571.0   | 79860434.0        | -1830394.0    | -6.4      
+    2024-08   | 27       | 46660476.0   | 126520910.0       | 19669905.0    | 72.9      
+    2024-09   | 23       | 24223086.0   | 150743996.0       | -22437390.0   | -48.1     
+    2024-10   | 12       | 9031987.0    | 159775983.0       | -15191099.0   | -62.7     
+    2024-11   | 26       | 60158998.0   | 219934981.0       | 51127011.0    | 566.1     
+    2024-12   | 27       | 18034973.0   | 237969954.0       | -42124025.0   | -70.0     
+    2025-01   | 24       | 21585405.0   | 259555359.0       | 3550432.0     | 19.7      
+    2025-02   | 12       | 10074125.0   | 269629484.0       | -11511280.0   | -53.3     
+    2025-03   | 30       | 34272959.0   | 303902443.0       | 24198834.0    | 240.2     
+    2025-04   | 16       | 18908301.0   | 322810744.0       | -15364658.0   | -44.8     
+    2025-05   | 18       | 34463116.0   | 357273860.0       | 15554815.0    | 82.3      
+    2025-06   | 15       | 34670961.0   | 391944821.0       | 207845.0      | 0.6       
+    2025-07   | 30       | 42513688.0   | 434458509.0       | 7842727.0     | 22.6      
+    2025-08   | 19       | 15721565.0   | 450180074.0       | -26792123.0   | -63.0     
+    2025-09   | 15       | 15498989.0   | 465679063.0       | -222576.0     | -1.4      
+    2025-10   | 17       | 35257623.0   | 500936686.0       | 19758634.0    | 127.5     
+    2025-11   | 24       | 25746913.0   | 526683599.0       | -9510710.0    | -27.0     
+    2025-12   | 25       | 202033714.0  | 728717313.0       | 176286801.0   | 684.7     
+    2026-01   | 20       | 19538467.0   | 748255780.0       | -182495247.0  | -90.3     
+    2026-02   | 7        | 17397712.0   | 765653492.0       | -2140755.0    | -11.0     
+    2026-03   | 29       | 20987314.0   | 786640806.0       | 3589602.0     | 20.6      
+    2026-04   | 21       | 13002305.0   | 799643111.0       | -7985009.0    | -38.0     
+    2026-05   | 23       | 17999304.0   | 817642415.0       | 4996999.0     | 38.4      
+    2026-06   | 26       | 31807800.0   | 849450215.0       | 13808496.0    | 76.7      
+    2026-07   | 20       | 17355286.0   | 866805501.0       | -14452514.0   | -45.4     
+    2026-08   | 12       | 1921928.0    | 868727429.0       | -15433358.0   | -88.9     
+
+==============================================================================
+Q9. How concentrated is the revenue?
+==============================================================================
+    product_line    | rnk | customer_id | revenue_inr | share_pct | cumulative_pct
+    ----------------+-----+-------------+-------------+-----------+---------------
+    Grating         | 1   | C0020       | 198240316.0 | 80.7      | 80.7          
+    Grating         | 2   | C0021       | 23314494.0  | 9.5       | 90.2          
+    Grating         | 3   | C0023       | 7894796.0   | 3.2       | 93.5          
+    Grating         | 4   | C0022       | 4741979.0   | 1.9       | 95.4          
+    Grating         | 5   | C0035       | 3311721.0   | 1.3       | 96.7          
+    Pressure Vessel | 1   | C0001       | 274108902.0 | 65.4      | 65.4          
+    Pressure Vessel | 2   | C0002       | 78494858.0  | 18.7      | 84.1          
+    Pressure Vessel | 3   | C0003       | 37318804.0  | 8.9       | 93.0          
+    Pressure Vessel | 4   | C0007       | 13543298.0  | 3.2       | 96.2          
+    Pressure Vessel | 5   | C0009       | 8443652.0   | 2.0       | 98.3          
+    Pultrusion      | 1   | C0013       | 182131114.0 | 89.3      | 89.3          
+    Pultrusion      | 2   | C0014       | 11666356.0  | 5.7       | 95.0          
+    Pultrusion      | 3   | C0015       | 9453383.0   | 4.6       | 99.6          
+    Pultrusion      | 4   | C0016       | 755730.0    | 0.4       | 100.0         
+
+==============================================================================
+Q10. What is sitting undelivered right now?
+==============================================================================
+    product_line    | age_bucket    | open_orders | open_value_inr | already_overdue | oldest_days
+    ----------------+---------------+-------------+----------------+-----------------+------------
+    Grating         | 0 to 30 days  | 3           | 1052485.0      | 1               | 23         
+    Grating         | 31 to 60 days | 4           | 5599558.0      | 4               | 42         
+    Pressure Vessel | 0 to 30 days  | 11          | 68682879.0     | 2               | 20         
+    Pressure Vessel | 31 to 60 days | 2           | 7651885.0      | 2               | 37         
+    Pressure Vessel | 61 to 90 days | 4           | 6509075.0      | 0               | 85         
+    Pressure Vessel | 90 plus days  | 5           | 16703058.0     | 0               | 352        
+    Pultrusion      | 0 to 30 days  | 4           | 5284089.0      | 1               | 23         
+    Pultrusion      | 31 to 60 days | 1           | 359891.0       | 0               | 33         
+    Pultrusion      | 90 plus days  | 2           | 5097586.0      | 0               | 116        
+
+==============================================================================
+Q11. How much business is lost, and in what way?
+==============================================================================
+    product_line    | outcome      | rows_n | rows_with_a_value | value_inr  | avg_value_inr | pct_of_line_rows
+    ----------------+--------------+--------+-------------------+------------+---------------+-----------------
+    Grating         | Closed       | 14     | 11                | 12694827.0 | 1154075.0     | 42.4            
+    Grating         | Not received | 12     | 9                 | 14758670.0 | 1639852.0     | 36.4            
+    Grating         | Cancelled    | 3      | 3                 | 3634555.0  | 1211518.0     | 9.1             
+    Grating         | Lost         | 3      | 3                 | 9880447.0  | 3293482.0     | 9.1             
+    Grating         | Retender     | 1      | 1                 | 56986.0    | 56986.0       | 3.0             
+    Pressure Vessel | Closed       | 11     | 8                 | 18044998.0 | 2255625.0     | 61.1            
+    Pressure Vessel | Cancelled    | 3      | 3                 | 4276681.0  | 1425560.0     | 16.7            
+    Pressure Vessel | Not received | 2      | 1                 | 47298.0    | 47298.0       | 11.1            
+    Pressure Vessel | Lost         | 1      | 1                 | 132351.0   | 132351.0      | 5.6             
+    Pressure Vessel | Retender     | 1      | 0                 |            |               | 5.6             
+    Pultrusion      | Closed       | 65     | 33                | 85660239.0 | 2595765.0     | 66.3            
+    Pultrusion      | Not received | 26     | 16                | 25127343.0 | 1570459.0     | 26.5            
+    Pultrusion      | Lost         | 4      | 4                 | 5858518.0  | 1464629.0     | 4.1             
+    Pultrusion      | Cancelled    | 3      | 3                 | 2427519.0  | 809173.0      | 3.1             
+
+==============================================================================
+Q12. How much liquidated-damages exposure sits on the late orders?
+==============================================================================
+    product_line    | ld_status                          | late_orders | avg_days_late | value_at_risk_inr | pct_of_late
+    ----------------+------------------------------------+-------------+---------------+-------------------+------------
+    Grating         | 2 explicitly none                  | 1           | 31.0          | 313708.0          | 3.6        
+    Grating         | 3 wrong kind of value in the field | 1           | 6.0           | 985892.0          | 3.6        
+    Grating         | 4 nothing recorded                 | 26          | 21.2          | 172756730.0       | 92.9       
+    Pressure Vessel | 2 explicitly none                  | 3           | 43.7          | 10242771.0        | 5.2        
+    Pressure Vessel | 3 wrong kind of value in the field | 5           | 12.8          | 24098164.0        | 8.6        
+    Pressure Vessel | 4 nothing recorded                 | 50          | 19.9          | 107332659.0       | 86.2       
+    Pultrusion      | 3 wrong kind of value in the field | 7           | 9.4           | 15414756.0        | 13.5       
+    Pultrusion      | 4 nothing recorded                 | 45          | 25.2          | 64843609.0        | 86.5       
+    mapped_to         | rows_n | wordings | as_typed_in_the_source                        
+    ------------------+--------+----------+-----------------------------------------------
+    Delivered         | 357    | 4        | PO Received & Delivered,PO RECEIVED & DELIVERE
+    Closed            | 90     | 2        | Closed,CLOSED                                 
+    Quote live        | 88     | 5        | Open,RFQ Submitted,Budgetary,UNDER DISCUSSION,
+    Not received      | 40     | 3        | Not Received,NOT RECEIVED,PO Not Received     
+    Order in progress | 24     | 4        | Open,OPEN,PO RECEIVED,Order Confirmed         
+    Cancelled         | 9      | 2        | Cancel,CANCELED                               
+    Lost              | 8      | 2        | LOST,Lost                                     
+    On hold           | 5      | 2        | ON HOLD,On Hold                               
+    UNUSABLE          | 2      | 2        | Bill,Supply-Kol                               
+    Retender          | 2      | 1        | RETENDER                                      

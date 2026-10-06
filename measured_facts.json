@@ -1,0 +1,819 @@
+{
+  "_source": "quotes_raw.pkl - 9 quotation register files (3 register groups x 3 financial years), 4712 rows total. Rows classified to a product line by the CATEGORY column: Pressure Vessel = VESSEL/VESSELS/PRESSURE VESSEL, Pultrusion = PULTRUSION, Grating = GRATING/GRATINGS. 1610 of 4712 rows fall in these three lines.",
+  "_measured_on": "2026-10-03",
+  "_note": "Everything in this file was re-measured from the registers. Anything NOT in this file is a choice, and the choice is recorded on the Assumptions tab instead.",
+  "rows_by_line": {
+    "all_registers": {
+      "Pressure Vessel": 692,
+      "Pultrusion": 600,
+      "Grating": 318
+    },
+    "fy24_25_tab_only": {
+      "Pressure Vessel": 166,
+      "Pultrusion": 234,
+      "Grating": 105
+    },
+    "_note": "Pultrusion is the largest line in FY24-25 and Grating the smallest. Across all three years Pressure Vessel is largest."
+  },
+  "funnel": {
+    "_quote_no_test": "A row counts as having a quote number if QUOTE NO. matches FP<sep>TOKEN<sep>SERIAL (1-3 tokens). 353 of 1610 rows hold something else in that column - status words, GEM tender IDs, bare serials - and 471 are blank.",
+    "_won_test": "A row counts as won if JOB NO or PO NUMBER or PO NO is filled.",
+    "Pressure Vessel": {
+      "rows": 692,
+      "has_quote_no": 216,
+      "won": 613,
+      "won_and_quoted": 141,
+      "won_without_quote_no": 472,
+      "quoted_not_won": 75,
+      "neither": 4
+    },
+    "Pultrusion": {
+      "rows": 600,
+      "has_quote_no": 370,
+      "won": 282,
+      "won_and_quoted": 175,
+      "won_without_quote_no": 107,
+      "quoted_not_won": 195,
+      "neither": 123
+    },
+    "Grating": {
+      "rows": 318,
+      "has_quote_no": 200,
+      "won": 191,
+      "won_and_quoted": 84,
+      "won_without_quote_no": 107,
+      "quoted_not_won": 116,
+      "neither": 11
+    },
+    "derived_no_quote_share_of_won_pct": {
+      "Pressure Vessel": 77.0,
+      "Pultrusion": 37.9,
+      "Grating": 56.0
+    },
+    "derived_conversion_of_quoted_pct": {
+      "Pressure Vessel": 65.3,
+      "Pultrusion": 47.3,
+      "Grating": 42.0
+    }
+  },
+  "lead_times_days": {
+    "_quantiles": "p10, p25, p50, p75, p90 (and p95/p99 where listed separately)",
+    "quote_to_po": {
+      "Pressure Vessel": [
+        1,
+        1,
+        3,
+        5,
+        13
+      ],
+      "Pultrusion": [
+        5,
+        13,
+        20,
+        31,
+        65
+      ],
+      "Grating": [
+        0,
+        7,
+        14,
+        26,
+        41
+      ]
+    },
+    "quote_to_po_n": {
+      "Pressure Vessel": 90,
+      "Pultrusion": 93,
+      "Grating": 63
+    },
+    "po_to_dp": {
+      "Pressure Vessel": [
+        4,
+        12,
+        28,
+        82,
+        128
+      ],
+      "Pultrusion": [
+        9,
+        14,
+        20,
+        26,
+        41
+      ],
+      "Grating": [
+        9,
+        16,
+        24,
+        32,
+        39
+      ]
+    },
+    "po_to_dp_n": {
+      "Pressure Vessel": 135,
+      "Pultrusion": 42,
+      "Grating": 32
+    },
+    "negative_leads": {
+      "_note": "Real rows exist where the PO predates the quote, or the DP date predates the PO. quote_to_po: 2 negative in Grating. po_to_dp: 2 negative in Pressure Vessel, 1 in Grating.",
+      "quote_to_po_negative": {
+        "Pressure Vessel": 0,
+        "Pultrusion": 0,
+        "Grating": 2
+      },
+      "po_to_dp_negative": {
+        "Pressure Vessel": 2,
+        "Pultrusion": 0,
+        "Grating": 1
+      }
+    },
+    "quote_to_po_full": {
+      "Pressure Vessel": {
+        "p10": 1,
+        "p25": 1,
+        "p50": 3,
+        "p75": 5,
+        "p90": 13,
+        "p95": 16,
+        "p99": 90,
+        "max": 168
+      },
+      "Pultrusion": {
+        "p10": 5,
+        "p25": 13,
+        "p50": 20,
+        "p75": 31,
+        "p90": 65,
+        "p95": 97,
+        "p99": 1769,
+        "max": 20485
+      },
+      "Grating": {
+        "p10": 0,
+        "p25": 7,
+        "p50": 14,
+        "p75": 26,
+        "p90": 41,
+        "p95": 48,
+        "p99": 62,
+        "max": 66
+      },
+      "_note": "Pultrusion p99 of 1769 days and a maximum of 20485 days are not lead times, they are wrong-year typos in the real register - 20485 days is 56 years. The generator stops at p95 and uses a 200-day ceiling, and the register's own wrong-year row is reproduced separately as a known error rather than smeared across the whole distribution."
+    },
+    "po_to_dp_full": {
+      "Pressure Vessel": {
+        "p10": 4,
+        "p25": 12,
+        "p50": 28,
+        "p75": 82,
+        "p90": 128,
+        "p95": 169,
+        "p99": 265,
+        "max": 499
+      },
+      "Pultrusion": {
+        "p10": 9,
+        "p25": 14,
+        "p50": 20,
+        "p75": 26,
+        "p90": 41,
+        "p95": 70,
+        "p99": 128,
+        "max": 159
+      },
+      "Grating": {
+        "p10": 9,
+        "p25": 16,
+        "p50": 24,
+        "p75": 32,
+        "p90": 39,
+        "p95": 71,
+        "p99": 118,
+        "max": 131
+      }
+    }
+  },
+  "order_value_inr": {
+    "_quantiles": "p10, p25, p50, p75, p90, p95, p99 - see order_value_full",
+    "Pressure Vessel": [
+      42244,
+      167136,
+      1099552,
+      3434727,
+      5809019
+    ],
+    "Pultrusion": [
+      233581,
+      359942,
+      864350,
+      2132558,
+      4555809
+    ],
+    "Grating": [
+      48248,
+      109740,
+      363065,
+      1014984,
+      3008183
+    ],
+    "max": {
+      "Pressure Vessel": 36771000,
+      "Pultrusion": 36810206,
+      "Grating": 219876456
+    },
+    "n": {
+      "Pressure Vessel": 316,
+      "Pultrusion": 367,
+      "Grating": 309
+    },
+    "full": {
+      "Pressure Vessel": {
+        "p10": 42244,
+        "p25": 167135,
+        "p50": 1099552,
+        "p75": 3434727,
+        "p90": 5809019,
+        "p95": 8133416,
+        "p99": 15836645,
+        "max": 36771000
+      },
+      "Pultrusion": {
+        "p10": 233580,
+        "p25": 359941,
+        "p50": 864350,
+        "p75": 2132558,
+        "p90": 4555808,
+        "p95": 5580790,
+        "p99": 13032527,
+        "max": 36810206
+      },
+      "Grating": {
+        "p10": 48247,
+        "p25": 109740,
+        "p50": 363064,
+        "p75": 1014983,
+        "p90": 3008183,
+        "p95": 5575470,
+        "p99": 12822088,
+        "max": 219876456
+      },
+      "_note": "Grating's maximum of 219.9m sits on a single row. Interpolating straight from p90 to that maximum put a tenth of all grating rows above 3m, which is nothing like the real book, so p95 and p99 are measured and used as anchors too."
+    }
+  },
+  "customer_concentration": {
+    "_basis": "Share of summed PO / QUOTE VALUE by PARTY, rows with both fields filled.",
+    "Pressure Vessel": {
+      "customers": 19,
+      "top1_pct": 63.3,
+      "top5_pct": 94.1,
+      "top10_pct": 98.9
+    },
+    "Pultrusion": {
+      "customers": 9,
+      "top1_pct": 82.1,
+      "top5_pct": 99.2,
+      "top10_pct": 100.0
+    },
+    "Grating": {
+      "customers": 113,
+      "top1_pct": 39.4,
+      "top5_pct": 75.2,
+      "top10_pct": 82.4
+    },
+    "distinct_parties_all_lines": 275
+  },
+  "job_numbers": {
+    "_basis": "1885 numerically parseable JOB NO values across all 4712 rows.",
+    "bands": {
+      "10000": 1816,
+      "30000": 41,
+      "40000": 4,
+      "50000": 8,
+      "60000": 14,
+      "70000": 2
+    },
+    "band_share_pct": {
+      "10000": 96.34,
+      "30000": 2.18,
+      "40000": 0.21,
+      "50000": 0.42,
+      "60000": 0.74,
+      "70000": 0.11
+    },
+    "observed_range_10xxx": [
+      10001,
+      10924
+    ],
+    "ascends_with_po_date": {
+      "_note": "It does NOT. Spearman rank correlation between job number and PO date, per band:",
+      "10000": -0.03,
+      "30000": 0.281,
+      "50000": 0.976,
+      "60000": 0.318,
+      "_n": {
+        "10000": 1267,
+        "30000": 41,
+        "50000": 8,
+        "60000": 14
+      },
+      "_reading": "In the dominant band there is effectively no relationship, so numbers are probably allocated per project or per customer rather than chronologically. The 50xxx figure sits on 8 rows."
+    },
+    "multi_value_cells": [
+      "10545/10810",
+      "10084/10085/10046",
+      "10625\n10626\n10877\n10878",
+      "10326 & 10348",
+      "10080 & 10177",
+      "10332 & 10333"
+    ],
+    "non_numeric_cells": [
+      "—"
+    ],
+    "_ordering_decision": "No ordering is imposed. The real Spearman correlation between job number and PO date in the dominant 10xxx band is -0.030 across 1,267 rows, so numbers are not allocated chronologically. Job numbers here are unique and banded but randomly ordered within a band, and the validation suite does not test for an ordering that the source does not have."
+  },
+  "ld_field": {
+    "_note": "Two separate columns exist. 'LD' holds 231 non-null values across 48 distinct strings. 'LD CLAUSE' holds just 3 non-null values across 2 distinct strings. Together that is about 5% of all rows, and 7.2% of won rows.",
+    "fill_rate_all_rows_pct": 5.3,
+    "fill_rate_won_rows_pct": 7.2,
+    "structured_appl_y": {
+      "present_in_real_data": true,
+      "rows": 7,
+      "values": [
+        "Appl:Y, Penalty per week:0.50, Max %Age Imposed:5.00",
+        "Appl:Y, Penalty per week:0.50, Max %Age Imposed:5.01",
+        "Appl:Y, Penalty per week:0.50, Max %Age Imposed:5.02",
+        "Appl:Y, Penalty per week:0.50, Max %Age Imposed:5.03",
+        "Appl:Y, Penalty per week:0.50, Max %Age Imposed:5.04",
+        "Appl:Y, Penalty per week:0.50, Max %Age Imposed:5.05"
+      ],
+      "_reading": "All 7 sit in one tab (Non-KAG / FY26-27 / Vessel) on consecutive rows, and the max percentage climbs 5.00, 5.00, 5.01 ... 5.05. That is an Excel fill-down drag incrementing the last digit, not six different contract terms. The format is real but it is 0.15% of rows and it comes from one person dragging one cell."
+    },
+    "real_values_grouped": {
+      "applicability_flags": {
+        "NA": 52,
+        "Not Applicable": 1,
+        "No": 1,
+        "YES": 1,
+        "—": 1
+      },
+      "month_tokens_wrong_column": {
+        "Aug,25": 23,
+        "Dec,25": 17,
+        "Sept,25": 16,
+        "Jan,26": 15,
+        "Nov,25": 11,
+        "Oct,25": 7,
+        "July,25": 4,
+        "Nov-25,Dec-25": 4,
+        "Dec-25,Jan-26": 3,
+        "April,25": 2,
+        "Oct-25,Dec-25": 2,
+        "Jul-25,Aug-25,Sept-25": 1,
+        "Sept-25,Oct-25,Nov-25,Dec-25": 1,
+        "June-25 & July-25": 1,
+        "Jul-25 & Aug-25": 1,
+        "Nov-25,Dec-25,Jan-26": 1,
+        "Sept-25 & Oct-25": 1,
+        "May,25 & June-25": 1,
+        "Jul,25 & Aug,25": 1,
+        "July-25,Aug-25": 1,
+        "Jul-25,Oct-25,Nov-25": 1,
+        "Jul-25,Aug-25,Sept-26": 1
+      },
+      "status_wrong_column": {
+        "Lost": 19
+      },
+      "excel_serial_dates": {
+        "2025-07-01 00:00:00": 16,
+        "2025-08-01 00:00:00": 1
+      },
+      "genuine_clause_text": {
+        "0.5% per week": 3,
+        "0.5% for the first 2 weeks and 1% thereafter, subject to a maximum": 1,
+        "0.50 % per week or part thereof for the portion executed / supplied": 1,
+        "0.5% of total subcontract value/week or part thereof; max. 5%": 1,
+        "0.5% per Week of delay for 1st 4 Weeks thereafter 1.5% per week": 1,
+        "2%/month if material not lifted within 15 days of inspection call": 1,
+        "For LD Purpose, Date of site readiness clearance will only be considered": 1,
+        "Ref. As per original agreement": 1,
+        "Not mentioned": 2,
+        "LD charges will be applicable on actual handover date to 3PL and same will be considered by warehouse team for LD applicability": 1
+      },
+      "payment_terms_wrong_column": {
+        "100% basic payment along with 100% Taxes & Duties within 45 days": 2,
+        "Payment terms - 25% Adv. & 75% on 90 Days LC": 1
+      },
+      "other_prose": {
+        "Please ensure that materials by road transport arrive at our works": 3,
+        "Was on hold and hence, the same quotation was sent with the revised": 1
+      }
+    },
+    "strings_in_the_brief_not_found_anywhere": [
+      "As per PO terms",
+      "LD applicable as per contract"
+    ],
+    "two_columns": {
+      "LD": {
+        "non_null": 231,
+        "distinct": 48,
+        "fill_rate_all_rows_pct": 4.9,
+        "_what_is_in_it": "Everything. Applicability flags, genuine percentage clauses, delivery months, the word \"Lost\", payment terms, Excel timestamps, freight instructions, and the Appl:Y drag artefact."
+      },
+      "LD Clause": {
+        "non_null": 3,
+        "distinct": 2,
+        "fill_rate_all_rows_pct": 0.064,
+        "values": {
+          "Not mentioned": 2,
+          "LD charges will be applicable on actual handover date to 3PL and same will be considered by warehouse team for LD applicability": 1
+        },
+        "_what_is_in_it": "Almost nothing. The column exists and is essentially unused, which is itself worth reporting."
+      },
+      "_note": "Two columns for one concept, the messy one far more used than the clean one. Reproduced as two columns so the cleaning step has to coalesce them and log the contamination rather than quietly picking one."
+    }
+  },
+  "status_vocabulary": {
+    "_basis": "STATUS column, whole dataset. 3,649 non-null cells holding 45 distinct strings for about 13 underlying states. This is the single best cleaning exercise in the file.",
+    "all_values_as_typed": {
+      "PO Received & Delivered": 1495,
+      "Open": 743,
+      "PO RECEIVED & DELIVERED": 269,
+      "Closed": 252,
+      "CLOSED": 190,
+      "Not Received": 92,
+      "PO RECEIVED": 83,
+      "NOT RECEIVED": 68,
+      "OPEN": 63,
+      "PO Received": 60,
+      "Work in Progress": 48,
+      "Budgetary": 32,
+      "LOST": 30,
+      "Order Confirmed": 22,
+      "BUDGETARY": 22,
+      "PENDING": 17,
+      "Po Received & Delivered": 16,
+      "PO received & Delivered": 16,
+      "On Hold": 14,
+      "UNDER DISCUSSION": 14,
+      "Lost": 12,
+      "LOA": 10,
+      "Cancel": 10,
+      "Work in progress": 10,
+      "PO Not Received": 10,
+      "RETENDER": 9,
+      "Pending": 6,
+      "RFQ Submitted": 5,
+      "HANDED OVER TO [KEY ACCOUNT]": 5,
+      "Retender": 5,
+      "CANCELED": 3,
+      "ON HOLD": 3,
+      "LOA RECEIVED": 3,
+      "CANCELLED": 1,
+      "UNDER HOLD": 1,
+      "Cancelled": 1,
+      "CANCEL": 1,
+      "Supply-Kol": 1,
+      "Handed over to [Key Account]": 1,
+      "Bill": 1,
+      "Quotation submitted": 1,
+      "Under Discussion": 1,
+      "lost": 1,
+      "LOA Received": 1,
+      "PO RECEIVED & Delivered": 1
+    },
+    "_not_in_the_data": {
+      "Verbally Confirmed": "Never appears in STATUS. It turns up in the QUOTE NO. column instead, as \"verbally confirmed\" and \"Quoted Verbally\".",
+      "Closed/Not Received": "Never appears as a literal value. The real strings are \"Not Received\" (92), \"NOT RECEIVED\" (68) and \"PO Not Received\" (10), separate from \"Closed\" (252) and \"CLOSED\" (190)."
+    },
+    "_not_reproduced": {
+      "HANDED OVER TO [KEY ACCOUNT] / Handed over to [Key Account]": "6 rows. Names a real customer, so it is left out of a public repo. No substitute is put in its place."
+    },
+    "_states": {
+      "delivered": [
+        "PO Received & Delivered",
+        "PO RECEIVED & DELIVERED",
+        "Po Received & Delivered",
+        "PO received & Delivered",
+        "PO RECEIVED & Delivered"
+      ],
+      "order_in_progress": [
+        "Open",
+        "OPEN",
+        "PO Received",
+        "PO RECEIVED",
+        "Work in Progress",
+        "Work in progress",
+        "Order Confirmed",
+        "LOA",
+        "LOA RECEIVED",
+        "LOA Received",
+        "PENDING",
+        "Pending"
+      ],
+      "order_stopped": [
+        "Cancel",
+        "CANCEL",
+        "CANCELED",
+        "CANCELLED",
+        "Cancelled",
+        "On Hold",
+        "ON HOLD",
+        "UNDER HOLD"
+      ],
+      "quote_live": [
+        "Open",
+        "OPEN",
+        "Budgetary",
+        "BUDGETARY",
+        "Under Discussion",
+        "UNDER DISCUSSION",
+        "RFQ Submitted",
+        "Quotation submitted",
+        "Retender",
+        "RETENDER"
+      ],
+      "quote_dead": [
+        "Lost",
+        "LOST",
+        "lost",
+        "Closed",
+        "CLOSED",
+        "Not Received",
+        "NOT RECEIVED",
+        "PO Not Received"
+      ],
+      "unusable": [
+        "Supply-Kol",
+        "Bill"
+      ],
+      "_note": "\"Open\" appears in BOTH order_in_progress and quote_live, and that is the point: the source uses it for a live quotation and for an order not yet delivered, with nothing in the cell to tell them apart. The cleaning step splits it on whether the row carries a PO or job number, and that split moves rows between the two states, so it changes the conversion rate. Listing it under only one state made the ambiguity disappear from the generated data."
+    }
+  },
+  "vertical_vocabulary": {
+    "_basis": "VERTICAL column, the three product lines only. Two different taxonomies share this column: a geography axis (Domestic / Export) and an internal-vs-external-customer axis.",
+    "by_line": {
+      "Domestic": {
+        "Grating": 174,
+        "Pressure Vessel": 376,
+        "Pultrusion": 138
+      },
+      "Export": {
+        "Grating": 11,
+        "Pressure Vessel": 67,
+        "Pultrusion": 28
+      },
+      "Export-Non-KAG": {
+        "Grating": 0,
+        "Pressure Vessel": 27,
+        "Pultrusion": 0
+      },
+      "Export-KAG": {
+        "Grating": 0,
+        "Pressure Vessel": 1,
+        "Pultrusion": 0
+      },
+      "External": {
+        "Grating": 1,
+        "Pressure Vessel": 103,
+        "Pultrusion": 0
+      },
+      "Internal": {
+        "Grating": 82,
+        "Pressure Vessel": 0,
+        "Pultrusion": 314
+      }
+    },
+    "fill_rate_won_rows_pct": 87.4,
+    "stray_value": "One row holds a person's name in the Vertical column.",
+    "deemed_export": {
+      "rows_whole_register": 31,
+      "rows_in_these_three_lines": 0
+    }
+  },
+  "quote_no_format": {
+    "tokens_by_line": {
+      "FV": {
+        "Pressure Vessel": 213,
+        "Pultrusion": 0,
+        "Grating": 0
+      },
+      "FG": {
+        "Pressure Vessel": 0,
+        "Pultrusion": 290,
+        "Grating": 122
+      },
+      "PG": {
+        "Pressure Vessel": 0,
+        "Pultrusion": 47,
+        "Grating": 15
+      },
+      "FGS": {
+        "Pressure Vessel": 2,
+        "Pultrusion": 29,
+        "Grating": 58
+      },
+      "FGP": {
+        "Pressure Vessel": 0,
+        "Pultrusion": 3,
+        "Grating": 1
+      },
+      "G&P": {
+        "Pressure Vessel": 0,
+        "Pultrusion": 0,
+        "Grating": 3
+      },
+      "KAG": {
+        "Pressure Vessel": 1,
+        "Pultrusion": 1,
+        "Grating": 1
+      }
+    },
+    "separator_counts": {
+      "/": 697,
+      "-": 89
+    },
+    "revision_marker_share_pct": 8.1,
+    "revision_forms_seen": [
+      "VQ-KAG-001-24-25 REV -03",
+      "VQ-KAG-003-24-25  REV-01",
+      "VQ/KAG/006/24-25 REV-05",
+      "VQ-KAG-012-24-25  Rev.8",
+      "VQ/KAG/092/23-24 rev -D"
+    ],
+    "non_conforming_values_seen": [
+      "KAG-24-25",
+      "NNN-24-25",
+      "NNN-24-2",
+      "T-NNN-23",
+      "KAG/NNN/23",
+      "KAG/NN /20.01.2025",
+      "KOLKATA",
+      "GEM/2024/B/[REF]",
+      "Open",
+      "po received & delivered",
+      "Rfq submitted",
+      "Closed",
+      "Work in Process",
+      "PO received",
+      "verbally confirmed",
+      "Quoted Verbally"
+    ],
+    "non_conforming_count": 353,
+    "_prefix_note": "The real prefix is the real company's own two-letter initialism and is NOT reproduced; the generator uses an invented prefix (VQ). Serials shown in the examples are masked as NNN where the original was a real reference. The FORM - prefix / token / serial / financial year, both separators, the revision suffixes - is measured and intact."
+  },
+  "field_fill_rates_pct": {
+    "_basis": "Won rows only (n=1086), because a blank PO date on a row that never became an order is not a gap.",
+    "PO DATE": 68.6,
+    "DP DATE": 24.0,
+    "PO VALIDITY DATE": 1.8,
+    "QUOTE DATE": 64.5,
+    "INQUIRY DATE": 16.0,
+    "PO / QUOTE VALUE": 63.6,
+    "PAYMENT TERMS": 3.4,
+    "INCOTERMS": 45.5,
+    "ITEM QTY": 26.6,
+    "STATUS": 99.8,
+    "VERTICAL": 87.4,
+    "LD": 7.2,
+    "_all_three_line_rows": {
+      "PO DATE": 46.3,
+      "DP DATE": 16.3,
+      "QUOTE DATE": 67.5,
+      "PO / QUOTE VALUE": 61.8,
+      "ITEM QTY": 22.2,
+      "LD": 5.3
+    }
+  },
+  "dp_date": {
+    "non_blank_rows": 263,
+    "parsed_as_date": 238,
+    "parseable_share_of_non_blank_pct": 90.5,
+    "free_text_values": {
+      "AS EARLY AS POSSIBLE": 5,
+      "8–10 weeks from receipt of PO, drawing approval and manufacturing clearance": 3,
+      "As early as possible": 2,
+      "Immediate": 2,
+      "31-11-2024": 1,
+      "6 WEEKS DATE OF ISSUAL OF PO": 1,
+      "WEDNESDAY(25/03/2026)": 1,
+      "IMMEDIATE": 1,
+      "NA": 1,
+      "Delivery within 10–12 weeks from confirmation along with design & drawing acceptance": 1,
+      "AEAP": 1,
+      "With In4-6Weeks": 1,
+      "7-10 days from date of order": 1,
+      "4-6 WEEKS FROM THE DATE OF RECEIPT OF PO, DRG APPROVAL": 1,
+      "7-10 Days (Extra charges applicable)": 1,
+      "17.11.2026 (Within 60 days from the date of received of PO)": 1,
+      "Last weeks of August 2026": 1
+    },
+    "_note": "31-11-2024 is an impossible date - November has 30 days. WEDNESDAY(25/03/2026) carries a weekday that can be checked against the date."
+  },
+  "incoterms": {
+    "Ex-Works [FACTORY]": 221,
+    "EX-WORKS [FACTORY]": 170,
+    "EX-WORKS KOLKATA": 121,
+    "Ex-Works": 31,
+    "Ex-works [FACTORY]": 30,
+    "FOB": 26,
+    "ExW": 26,
+    "EX-WORKS [PLANT 2]": 21,
+    "Ex works": 20,
+    "FOR": 17,
+    "EXW": 17,
+    "FOR [SITE]": 16,
+    "_note": "Same term in up to five casings. No row anywhere reads 'FOB Kolkata'."
+  },
+  "quote_from": {
+    "Kolkata": 1400,
+    "NA": 10,
+    "KOLKATA": 3,
+    "[PLANT 2]": 1,
+    "_note": "No row anywhere reads 'Kolkata HO'."
+  },
+  "concerned_person": {
+    "distinct_values": 32,
+    "_note": "The same people appear as full names and as initials - 'Harita Nambiar' 178 rows and 'PP' 127 rows are one person recorded two ways. One cell holds two names joined by a slash. Real names are not reproduced in the synthetic register; the duplicate-identity pattern is.",
+    "shape": "mix of full names and 2-3 letter initials, plus one 'Name A /Name B' cell"
+  },
+  "payment_terms": {
+    "distinct_heavily_free_text": true,
+    "fill_rate_won_rows_pct": 3.4,
+    "real_values_seen": [
+      "45 Days Credit",
+      "100%Against Delivery",
+      "Current dated cheque against delivery",
+      "100% payment advance along with PO",
+      "Payment due immediately from date of invoice",
+      "100% prior to dispatch of materials",
+      "45 days credit – MSME / 90 days – non-MSME",
+      "100% basic payment + 100% taxes & duties within 45 days from date of delivery",
+      "30% advance with PO balance, 70% post material readiness",
+      "100% Payment Prior to Dispatch",
+      "100% Prior to Dispatch",
+      "100% against the receipt of materials",
+      "25% on order confirmation, 25% after fabrication of cylinders/heads against photographs, 45% before dispatch, 5% upon arrival (as agreed via email attachment).",
+      "100% through TReDS-style platform ([PLATFORM]), with 180 usance days from date of dispatch, with 10% PBG valid for 24 months",
+      "To be short closed."
+    ]
+  },
+  "item_qty": {
+    "n": 94,
+    "p10": 2,
+    "p25": 3,
+    "p50": 18,
+    "p75": 51,
+    "p90": 220,
+    "p95": 461,
+    "p99": 846,
+    "max": 2650
+  },
+  "known_bad_data_in_real_register": [
+    "A PO DATE in the year 2205.",
+    "A DP DATE of 31-11-2024, which does not exist.",
+    "Status words typed into the QUOTE NO. column on 353 rows.",
+    "Delivery months and the word 'Lost' typed into the LD column.",
+    "Payment terms text typed into the LD column.",
+    "A person's name typed into the VERTICAL column.",
+    "Job number cells holding several numbers at once, separated by /, &, or a newline.",
+    "Excel fill-down incrementing a penalty percentage 5.00 -> 5.05 across 6 rows.",
+    "Two unrelated taxonomies sharing the VERTICAL column: Domestic/Export and Internal/External."
+  ],
+  "row_count_basis": {
+    "_decision": "FY24-25 shape. Pultrusion is the largest line, Grating the smallest.",
+    "fy24_25_measured": {
+      "Pressure Vessel": 166,
+      "Pultrusion": 234,
+      "Grating": 105,
+      "total": 505
+    },
+    "all_registers_measured": {
+      "Pressure Vessel": 692,
+      "Pultrusion": 600,
+      "Grating": 318,
+      "total": 1610
+    },
+    "used": {
+      "Pressure Vessel": 204,
+      "Pultrusion": 277,
+      "Grating": 144,
+      "total": 625
+    },
+    "_note": "The brief sets 204/277/144. That is not the measured FY24-25 count, but it is the measured FY24-25 SHAPE - Pultrusion largest, Grating smallest - scaled up to 625 rows. The all-registers shape is the other way round (Pressure Vessel largest), and the two are not blended anywhere. Stated in the README."
+  },
+  "vessel_size_lead_factor": {
+    "_source": "MEASURED, but from a DIFFERENT dataset: the production trackers used for the production cycle-time project, not the nine quotation registers. Same company, same vessel sizes. Planned days per job against the 2.0 m base.",
+    "factors": {
+      "1400": 0.67,
+      "1600": 0.8,
+      "1800": 0.96,
+      "2000": 1.0,
+      "2400": 1.33,
+      "2600": 2.05,
+      "3000": 1.51
+    },
+    "_caveats": "1600 is NOT measured - there were no 1.6 m jobs in the trackers, so it is interpolated between 1.4 and 1.8 and should not be quoted as a finding. 3000 sits on two jobs only and is lower than 2600, which is almost certainly sample size rather than physics; the README says so.",
+    "_why_borrowed": "The quotation registers hold no vessel diameter, so they cannot answer whether lead time scales with size. Without this, query 4 returns noise. Borrowing across sources is recorded here and in the README rather than passed off as coming from the registers."
+  },
+  "_confidentiality": "Every real identifier found in the source has been replaced with an invented equivalent before anything in this project was written: nine people (four real full names, seven real sets of initials), the real factory town, the real second works location, one unresolved real site abbreviation, a real customer abbreviation used as a quote-number token and as a status value, two named receivables platforms, and real government tender reference serials. Replacements were checked token by token against all 4,712 real rows and appear in none of them. confidentiality_sweep.py re-runs the check."
+}
