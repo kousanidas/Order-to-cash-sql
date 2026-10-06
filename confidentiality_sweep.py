@@ -146,7 +146,7 @@ def cells():
 def files():
     """Every (path, line_no, line) in the shipped supporting files."""
     for root, dirs, names in os.walk(HERE):
-            dirs[:] = [d for d in dirs if d not in ("__pycache__", ".git")]
+        dirs[:] = [d for d in dirs if d not in ("__pycache__", ".git")]
         for n in names:
             if n.endswith(".db"):
                 continue
